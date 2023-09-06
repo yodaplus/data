@@ -1,0 +1,6707 @@
+[
+    {
+        "Portname": "AABENRAA, DENMARK",
+        "Portcode_with space": "DK AAB",
+        "Country": "Denmark",
+        "Portcode": "DKAAB",
+        "Country Code": "DK",
+        "Comma": 9,
+        "City\/Location": "AABENRAA"
+    },
+    {
+        "Portname": "ABERDEEN, WA",
+        "Portcode_with space": "US GHR",
+        "Country": "United States of America",
+        "Portcode": "USGHR",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "ABERDEEN"
+    },
+    {
+        "Portname": "ABIDJAN, COTE D'IVOIRE",
+        "Portcode_with space": "CI ABJ",
+        "Country": "Cote D'ivoire",
+        "Portcode": "CIABJ",
+        "Country Code": "CI",
+        "Comma": 8,
+        "City\/Location": "ABIDJAN"
+    },
+    {
+        "Portname": "ABU KAMMASH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ABK",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYABK",
+        "Country Code": "LY",
+        "Comma": 12,
+        "City\/Location": "ABU KAMMASH"
+    },
+    {
+        "Portname": "ACAJUTLA, EL SALVADOR",
+        "Portcode_with space": "SV AQJ",
+        "Country": "El Salvador",
+        "Portcode": "SVAQJ",
+        "Country Code": "SV",
+        "Comma": 9,
+        "City\/Location": "ACAJUTLA"
+    },
+    {
+        "Portname": "ACAPULCO, MEXICO",
+        "Portcode_with space": "MX ACA",
+        "Country": "Mexico",
+        "Portcode": "MXACA",
+        "Country Code": "MX",
+        "Comma": 9,
+        "City\/Location": "ACAPULCO"
+    },
+    {
+        "Portname": "ADELAIDE, AUSTRALIA",
+        "Portcode_with space": "AU ADL",
+        "Country": "Australia",
+        "Portcode": "AUADL",
+        "Country Code": "AU",
+        "Comma": 9,
+        "City\/Location": "ADELAIDE"
+    },
+    {
+        "Portname": "ADEN, YEMEN",
+        "Portcode_with space": "YM ADE",
+        "Country": "Yemen",
+        "Portcode": "YMADE",
+        "Country Code": "YM",
+        "Comma": 5,
+        "City\/Location": "ADEN"
+    },
+    {
+        "Portname": "AL BAYDA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ABA",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYABA",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "AL BAYDA"
+    },
+    {
+        "Portname": "AL KHUMS, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY KHO",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYKHO",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "AL KHUMS"
+    },
+    {
+        "Portname": "ALAMEDA, CA",
+        "Portcode_with space": "US NGZ",
+        "Country": "United States of America",
+        "Portcode": "USNGZ",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "ALAMEDA"
+    },
+    {
+        "Portname": "AL'AQABAH, JORDAN",
+        "Portcode_with space": "JO AQJ",
+        "Country": "Jordan",
+        "Portcode": "JOAQJ",
+        "Country Code": "JO",
+        "Comma": 10,
+        "City\/Location": "AL'AQABAH"
+    },
+    {
+        "Portname": "ALBANIA",
+        "Portcode_with space": "AL ***",
+        "Country": "Albania",
+        "Portcode": "AL***",
+        "Country Code": "AL",
+        "Comma": "#VALUE!",
+        "City\/Location": "ALBANIA"
+    },
+    {
+        "Portname": "ALBANY, AUSTRALIA",
+        "Portcode_with space": "AU ALH",
+        "Country": "Australia",
+        "Portcode": "AUALH",
+        "Country Code": "AU",
+        "Comma": 7,
+        "City\/Location": "ALBANY"
+    },
+    {
+        "Portname": "ALGERIA",
+        "Portcode_with space": "DZ ***",
+        "Country": "Algeria",
+        "Portcode": "DZ***",
+        "Country Code": "DZ",
+        "Comma": "#VALUE!",
+        "City\/Location": "ALGERIA"
+    },
+    {
+        "Portname": "AMERICAN SAMOA",
+        "Portcode_with space": "AS ***",
+        "Country": "American Samoa",
+        "Portcode": "AS***",
+        "Country Code": "AS",
+        "Comma": "#VALUE!",
+        "City\/Location": "AMERICAN SAMOA"
+    },
+    {
+        "Portname": "AMPALA, HONDURAS",
+        "Portcode_with space": "HN AMP",
+        "Country": "Honduras",
+        "Portcode": "HNAMP",
+        "Country Code": "HN",
+        "Comma": 7,
+        "City\/Location": "AMPALA"
+    },
+    {
+        "Portname": "AMSTERDAM, NETHERLANDS",
+        "Portcode_with space": "NL AMS",
+        "Country": "Netherlands",
+        "Portcode": "NLAMS",
+        "Country Code": "NL",
+        "Comma": 10,
+        "City\/Location": "AMSTERDAM"
+    },
+    {
+        "Portname": "AMUAY, VENEZUELA",
+        "Portcode_with space": "VE AMY",
+        "Country": "Venezuela",
+        "Portcode": "VEAMY",
+        "Country Code": "VE",
+        "Comma": 6,
+        "City\/Location": "AMUAY"
+    },
+    {
+        "Portname": "ANACORTES, WA",
+        "Portcode_with space": "US OTS",
+        "Country": "United States of America",
+        "Portcode": "USOTS",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "ANACORTES"
+    },
+    {
+        "Portname": "ANCHORAGE, AK",
+        "Portcode_with space": "US ANC",
+        "Country": "United States of America",
+        "Portcode": "USANC",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "ANCHORAGE"
+    },
+    {
+        "Portname": "ANGOLA",
+        "Portcode_with space": "AO ***",
+        "Country": "Angola",
+        "Portcode": "AO***",
+        "Country Code": "AO",
+        "Comma": "#VALUE!",
+        "City\/Location": "ANGOLA"
+    },
+    {
+        "Portname": "ANGRA DOS REIS, BRAZIL",
+        "Portcode_with space": "BR ADR",
+        "Country": "Brazil",
+        "Portcode": "BRADR",
+        "Country Code": "BR",
+        "Comma": 15,
+        "City\/Location": "ANGRA DOS REIS"
+    },
+    {
+        "Portname": "ANTIGUA AND BARBUDA",
+        "Portcode_with space": "AG ***",
+        "Country": "Antigua and Barbuda",
+        "Portcode": "AG***",
+        "Country Code": "AG",
+        "Comma": "#VALUE!",
+        "City\/Location": "ANTIGUA AND BARBUDA"
+    },
+    {
+        "Portname": "ANTWERP, BELGIUM",
+        "Portcode_with space": "BE ANR",
+        "Country": "Belgium",
+        "Portcode": "BEANR",
+        "Country Code": "BE",
+        "Comma": 8,
+        "City\/Location": "ANTWERP"
+    },
+    {
+        "Portname": "AOMORI, JAPAN",
+        "Portcode_with space": "JP AOJ",
+        "Country": "Japan",
+        "Portcode": "JPAOJ",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "AOMORI"
+    },
+    {
+        "Portname": "APIA, WESTERN SAMOA",
+        "Portcode_with space": "WS APW",
+        "Country": "Samoa",
+        "Portcode": "WSAPW",
+        "Country Code": "WS",
+        "Comma": 5,
+        "City\/Location": "APIA"
+    },
+    {
+        "Portname": "APOLLONIA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY APO",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYAPO",
+        "Country Code": "LY",
+        "Comma": 10,
+        "City\/Location": "APOLLONIA"
+    },
+    {
+        "Portname": "ARGENTINA",
+        "Portcode_with space": "AR ***",
+        "Country": "Argentina",
+        "Portcode": "AR***",
+        "Country Code": "AR",
+        "Comma": "#VALUE!",
+        "City\/Location": "ARGENTINA"
+    },
+    {
+        "Portname": "ARICA, CHILE",
+        "Portcode_with space": "CL ARI",
+        "Country": "Chile",
+        "Portcode": "CLARI",
+        "Country Code": "CL",
+        "Comma": 6,
+        "City\/Location": "ARICA"
+    },
+    {
+        "Portname": "ARUBA",
+        "Portcode_with space": "AW ***",
+        "Country": "Aruba",
+        "Portcode": "AW***",
+        "Country Code": "AW",
+        "Comma": "#VALUE!",
+        "City\/Location": "ARUBA"
+    },
+    {
+        "Portname": "AS SIDR, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ESI",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYESI",
+        "Country Code": "LY",
+        "Comma": 8,
+        "City\/Location": "AS SIDR"
+    },
+    {
+        "Portname": "ASSENS, DENMARK",
+        "Portcode_with space": "DK ASN",
+        "Country": "Denmark",
+        "Portcode": "DKASN",
+        "Country Code": "DK",
+        "Comma": 7,
+        "City\/Location": "ASSENS"
+    },
+    {
+        "Portname": "ASTORIA, OR",
+        "Portcode_with space": "US AST",
+        "Country": "United States of America",
+        "Portcode": "USAST",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "ASTORIA"
+    },
+    {
+        "Portname": "ASUNCION, PARAGUAY",
+        "Portcode_with space": "PY ASU",
+        "Country": "Paraguay",
+        "Portcode": "PYASU",
+        "Country Code": "PY",
+        "Comma": 9,
+        "City\/Location": "ASUNCION"
+    },
+    {
+        "Portname": "AUCKLAND, NEW ZEALAND",
+        "Portcode_with space": "NZ AKL",
+        "Country": "New Zealand",
+        "Portcode": "NZAKL",
+        "Country Code": "NZ",
+        "Comma": 9,
+        "City\/Location": "AUCKLAND"
+    },
+    {
+        "Portname": "AUSTRALIA",
+        "Portcode_with space": "AU ***",
+        "Country": "Australia",
+        "Portcode": "AU***",
+        "Country Code": "AU",
+        "Comma": "#VALUE!",
+        "City\/Location": "AUSTRALIA"
+    },
+    {
+        "Portname": "AVILA BEACH, CA",
+        "Portcode_with space": "US CSL",
+        "Country": "United States of America",
+        "Portcode": "USCSL",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "AVILA BEACH"
+    },
+    {
+        "Portname": "AZ ZAWIYAH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ZAW",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYZAW",
+        "Country Code": "LY",
+        "Comma": 11,
+        "City\/Location": "AZ ZAWIYAH"
+    },
+    {
+        "Portname": "BACOLOD, PHILIPPINES",
+        "Portcode_with space": "PH BCD",
+        "Country": "Philippines",
+        "Portcode": "PHBCD",
+        "Country Code": "PH",
+        "Comma": 8,
+        "City\/Location": "BACOLOD"
+    },
+    {
+        "Portname": "BAHAMAS",
+        "Portcode_with space": "BS ***",
+        "Country": "Bahamas",
+        "Portcode": "BS***",
+        "Country Code": "BS",
+        "Comma": "#VALUE!",
+        "City\/Location": "BAHAMAS"
+    },
+    {
+        "Portname": "BAHIA BLANCA, ARGENTINA",
+        "Portcode_with space": "AR BHI",
+        "Country": "Argentina",
+        "Portcode": "ARBHI",
+        "Country Code": "AR",
+        "Comma": 13,
+        "City\/Location": "BAHIA BLANCA"
+    },
+    {
+        "Portname": "BAHRAIN",
+        "Portcode_with space": "BH ***",
+        "Country": "Bahrain",
+        "Portcode": "BH***",
+        "Country Code": "BH",
+        "Comma": "#VALUE!",
+        "City\/Location": "BAHRAIN"
+    },
+    {
+        "Portname": "BALAO, ECUADOR",
+        "Portcode_with space": "EC EBL",
+        "Country": "Ecuador",
+        "Portcode": "ECEBL",
+        "Country Code": "EC",
+        "Comma": 6,
+        "City\/Location": "BALAO"
+    },
+    {
+        "Portname": "BALBOA, PANAMA",
+        "Portcode_with space": "PA BLB",
+        "Country": "Panama",
+        "Portcode": "PABLB",
+        "Country Code": "PA",
+        "Comma": 7,
+        "City\/Location": "BALBOA"
+    },
+    {
+        "Portname": "BALTIMORE, MD",
+        "Portcode_with space": "US BAL",
+        "Country": "United States of America",
+        "Portcode": "USBAL",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "BALTIMORE"
+    },
+    {
+        "Portname": "BANGALORE, INDIA",
+        "Portcode_with space": "IN BLR",
+        "Country": "India",
+        "Portcode": "INBLR",
+        "Country Code": "IN",
+        "Comma": 10,
+        "City\/Location": "BANGALORE"
+    },
+    {
+        "Portname": "BANGLADESH",
+        "Portcode_with space": "BD ***",
+        "Country": "Bangladesh",
+        "Portcode": "BD***",
+        "Country Code": "BD",
+        "Comma": "#VALUE!",
+        "City\/Location": "BANGLADESH"
+    },
+    {
+        "Portname": "BARBADOS",
+        "Portcode_with space": "BB ***",
+        "Country": "Barbados",
+        "Portcode": "BB***",
+        "Country Code": "BB",
+        "Comma": "#VALUE!",
+        "City\/Location": "BARBADOS"
+    },
+    {
+        "Portname": "BARBERS POINT, HI",
+        "Portcode_with space": "US NAX",
+        "Country": "United States of America",
+        "Portcode": "USNAX",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "BARBERS POINT"
+    },
+    {
+        "Portname": "BARCELONA, SPAIN",
+        "Portcode_with space": "ES BCN",
+        "Country": "Spain",
+        "Portcode": "ESBCN",
+        "Country Code": "ES",
+        "Comma": 10,
+        "City\/Location": "BARCELONA"
+    },
+    {
+        "Portname": "BARDIYAH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY BAR",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYBAR",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "BARDIYAH"
+    },
+    {
+        "Portname": "BARRANQUILLA, COLOMBIA",
+        "Portcode_with space": "CO BAQ",
+        "Country": "Colombia",
+        "Portcode": "COBAQ",
+        "Country Code": "CO",
+        "Comma": 13,
+        "City\/Location": "BARRANQUILLA"
+    },
+    {
+        "Portname": "BATON ROUGE, LA",
+        "Portcode_with space": "US BTR",
+        "Country": "United States of America",
+        "Portcode": "USBTR",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "BATON ROUGE"
+    },
+    {
+        "Portname": "BAYOVAR, PERU",
+        "Portcode_with space": "PE PUB",
+        "Country": "Peru",
+        "Portcode": "PEPUB",
+        "Country Code": "PE",
+        "Comma": 8,
+        "City\/Location": "BAYOVAR"
+    },
+    {
+        "Portname": "BAYPORT, TX",
+        "Portcode_with space": "US BPX",
+        "Country": "United States of America",
+        "Portcode": "USBPX",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "BAYPORT"
+    },
+    {
+        "Portname": "BAYTOWN, TX",
+        "Portcode_with space": "US HPY",
+        "Country": "United States of America",
+        "Portcode": "USHPY",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "BAYTOWN"
+    },
+    {
+        "Portname": "BAYUQUAN, CHINA",
+        "Portcode_with space": "CN BYQ",
+        "Country": "People's Republic of China",
+        "Portcode": "CNBYQ",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "BAYUQUAN"
+    },
+    {
+        "Portname": "BEAUFORT, NC",
+        "Portcode_with space": "US BFO",
+        "Country": "United States of America",
+        "Portcode": "USBFO",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "BEAUFORT"
+    },
+    {
+        "Portname": "BEAUMONT, TX",
+        "Portcode_with space": "US BPT",
+        "Country": "United States of America",
+        "Portcode": "USBPT",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "BEAUMONT"
+    },
+    {
+        "Portname": "BEIRUT, LEBANON",
+        "Portcode_with space": "LB BEY",
+        "Country": "Lebanon",
+        "Portcode": "LBBEY",
+        "Country Code": "LB",
+        "Comma": 7,
+        "City\/Location": "BEIRUT"
+    },
+    {
+        "Portname": "BELEM, BRAZIL",
+        "Portcode_with space": "BR BEL",
+        "Country": "Brazil",
+        "Portcode": "BRBEL",
+        "Country Code": "BR",
+        "Comma": 6,
+        "City\/Location": "BELEM"
+    },
+    {
+        "Portname": "BELGIUM",
+        "Portcode_with space": "BE ***",
+        "Country": "Belgium",
+        "Portcode": "BE***",
+        "Country Code": "BE",
+        "Comma": "#VALUE!",
+        "City\/Location": "BELGIUM"
+    },
+    {
+        "Portname": "BELLINGHAM, WA",
+        "Portcode_with space": "US BLI",
+        "Country": "United States of America",
+        "Portcode": "USBLI",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "BELLINGHAM"
+    },
+    {
+        "Portname": "BENICA, CA",
+        "Portcode_with space": "US BNC",
+        "Country": "United States of America",
+        "Portcode": "USBNC",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "BENICA"
+    },
+    {
+        "Portname": "BINGAZI, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY BEN",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYBEN",
+        "Country Code": "LY",
+        "Comma": 8,
+        "City\/Location": "BINGAZI"
+    },
+    {
+        "Portname": "BITUNG, INDONESIA",
+        "Portcode_with space": "ID BIT",
+        "Country": "Indonesia",
+        "Portcode": "IDBIT",
+        "Country Code": "ID",
+        "Comma": 7,
+        "City\/Location": "BITUNG"
+    },
+    {
+        "Portname": "BONTANG, INDONESIA",
+        "Portcode_with space": "ID BXT",
+        "Country": "Indonesia",
+        "Portcode": "IDBXT",
+        "Country Code": "ID",
+        "Comma": 8,
+        "City\/Location": "BONTANG"
+    },
+    {
+        "Portname": "BOSTON, MA",
+        "Portcode_with space": "US BOS",
+        "Country": "United States of America",
+        "Portcode": "USBOS",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "BOSTON"
+    },
+    {
+        "Portname": "BRAZIL",
+        "Portcode_with space": "BR ***",
+        "Country": "Brazil",
+        "Portcode": "BR***",
+        "Country Code": "BR",
+        "Comma": "#VALUE!",
+        "City\/Location": "BRAZIL"
+    },
+    {
+        "Portname": "BREMERTON, WA",
+        "Portcode_with space": "US PWT",
+        "Country": "United States of America",
+        "Portcode": "USPWT",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "BREMERTON"
+    },
+    {
+        "Portname": "BRISBANE, AUSTRALIA",
+        "Portcode_with space": "AU BNE",
+        "Country": "Australia",
+        "Portcode": "AUBNE",
+        "Country Code": "AU",
+        "Comma": 9,
+        "City\/Location": "BRISBANE"
+    },
+    {
+        "Portname": "BROWNSVILLE, TX",
+        "Portcode_with space": "US BRO",
+        "Country": "United States of America",
+        "Portcode": "USBRO",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "BROWNSVILLE"
+    },
+    {
+        "Portname": "BRUNSWICK, GA",
+        "Portcode_with space": "US SSI",
+        "Country": "United States of America",
+        "Portcode": "USSSI",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "BRUNSWICK"
+    },
+    {
+        "Portname": "BU'AYRAT AL HASUN, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY BUA",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYBUA",
+        "Country Code": "LY",
+        "Comma": 18,
+        "City\/Location": "BU'AYRAT AL HASUN"
+    },
+    {
+        "Portname": "BUENAVENTURA, COLOMBIA",
+        "Portcode_with space": "CO BUN",
+        "Country": "Colombia",
+        "Portcode": "COBUN",
+        "Country Code": "CO",
+        "Comma": 13,
+        "City\/Location": "BUENAVENTURA"
+    },
+    {
+        "Portname": "BUENOS AIRES, ARGENTINA",
+        "Portcode_with space": "AR BUE",
+        "Country": "Argentina",
+        "Portcode": "ARBUE",
+        "Country Code": "AR",
+        "Comma": 13,
+        "City\/Location": "BUENOS AIRES"
+    },
+    {
+        "Portname": "BULGARIA",
+        "Portcode_with space": "BG ***",
+        "Country": "Bulgaria",
+        "Portcode": "BG***",
+        "Country Code": "BG",
+        "Comma": "#VALUE!",
+        "City\/Location": "BULGARIA"
+    },
+    {
+        "Portname": "BUNDABERG, AUSTRALIA",
+        "Portcode_with space": "AU BDB",
+        "Country": "Australia",
+        "Portcode": "AUBDB",
+        "Country Code": "AU",
+        "Comma": 10,
+        "City\/Location": "BUNDABERG"
+    },
+    {
+        "Portname": "BURNABY, CANADA",
+        "Portcode_with space": "CA BUB",
+        "Country": "Canada",
+        "Portcode": "CABUB",
+        "Country Code": "CA",
+        "Comma": 8,
+        "City\/Location": "BURNABY"
+    },
+    {
+        "Portname": "BUSAN, SOUTH KOREA",
+        "Portcode_with space": "KR PUS",
+        "Country": "Republic of Korea",
+        "Portcode": "KRPUS",
+        "Country Code": "KR",
+        "Comma": 6,
+        "City\/Location": "BUSAN"
+    },
+    {
+        "Portname": "BUTTERWORTH, MALAYSIA",
+        "Portcode_with space": "MY WOT",
+        "Country": "Malaysia",
+        "Portcode": "MYWOT",
+        "Country Code": "MY",
+        "Comma": 12,
+        "City\/Location": "BUTTERWORTH"
+    },
+    {
+        "Portname": "CABO SAN LUCAS, MEXICO",
+        "Portcode_with space": "MX CSL",
+        "Country": "Mexico",
+        "Portcode": "MXCSL",
+        "Country Code": "MX",
+        "Comma": 15,
+        "City\/Location": "CABO SAN LUCAS"
+    },
+    {
+        "Portname": "CALBAYOG, PHILIPPINES",
+        "Portcode_with space": "PH CBY",
+        "Country": "Philippines",
+        "Portcode": "PHCBY",
+        "Country Code": "PH",
+        "Comma": 9,
+        "City\/Location": "CALBAYOG"
+    },
+    {
+        "Portname": "CALDERA, CHILE",
+        "Portcode_with space": "CL CLD",
+        "Country": "Chile",
+        "Portcode": "CLCLD",
+        "Country Code": "CL",
+        "Comma": 8,
+        "City\/Location": "CALDERA"
+    },
+    {
+        "Portname": "CALDERA, COSTA RICA",
+        "Portcode_with space": "CR CAL",
+        "Country": "Costa Rica",
+        "Portcode": "CRCAL",
+        "Country Code": "CR",
+        "Comma": 8,
+        "City\/Location": "CALDERA"
+    },
+    {
+        "Portname": "CALETA CORDOBA, ARGENTINA",
+        "Portcode_with space": "AR CLC",
+        "Country": "Argentina",
+        "Portcode": "ARCLC",
+        "Country Code": "AR",
+        "Comma": 15,
+        "City\/Location": "CALETA CORDOBA"
+    },
+    {
+        "Portname": "CALETA PATILLOS, CHILE",
+        "Portcode_with space": "CL CAL",
+        "Country": "Chile",
+        "Portcode": "CLCAL",
+        "Country Code": "CL",
+        "Comma": 16,
+        "City\/Location": "CALETA PATILLOS"
+    },
+    {
+        "Portname": "CALLAO, PERU",
+        "Portcode_with space": "PE CLL",
+        "Country": "Peru",
+        "Portcode": "PECLL",
+        "Country Code": "PE",
+        "Comma": 7,
+        "City\/Location": "CALLAO"
+    },
+    {
+        "Portname": "CAM PHA, VIET NAM",
+        "Portcode_with space": "VN CPH",
+        "Country": "Viet Nam",
+        "Portcode": "VNCPH",
+        "Country Code": "VN",
+        "Comma": 8,
+        "City\/Location": "CAM PHA"
+    },
+    {
+        "Portname": "CAMDEN, NJ",
+        "Portcode_with space": "US CDE",
+        "Country": "United States of America",
+        "Portcode": "USCDE",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "CAMDEN"
+    },
+    {
+        "Portname": "CAMEROON",
+        "Portcode_with space": "CM ***",
+        "Country": "Cameroon",
+        "Portcode": "CM***",
+        "Country Code": "CM",
+        "Comma": "#VALUE!",
+        "City\/Location": "CAMEROON"
+    },
+    {
+        "Portname": "CANADA",
+        "Portcode_with space": "CA ***",
+        "Country": "Canada",
+        "Portcode": "CA***",
+        "Country Code": "CA",
+        "Comma": "#VALUE!",
+        "City\/Location": "CANADA"
+    },
+    {
+        "Portname": "CAPE CANAVERAL, FL",
+        "Portcode_with space": "US CPV",
+        "Country": "United States of America",
+        "Portcode": "USCPV",
+        "Country Code": "US",
+        "Comma": 15,
+        "City\/Location": "CAPE CANAVERAL"
+    },
+    {
+        "Portname": "CAPE HINCHINBROOK, AK",
+        "Portcode_with space": "US 4HB",
+        "Country": "United States of America",
+        "Portcode": "US4HB",
+        "Country Code": "US",
+        "Comma": 18,
+        "City\/Location": "CAPE HINCHINBROOK"
+    },
+    {
+        "Portname": "CARPINTERIA, CA",
+        "Portcode_with space": "US CPT",
+        "Country": "United States of America",
+        "Portcode": "USCPT",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "CARPINTERIA"
+    },
+    {
+        "Portname": "CARTAGENA, COLOMBIA",
+        "Portcode_with space": "CO CTG",
+        "Country": "Colombia",
+        "Portcode": "COCTG",
+        "Country Code": "CO",
+        "Comma": 10,
+        "City\/Location": "CARTAGENA"
+    },
+    {
+        "Portname": "CATALINA ISLAND, CA",
+        "Portcode_with space": "US CKI",
+        "Country": "United States of America",
+        "Portcode": "USCKI",
+        "Country Code": "US",
+        "Comma": 16,
+        "City\/Location": "CATALINA ISLAND"
+    },
+    {
+        "Portname": "CEBU, PHILIPPINES",
+        "Portcode_with space": "PH CEB",
+        "Country": "Philippines",
+        "Portcode": "PHCEB",
+        "Country Code": "PH",
+        "Comma": 5,
+        "City\/Location": "CEBU"
+    },
+    {
+        "Portname": "CEDROS ISLAND, MEXICO",
+        "Portcode_with space": "MX CRI",
+        "Country": "Mexico",
+        "Portcode": "MXCRI",
+        "Country Code": "MX",
+        "Comma": 14,
+        "City\/Location": "CEDROS ISLAND"
+    },
+    {
+        "Portname": "CEDROS, MEXICO",
+        "Portcode_with space": "MX CED",
+        "Country": "Mexico",
+        "Portcode": "MXCED",
+        "Country Code": "MX",
+        "Comma": 7,
+        "City\/Location": "CEDROS"
+    },
+    {
+        "Portname": "CHANGSHU POINT, CHINA",
+        "Portcode_with space": "CN CGS",
+        "Country": "People's Republic of China",
+        "Portcode": "CNCGS",
+        "Country Code": "CN",
+        "Comma": 15,
+        "City\/Location": "CHANGSHU POINT"
+    },
+    {
+        "Portname": "CHANGZHOU, CHINA",
+        "Portcode_with space": "CN CZX",
+        "Country": "People's Republic of China",
+        "Portcode": "CNCZX",
+        "Country Code": "CN",
+        "Comma": 10,
+        "City\/Location": "CHANGZHOU"
+    },
+    {
+        "Portname": "CHAOZHOU, CHINA",
+        "Portcode_with space": "CN COZ",
+        "Country": "People's Republic of China",
+        "Portcode": "CNCOZ",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "CHAOZHOU"
+    },
+    {
+        "Portname": "CHARLESTON, SC",
+        "Portcode_with space": "US CHS",
+        "Country": "United States of America",
+        "Portcode": "USCHS",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "CHARLESTON"
+    },
+    {
+        "Portname": "CHEMAINUS, CANADA",
+        "Portcode_with space": "CA CHM",
+        "Country": "Canada",
+        "Portcode": "CACHM",
+        "Country Code": "CA",
+        "Comma": 10,
+        "City\/Location": "CHEMAINUS"
+    },
+    {
+        "Portname": "CHENNAI, INDIA",
+        "Portcode_with space": "IN MAA",
+        "Country": "India",
+        "Portcode": "INMAA",
+        "Country Code": "IN",
+        "Comma": 8,
+        "City\/Location": "CHENNAI"
+    },
+    {
+        "Portname": "CHERRY POINT, WA",
+        "Portcode_with space": "US CP4",
+        "Country": "United States of America",
+        "Portcode": "USCP4",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "CHERRY POINT"
+    },
+    {
+        "Portname": "CHIBA, JAPAN",
+        "Portcode_with space": "JP CHB",
+        "Country": "Japan",
+        "Portcode": "JPCHB",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "CHIBA"
+    },
+    {
+        "Portname": "CHILE",
+        "Portcode_with space": "CL ***",
+        "Country": "Chile",
+        "Portcode": "CL***",
+        "Country Code": "CL",
+        "Comma": "#VALUE!",
+        "City\/Location": "CHILE"
+    },
+    {
+        "Portname": "CHIMBOTE, PERU",
+        "Portcode_with space": "PE CHM",
+        "Country": "Peru",
+        "Portcode": "PECHM",
+        "Country Code": "PE",
+        "Comma": 9,
+        "City\/Location": "CHIMBOTE"
+    },
+    {
+        "Portname": "CHITA, JAPAN",
+        "Portcode_with space": "JP CTA",
+        "Country": "Japan",
+        "Portcode": "JPCTA",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "CHITA"
+    },
+    {
+        "Portname": "CHITTAGONG, BANGLADESH",
+        "Portcode_with space": "BD CGP",
+        "Country": "Bangladesh",
+        "Portcode": "BDCGP",
+        "Country Code": "BD",
+        "Comma": 11,
+        "City\/Location": "CHITTAGONG"
+    },
+    {
+        "Portname": "CIENFUEGOS, CUBA",
+        "Portcode_with space": "CU CFG",
+        "Country": "Cuba",
+        "Portcode": "CUCFG",
+        "Country Code": "CU",
+        "Comma": 11,
+        "City\/Location": "CIENFUEGOS"
+    },
+    {
+        "Portname": "CLATSKANIE, OR",
+        "Portcode_with space": "US YCK",
+        "Country": "United States of America",
+        "Portcode": "USYCK",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "CLATSKANIE"
+    },
+    {
+        "Portname": "COLOMBIA",
+        "Portcode_with space": "CO ***",
+        "Country": "Colombia",
+        "Portcode": "CO***",
+        "Country Code": "CO",
+        "Comma": "#VALUE!",
+        "City\/Location": "COLOMBIA"
+    },
+    {
+        "Portname": "COMODORO RIVADAVIA, ARGENTINA",
+        "Portcode_with space": "AR CRD",
+        "Country": "Argentina",
+        "Portcode": "ARCRD",
+        "Country Code": "AR",
+        "Comma": 19,
+        "City\/Location": "COMODORO RIVADAVIA"
+    },
+    {
+        "Portname": "CONCHAN, PERU",
+        "Portcode_with space": "PE CON",
+        "Country": "Peru",
+        "Portcode": "PECON",
+        "Country Code": "PE",
+        "Comma": 8,
+        "City\/Location": "CONCHAN"
+    },
+    {
+        "Portname": "CONVENT, LA",
+        "Portcode_with space": "US CEN",
+        "Country": "United States of America",
+        "Portcode": "USCEN",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "CONVENT"
+    },
+    {
+        "Portname": "COOS BAY, OR",
+        "Portcode_with space": "US COB",
+        "Country": "United States of America",
+        "Portcode": "USCOB",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "COOS BAY"
+    },
+    {
+        "Portname": "COPENHAGEN, DENMARK",
+        "Portcode_with space": "DK CPH",
+        "Country": "Denmark",
+        "Portcode": "DKCPH",
+        "Country Code": "DK",
+        "Comma": 11,
+        "City\/Location": "COPENHAGEN"
+    },
+    {
+        "Portname": "CORINTO, NICARAGUA",
+        "Portcode_with space": "NI CIO",
+        "Country": "Nicaragua",
+        "Portcode": "NICIO",
+        "Country Code": "NI",
+        "Comma": 8,
+        "City\/Location": "CORINTO"
+    },
+    {
+        "Portname": "CORONEL, CHILE",
+        "Portcode_with space": "CL CNL",
+        "Country": "Chile",
+        "Portcode": "CLCNL",
+        "Country Code": "CL",
+        "Comma": 8,
+        "City\/Location": "CORONEL"
+    },
+    {
+        "Portname": "CORPUS CHRISTI, TX",
+        "Portcode_with space": "US CRP",
+        "Country": "United States of America",
+        "Portcode": "USCRP",
+        "Country Code": "US",
+        "Comma": 15,
+        "City\/Location": "CORPUS CHRISTI"
+    },
+    {
+        "Portname": "COSTA RICA",
+        "Portcode_with space": "CR ***",
+        "Country": "Costa Rica",
+        "Portcode": "CR***",
+        "Country Code": "CR",
+        "Comma": "#VALUE!",
+        "City\/Location": "COSTA RICA"
+    },
+    {
+        "Portname": "COTE D'IVOIRE",
+        "Portcode_with space": "CI ***",
+        "Country": "Cote D'ivoire",
+        "Portcode": "CI***",
+        "Country Code": "CI",
+        "Comma": "#VALUE!",
+        "City\/Location": "COTE D'IVOIRE"
+    },
+    {
+        "Portname": "COVENAS, COLOMBIA",
+        "Portcode_with space": "CO COV",
+        "Country": "Colombia",
+        "Portcode": "COCOV",
+        "Country Code": "CO",
+        "Comma": 8,
+        "City\/Location": "COVENAS"
+    },
+    {
+        "Portname": "CRISTOBAL, PANAMA",
+        "Portcode_with space": "PA 4CB",
+        "Country": "Panama",
+        "Portcode": "PA4CB",
+        "Country Code": "PA",
+        "Comma": 10,
+        "City\/Location": "CRISTOBAL"
+    },
+    {
+        "Portname": "CROATIA",
+        "Portcode_with space": "HR ***",
+        "Country": "Republic of Croatia",
+        "Portcode": "HR***",
+        "Country Code": "HR",
+        "Comma": "#VALUE!",
+        "City\/Location": "CROATIA"
+    },
+    {
+        "Portname": "CROFTON, CANADA",
+        "Portcode_with space": "CA CRO",
+        "Country": "Canada",
+        "Portcode": "CACRO",
+        "Country Code": "CA",
+        "Comma": 8,
+        "City\/Location": "CROFTON"
+    },
+    {
+        "Portname": "CUBA",
+        "Portcode_with space": "CU ***",
+        "Country": "Cuba",
+        "Portcode": "CU***",
+        "Country Code": "CU",
+        "Comma": "#VALUE!",
+        "City\/Location": "CUBA"
+    },
+    {
+        "Portname": "CURACAO, NETHERLANDS ANTILLES",
+        "Portcode_with space": "AN CUR",
+        "Country": "Netherlands Antilles",
+        "Portcode": "ANCUR",
+        "Country Code": "AN",
+        "Comma": 8,
+        "City\/Location": "CURACAO"
+    },
+    {
+        "Portname": "CYPRUS",
+        "Portcode_with space": "CY ***",
+        "Country": "Cyprus",
+        "Portcode": "CY***",
+        "Country Code": "CY",
+        "Comma": "#VALUE!",
+        "City\/Location": "CYPRUS"
+    },
+    {
+        "Portname": "DALIAN, CHINA",
+        "Portcode_with space": "CN DLC",
+        "Country": "People's Republic of China",
+        "Portcode": "CNDLC",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "DALIAN"
+    },
+    {
+        "Portname": "DANGJIN-GUN, SOUTH KOREA",
+        "Portcode_with space": "KR TJI",
+        "Country": "Republic of Korea",
+        "Portcode": "KRTJI",
+        "Country Code": "KR",
+        "Comma": 12,
+        "City\/Location": "DANGJIN-GUN"
+    },
+    {
+        "Portname": "DARNAH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY DRX",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYDRX",
+        "Country Code": "LY",
+        "Comma": 7,
+        "City\/Location": "DARNAH"
+    },
+    {
+        "Portname": "DARWIN, AUSTRALIA",
+        "Portcode_with space": "AU DRW",
+        "Country": "Australia",
+        "Portcode": "AUDRW",
+        "Country Code": "AU",
+        "Comma": 7,
+        "City\/Location": "DARWIN"
+    },
+    {
+        "Portname": "DAVAO, PHILIPPINES",
+        "Portcode_with space": "PH DVO",
+        "Country": "Philippines",
+        "Portcode": "PHDVO",
+        "Country Code": "PH",
+        "Comma": 6,
+        "City\/Location": "DAVAO"
+    },
+    {
+        "Portname": "DEMOCRATIC REPUBLIC OF THE CONGO",
+        "Portcode_with space": "CD ***",
+        "Country": "Congo, The Democratic Republic of The",
+        "Portcode": "CD***",
+        "Country Code": "CD",
+        "Comma": "#VALUE!",
+        "City\/Location": "DEMOCRATIC REPUBLIC OF THE CONGO"
+    },
+    {
+        "Portname": "DENMARK",
+        "Portcode_with space": "DK ***",
+        "Country": "Denmark",
+        "Portcode": "DK***",
+        "Country Code": "DK",
+        "Comma": "#VALUE!",
+        "City\/Location": "DENMARK"
+    },
+    {
+        "Portname": "DIEGO GARCIA, BRITISH INDIAN OCEAN TERRITORY",
+        "Portcode_with space": "IO DGA",
+        "Country": "British Indian Ocean Territory",
+        "Portcode": "IODGA",
+        "Country Code": "IO",
+        "Comma": 13,
+        "City\/Location": "DIEGO GARCIA"
+    },
+    {
+        "Portname": "DILISKELESI, TURKEY",
+        "Portcode_with space": "TR DIL",
+        "Country": "Turkey",
+        "Portcode": "TRDIL",
+        "Country Code": "TR",
+        "Comma": 12,
+        "City\/Location": "DILISKELESI"
+    },
+    {
+        "Portname": "DOMINICAN REPUBLIC",
+        "Portcode_with space": "DO ***",
+        "Country": "Dominican Republic",
+        "Portcode": "DO***",
+        "Country Code": "DO",
+        "Comma": "#VALUE!",
+        "City\/Location": "DOMINICAN REPUBLIC"
+    },
+    {
+        "Portname": "DONALDSONVILLE, LA",
+        "Portcode_with space": "US DNA",
+        "Country": "United States of America",
+        "Portcode": "USDNA",
+        "Country Code": "US",
+        "Comma": 15,
+        "City\/Location": "DONALDSONVILLE"
+    },
+    {
+        "Portname": "DONGHAE, SOUTH KOREA",
+        "Portcode_with space": "KR TGH",
+        "Country": "Republic of Korea",
+        "Portcode": "KRTGH",
+        "Country Code": "KR",
+        "Comma": 8,
+        "City\/Location": "DONGHAE"
+    },
+    {
+        "Portname": "DRIFT RIVER, AK",
+        "Portcode_with space": "US DRF",
+        "Country": "United States of America",
+        "Portcode": "USDRF",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "DRIFT RIVER"
+    },
+    {
+        "Portname": "DUMAI, INDONESIA",
+        "Portcode_with space": "ID DUM",
+        "Country": "Indonesia",
+        "Portcode": "IDDUM",
+        "Country Code": "ID",
+        "Comma": 6,
+        "City\/Location": "DUMAI"
+    },
+    {
+        "Portname": "DUNCAN BAY, CANADA",
+        "Portcode_with space": "CA DCN",
+        "Country": "Canada",
+        "Portcode": "CADCN",
+        "Country Code": "CA",
+        "Comma": 11,
+        "City\/Location": "DUNCAN BAY"
+    },
+    {
+        "Portname": "DUTCH HARBOR, AK",
+        "Portcode_with space": "US DUT",
+        "Country": "United States of America",
+        "Portcode": "USDUT",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "DUTCH HARBOR"
+    },
+    {
+        "Portname": "ECUADOR",
+        "Portcode_with space": "EC ***",
+        "Country": "Ecuador",
+        "Portcode": "EC***",
+        "Country Code": "EC",
+        "Comma": "#VALUE!",
+        "City\/Location": "ECUADOR"
+    },
+    {
+        "Portname": "EDMONDS, WA",
+        "Portcode_with space": "US EOW",
+        "Country": "United States of America",
+        "Portcode": "USEOW",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "EDMONDS"
+    },
+    {
+        "Portname": "EGYPT",
+        "Portcode_with space": "EG ***",
+        "Country": "Egypt",
+        "Portcode": "EG***",
+        "Country Code": "EG",
+        "Comma": "#VALUE!",
+        "City\/Location": "EGYPT"
+    },
+    {
+        "Portname": "EL BOURI, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY BOU",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYBOU",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "EL BOURI"
+    },
+    {
+        "Portname": "EL CHOMS, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ELK",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYELK",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "EL CHOMS"
+    },
+    {
+        "Portname": "EL SALVADOR",
+        "Portcode_with space": "SV ***",
+        "Country": "El Salvador",
+        "Portcode": "SV***",
+        "Country Code": "SV",
+        "Comma": "#VALUE!",
+        "City\/Location": "EL SALVADOR"
+    },
+    {
+        "Portname": "EL SEGUNDO, CA",
+        "Portcode_with space": "US ELS",
+        "Country": "United States of America",
+        "Portcode": "USELS",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "EL SEGUNDO"
+    },
+    {
+        "Portname": "ENSENADA, MEXICO",
+        "Portcode_with space": "MX ESE",
+        "Country": "Mexico",
+        "Portcode": "MXESE",
+        "Country Code": "MX",
+        "Comma": 9,
+        "City\/Location": "ENSENADA"
+    },
+    {
+        "Portname": "EREGLI, TURKEY",
+        "Portcode_with space": "TR ELI",
+        "Country": "Turkey",
+        "Portcode": "TRELI",
+        "Country Code": "TR",
+        "Comma": 7,
+        "City\/Location": "EREGLI"
+    },
+    {
+        "Portname": "ESMERALDAS, ECUADOR",
+        "Portcode_with space": "EC ESM",
+        "Country": "Ecuador",
+        "Portcode": "ECESM",
+        "Country Code": "EC",
+        "Comma": 11,
+        "City\/Location": "ESMERALDAS"
+    },
+    {
+        "Portname": "ESTERO BAY, CA",
+        "Portcode_with space": "US ESB",
+        "Country": "United States of America",
+        "Portcode": "USESB",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "ESTERO BAY"
+    },
+    {
+        "Portname": "ESTONIA",
+        "Portcode_with space": "EE ***",
+        "Country": "Estonia",
+        "Portcode": "EE***",
+        "Country Code": "EE",
+        "Comma": "#VALUE!",
+        "City\/Location": "ESTONIA"
+    },
+    {
+        "Portname": "ETHIOPIA",
+        "Portcode_with space": "ET ***",
+        "Country": "Ethiopia",
+        "Portcode": "ET***",
+        "Country Code": "ET",
+        "Comma": "#VALUE!",
+        "City\/Location": "ETHIOPIA"
+    },
+    {
+        "Portname": "EUREKA, CA",
+        "Portcode_with space": "US EKA",
+        "Country": "United States of America",
+        "Portcode": "USEKA",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "EUREKA"
+    },
+    {
+        "Portname": "EVERETT, WA",
+        "Portcode_with space": "US PAE",
+        "Country": "United States of America",
+        "Portcode": "USPAE",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "EVERETT"
+    },
+    {
+        "Portname": "FANGCHENG, CHINA",
+        "Portcode_with space": "CN FAN",
+        "Country": "People's Republic of China",
+        "Portcode": "CNFAN",
+        "Country Code": "CN",
+        "Comma": 10,
+        "City\/Location": "FANGCHENG"
+    },
+    {
+        "Portname": "FEDERATED STATES OF MICRONESIA",
+        "Portcode_with space": "FM ***",
+        "Country": "Micronesia, Federated States of",
+        "Portcode": "FM***",
+        "Country Code": "FM",
+        "Comma": "#VALUE!",
+        "City\/Location": "FEDERATED STATES OF MICRONESIA"
+    },
+    {
+        "Portname": "FERNDALE, WA",
+        "Portcode_with space": "US FDT",
+        "Country": "United States of America",
+        "Portcode": "USFDT",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "FERNDALE"
+    },
+    {
+        "Portname": "FIJI",
+        "Portcode_with space": "FJ ***",
+        "Country": "Fiji",
+        "Portcode": "FJ***",
+        "Country Code": "FJ",
+        "Comma": "#VALUE!",
+        "City\/Location": "FIJI"
+    },
+    {
+        "Portname": "FINLAND",
+        "Portcode_with space": "FI ***",
+        "Country": "Finland",
+        "Portcode": "FI***",
+        "Country Code": "FI",
+        "Comma": "#VALUE!",
+        "City\/Location": "FINLAND"
+    },
+    {
+        "Portname": "FORT LAUDERDALE, FL",
+        "Portcode_with space": "US FLL",
+        "Country": "United States of America",
+        "Portcode": "USFLL",
+        "Country Code": "US",
+        "Comma": 16,
+        "City\/Location": "FORT LAUDERDALE"
+    },
+    {
+        "Portname": "FORT PIERCE, FL",
+        "Portcode_with space": "US FPR",
+        "Country": "United States of America",
+        "Portcode": "USFPR",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "FORT PIERCE"
+    },
+    {
+        "Portname": "FRANCE",
+        "Portcode_with space": "FR ***",
+        "Country": "France",
+        "Portcode": "FR***",
+        "Country Code": "FR",
+        "Comma": "#VALUE!",
+        "City\/Location": "FRANCE"
+    },
+    {
+        "Portname": "FREEPORT, BAHAMAS",
+        "Portcode_with space": "BS FPO",
+        "Country": "Bahamas",
+        "Portcode": "BSFPO",
+        "Country Code": "BS",
+        "Comma": 9,
+        "City\/Location": "FREEPORT"
+    },
+    {
+        "Portname": "FREEPORT, TX",
+        "Portcode_with space": "US FPO",
+        "Country": "United States of America",
+        "Portcode": "USFPO",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "FREEPORT"
+    },
+    {
+        "Portname": "FREMANTLE, AUSTRALIA",
+        "Portcode_with space": "AU FRE",
+        "Country": "Australia",
+        "Portcode": "AUFRE",
+        "Country Code": "AU",
+        "Comma": 10,
+        "City\/Location": "FREMANTLE"
+    },
+    {
+        "Portname": "FRENCH POLYNESIA",
+        "Portcode_with space": "PF ***",
+        "Country": "French Polynesia",
+        "Portcode": "PF***",
+        "Country Code": "PF",
+        "Comma": "#VALUE!",
+        "City\/Location": "FRENCH POLYNESIA"
+    },
+    {
+        "Portname": "FUJI, JAPAN",
+        "Portcode_with space": "JP FUI",
+        "Country": "Japan",
+        "Portcode": "JPFUI",
+        "Country Code": "JP",
+        "Comma": 5,
+        "City\/Location": "FUJI"
+    },
+    {
+        "Portname": "FUKISHIMA, JAPAN",
+        "Portcode_with space": "JP FKF",
+        "Country": "Japan",
+        "Portcode": "JPFKF",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "FUKISHIMA"
+    },
+    {
+        "Portname": "FUKUYAMA, JAPAN",
+        "Portcode_with space": "JP FKY",
+        "Country": "Japan",
+        "Portcode": "JPFKY",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "FUKUYAMA"
+    },
+    {
+        "Portname": "FUQING, CHINA",
+        "Portcode_with space": "CN FUG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNFUG",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "FUQING"
+    },
+    {
+        "Portname": "FUZHOU, CHINA",
+        "Portcode_with space": "CN FOC",
+        "Country": "People's Republic of China",
+        "Portcode": "CNFOC",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "FUZHOU"
+    },
+    {
+        "Portname": "GABON",
+        "Portcode_with space": "GA ***",
+        "Country": "Gabon",
+        "Portcode": "GA***",
+        "Country Code": "GA",
+        "Comma": "#VALUE!",
+        "City\/Location": "GABON"
+    },
+    {
+        "Portname": "GALVESTON, TX",
+        "Portcode_with space": "US GLS",
+        "Country": "United States of America",
+        "Portcode": "USGLS",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "GALVESTON"
+    },
+    {
+        "Portname": "GAMBA, GABON",
+        "Portcode_with space": "GA GAX",
+        "Country": "Gabon",
+        "Portcode": "GAGAX",
+        "Country Code": "GA",
+        "Comma": 6,
+        "City\/Location": "GAMBA"
+    },
+    {
+        "Portname": "GAOGANG, CHINA",
+        "Portcode_with space": "CN GAO",
+        "Country": "People's Republic of China",
+        "Portcode": "CNGAO",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "GAOGANG"
+    },
+    {
+        "Portname": "GDANSK, POLAND",
+        "Portcode_with space": "PL GDN",
+        "Country": "Poland",
+        "Portcode": "PLGDN",
+        "Country Code": "PL",
+        "Comma": 7,
+        "City\/Location": "GDANSK"
+    },
+    {
+        "Portname": "GEELONG, AUSTRALIA",
+        "Portcode_with space": "AU GEX",
+        "Country": "Australia",
+        "Portcode": "AUGEX",
+        "Country Code": "AU",
+        "Comma": 8,
+        "City\/Location": "GEELONG"
+    },
+    {
+        "Portname": "GERALDTON, AUSTRALIA",
+        "Portcode_with space": "AU GET",
+        "Country": "Australia",
+        "Portcode": "AUGET",
+        "Country Code": "AU",
+        "Comma": 10,
+        "City\/Location": "GERALDTON"
+    },
+    {
+        "Portname": "GERMANY",
+        "Portcode_with space": "DE ***",
+        "Country": "Germany",
+        "Portcode": "DE***",
+        "Country Code": "DE",
+        "Comma": "#VALUE!",
+        "City\/Location": "GERMANY"
+    },
+    {
+        "Portname": "GHENT, BELGIUM",
+        "Portcode_with space": "BE GNE",
+        "Country": "Belgium",
+        "Portcode": "BEGNE",
+        "Country Code": "BE",
+        "Comma": 6,
+        "City\/Location": "GHENT"
+    },
+    {
+        "Portname": "GOLD RIVER, CANADA",
+        "Portcode_with space": "CA GOR",
+        "Country": "Canada",
+        "Portcode": "CAGOR",
+        "Country Code": "CA",
+        "Comma": 11,
+        "City\/Location": "GOLD RIVER"
+    },
+    {
+        "Portname": "GRAMERCY, LA",
+        "Portcode_with space": "US GRY",
+        "Country": "United States of America",
+        "Portcode": "USGRY",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "GRAMERCY"
+    },
+    {
+        "Portname": "GRAYS HARBOR, WA",
+        "Portcode_with space": "US GHC",
+        "Country": "United States of America",
+        "Portcode": "USGHC",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "GRAYS HARBOR"
+    },
+    {
+        "Portname": "GREECE",
+        "Portcode_with space": "GR ***",
+        "Country": "Greece",
+        "Portcode": "GR***",
+        "Country Code": "GR",
+        "Comma": "#VALUE!",
+        "City\/Location": "GREECE"
+    },
+    {
+        "Portname": "GREYS HARBOR, WA",
+        "Portcode_with space": "US GHC",
+        "Country": "United States of America",
+        "Portcode": "USGHC",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "GREYS HARBOR"
+    },
+    {
+        "Portname": "GUAM",
+        "Portcode_with space": "GU ***",
+        "Country": "Guam",
+        "Portcode": "GU***",
+        "Country Code": "GU",
+        "Comma": "#VALUE!",
+        "City\/Location": "GUAM"
+    },
+    {
+        "Portname": "GUANGZHOU, CHINA",
+        "Portcode_with space": "CN CAN",
+        "Country": "People's Republic of China",
+        "Portcode": "CNCAN",
+        "Country Code": "CN",
+        "Comma": 10,
+        "City\/Location": "GUANGZHOU"
+    },
+    {
+        "Portname": "GUATEMALA",
+        "Portcode_with space": "GT ***",
+        "Country": "Guatemala",
+        "Portcode": "GT***",
+        "Country Code": "GT",
+        "Comma": "#VALUE!",
+        "City\/Location": "GUATEMALA"
+    },
+    {
+        "Portname": "GUAYAQUIL, ECUADOR",
+        "Portcode_with space": "EC GYE",
+        "Country": "Ecuador",
+        "Portcode": "ECGYE",
+        "Country Code": "EC",
+        "Comma": 10,
+        "City\/Location": "GUAYAQUIL"
+    },
+    {
+        "Portname": "GUAYMAS, MEXICO",
+        "Portcode_with space": "MX GYM",
+        "Country": "Mexico",
+        "Portcode": "MXGYM",
+        "Country Code": "MX",
+        "Comma": 8,
+        "City\/Location": "GUAYMAS"
+    },
+    {
+        "Portname": "GUINEA",
+        "Portcode_with space": "GN ***",
+        "Country": "Guinea",
+        "Portcode": "GN***",
+        "Country Code": "GN",
+        "Comma": "#VALUE!",
+        "City\/Location": "GUINEA"
+    },
+    {
+        "Portname": "GULFITO, COSTA RICA",
+        "Portcode_with space": "CR GLF",
+        "Country": "Costa Rica",
+        "Portcode": "CRGLF",
+        "Country Code": "CR",
+        "Comma": 8,
+        "City\/Location": "GULFITO"
+    },
+    {
+        "Portname": "GULFPORT, MS",
+        "Portcode_with space": "US GPT",
+        "Country": "United States of America",
+        "Portcode": "USGPT",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "GULFPORT"
+    },
+    {
+        "Portname": "GUNSAN, SOUTH KOREA",
+        "Portcode_with space": "KR KUV",
+        "Country": "Republic of Korea",
+        "Portcode": "KRKUV",
+        "Country Code": "KR",
+        "Comma": 7,
+        "City\/Location": "GUNSAN"
+    },
+    {
+        "Portname": "GUYANA",
+        "Portcode_with space": "GY ***",
+        "Country": "Guyana",
+        "Portcode": "GY***",
+        "Country Code": "GY",
+        "Comma": "#VALUE!",
+        "City\/Location": "GUYANA"
+    },
+    {
+        "Portname": "GWANGYANG, SOUTH KOREA",
+        "Portcode_with space": "KR KAN",
+        "Country": "Republic of Korea",
+        "Portcode": "KRKAN",
+        "Country Code": "KR",
+        "Comma": 10,
+        "City\/Location": "GWANGYANG"
+    },
+    {
+        "Portname": "HACHINOHE, JAPAN",
+        "Portcode_with space": "JP HHE",
+        "Country": "Japan",
+        "Portcode": "JPHHE",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "HACHINOHE"
+    },
+    {
+        "Portname": "HAINES, AK",
+        "Portcode_with space": "US HNS",
+        "Country": "United States of America",
+        "Portcode": "USHNS",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "HAINES"
+    },
+    {
+        "Portname": "HAKATA, JAPAN",
+        "Portcode_with space": "JP HTD",
+        "Country": "Japan",
+        "Portcode": "JPHTD",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "HAKATA"
+    },
+    {
+        "Portname": "HALIFAX, CANADA",
+        "Portcode_with space": "CA HAL",
+        "Country": "Canada",
+        "Portcode": "CAHAL",
+        "Country Code": "CA",
+        "Comma": 8,
+        "City\/Location": "HALIFAX"
+    },
+    {
+        "Portname": "HAMPTON ROADS, VA",
+        "Portcode_with space": "US PHF",
+        "Country": "United States of America",
+        "Portcode": "USPHF",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "HAMPTON ROADS"
+    },
+    {
+        "Portname": "HARMAC, CANADA",
+        "Portcode_with space": "CA HMC",
+        "Country": "Canada",
+        "Portcode": "CAHMC",
+        "Country Code": "CA",
+        "Comma": 7,
+        "City\/Location": "HARMAC"
+    },
+    {
+        "Portname": "HAWK INLET, AK",
+        "Portcode_with space": "US HZZ",
+        "Country": "United States of America",
+        "Portcode": "USHZZ",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "HAWK INLET"
+    },
+    {
+        "Portname": "HIGASHIHARIMA, JAPAN",
+        "Portcode_with space": "JP HHR",
+        "Country": "Japan",
+        "Portcode": "JPHHR",
+        "Country Code": "JP",
+        "Comma": 14,
+        "City\/Location": "HIGASHIHARIMA"
+    },
+    {
+        "Portname": "HIKOSHIMA, JAPAN",
+        "Portcode_with space": "JP HIS",
+        "Country": "Japan",
+        "Portcode": "JPHIS",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "HIKOSHIMA"
+    },
+    {
+        "Portname": "HILO, HI",
+        "Portcode_with space": "US ITO",
+        "Country": "United States of America",
+        "Portcode": "USITO",
+        "Country Code": "US",
+        "Comma": 5,
+        "City\/Location": "HILO"
+    },
+    {
+        "Portname": "HIROSHIMA, JAPAN",
+        "Portcode_with space": "JP HIJ",
+        "Country": "Japan",
+        "Portcode": "JPHIJ",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "HIROSHIMA"
+    },
+    {
+        "Portname": "HITACHINAKA, JAPAN",
+        "Portcode_with space": "JP HIC",
+        "Country": "Japan",
+        "Portcode": "JPHIC",
+        "Country Code": "JP",
+        "Comma": 12,
+        "City\/Location": "HITACHINAKA"
+    },
+    {
+        "Portname": "HOKUTO, JAPAN",
+        "Portcode_with space": "JP HOO",
+        "Country": "Japan",
+        "Portcode": "JPHOO",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "HOKUTO"
+    },
+    {
+        "Portname": "HOMER, AK",
+        "Portcode_with space": "US HOM",
+        "Country": "United States of America",
+        "Portcode": "USHOM",
+        "Country Code": "US",
+        "Comma": 6,
+        "City\/Location": "HOMER"
+    },
+    {
+        "Portname": "HONDURAS",
+        "Portcode_with space": "HN ***",
+        "Country": "Honduras",
+        "Portcode": "HN***",
+        "Country Code": "HN",
+        "Comma": "#VALUE!",
+        "City\/Location": "HONDURAS"
+    },
+    {
+        "Portname": "HONG KONG",
+        "Portcode_with space": "HK ***",
+        "Country": "Hong Kong",
+        "Portcode": "HK***",
+        "Country Code": "HK",
+        "Comma": "#VALUE!",
+        "City\/Location": "HONG KONG"
+    },
+    {
+        "Portname": "HONOLULU, HI",
+        "Portcode_with space": "US HNL",
+        "Country": "United States of America",
+        "Portcode": "USHNL",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "HONOLULU"
+    },
+    {
+        "Portname": "HOQUIAM, WA",
+        "Portcode_with space": "US HQM",
+        "Country": "United States of America",
+        "Portcode": "USHQM",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "HOQUIAM"
+    },
+    {
+        "Portname": "HOUSTON, TX",
+        "Portcode_with space": "US HOU",
+        "Country": "United States of America",
+        "Portcode": "USHOU",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "HOUSTON"
+    },
+    {
+        "Portname": "HUNGNAM, NORTH KOREA",
+        "Portcode_with space": "KP HGM",
+        "Country": "Korea, Democratic People's Republic of",
+        "Portcode": "KPHGM",
+        "Country Code": "KP",
+        "Comma": 8,
+        "City\/Location": "HUNGNAM"
+    },
+    {
+        "Portname": "ICHIHARA, JAPAN",
+        "Portcode_with space": "JP ICH",
+        "Country": "Japan",
+        "Portcode": "JPICH",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "ICHIHARA"
+    },
+    {
+        "Portname": "ICY STRAIT POINT \/ HOONAH, AK",
+        "Portcode_with space": "US HNH",
+        "Country": "United States of America",
+        "Portcode": "USHNH",
+        "Country Code": "US",
+        "Comma": 26,
+        "City\/Location": "ICY STRAIT POINT \/ HOONAH"
+    },
+    {
+        "Portname": "ILIGAN, PHILIPPINES",
+        "Portcode_with space": "PH IGN",
+        "Country": "Philippines",
+        "Portcode": "PHIGN",
+        "Country Code": "PH",
+        "Comma": 7,
+        "City\/Location": "ILIGAN"
+    },
+    {
+        "Portname": "INCHEON, SOUTH KOREA",
+        "Portcode_with space": "KR ICH",
+        "Country": "Republic of Korea",
+        "Portcode": "KRICH",
+        "Country Code": "KR",
+        "Comma": 8,
+        "City\/Location": "INCHEON"
+    },
+    {
+        "Portname": "INDIA",
+        "Portcode_with space": "IN ***",
+        "Country": "India",
+        "Portcode": "IN***",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "INDIA"
+    },
+    {
+        "Portname": "INDONESIA",
+        "Portcode_with space": "ID ***",
+        "Country": "Indonesia",
+        "Portcode": "ID***",
+        "Country Code": "ID",
+        "Comma": "#VALUE!",
+        "City\/Location": "INDONESIA"
+    },
+    {
+        "Portname": "IQUIQUE, CHILE",
+        "Portcode_with space": "CL IQQ",
+        "Country": "Chile",
+        "Portcode": "CLIQQ",
+        "Country Code": "CL",
+        "Comma": 8,
+        "City\/Location": "IQUIQUE"
+    },
+    {
+        "Portname": "IRAGO, JAPAN",
+        "Portcode_with space": "JP IRK",
+        "Country": "Japan",
+        "Portcode": "JPIRK",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "IRAGO"
+    },
+    {
+        "Portname": "IRISH REPUBLIC",
+        "Portcode_with space": "IE ***",
+        "Country": "Ireland",
+        "Portcode": "IE***",
+        "Country Code": "IE",
+        "Comma": "#VALUE!",
+        "City\/Location": "IRISH REPUBLIC"
+    },
+    {
+        "Portname": "ISHINOMAKI, JAPAN",
+        "Portcode_with space": "JP ISM",
+        "Country": "Japan",
+        "Portcode": "JPISM",
+        "Country Code": "JP",
+        "Comma": 11,
+        "City\/Location": "ISHINOMAKI"
+    },
+    {
+        "Portname": "ISLA SAN MARCOS, MEXICO",
+        "Portcode_with space": "MX SMI",
+        "Country": "Mexico",
+        "Portcode": "MXSMI",
+        "Country Code": "MX",
+        "Comma": 16,
+        "City\/Location": "ISLA SAN MARCOS"
+    },
+    {
+        "Portname": "ISLE OF MAN",
+        "Portcode_with space": "IM ***",
+        "Country": "United Kingdom",
+        "Portcode": "IM***",
+        "Country Code": "IM",
+        "Comma": "#VALUE!",
+        "City\/Location": "ISLE OF MAN"
+    },
+    {
+        "Portname": "ISRAEL",
+        "Portcode_with space": "IL ***",
+        "Country": "Israel",
+        "Portcode": "IL***",
+        "Country Code": "IL",
+        "Comma": "#VALUE!",
+        "City\/Location": "ISRAEL"
+    },
+    {
+        "Portname": "ITALY",
+        "Portcode_with space": "IT ***",
+        "Country": "Italy",
+        "Portcode": "IT***",
+        "Country Code": "IT",
+        "Comma": "#VALUE!",
+        "City\/Location": "ITALY"
+    },
+    {
+        "Portname": "IWAKUNI, JAPAN",
+        "Portcode_with space": "JP  IWK",
+        "Country": "Japan",
+        "Portcode": "JP IWK",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "IWAKUNI"
+    },
+    {
+        "Portname": "IYOMISHIMA, JAPAN",
+        "Portcode_with space": "JP IYM",
+        "Country": "Japan",
+        "Portcode": "JPIYM",
+        "Country Code": "JP",
+        "Comma": 11,
+        "City\/Location": "IYOMISHIMA"
+    },
+    {
+        "Portname": "JACKSONVILLE, FL",
+        "Portcode_with space": "US JAX",
+        "Country": "United States of America",
+        "Portcode": "USJAX",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "JACKSONVILLE"
+    },
+    {
+        "Portname": "JAKARTA, INDONESIA",
+        "Portcode_with space": "ID JKT",
+        "Country": "Indonesia",
+        "Portcode": "IDJKT",
+        "Country Code": "ID",
+        "Comma": 8,
+        "City\/Location": "JAKARTA"
+    },
+    {
+        "Portname": "JAMAICA",
+        "Portcode_with space": "JM ***",
+        "Country": "Jamaica",
+        "Portcode": "JM***",
+        "Country Code": "JM",
+        "Comma": "#VALUE!",
+        "City\/Location": "JAMAICA"
+    },
+    {
+        "Portname": "JAPAN",
+        "Portcode_with space": "JP ***",
+        "Country": "Japan",
+        "Portcode": "JP***",
+        "Country Code": "JP",
+        "Comma": "#VALUE!",
+        "City\/Location": "JAPAN"
+    },
+    {
+        "Portname": "JIANGYIN, CHINA",
+        "Portcode_with space": "CN JIA",
+        "Country": "People's Republic of China",
+        "Portcode": "CNJIA",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "JIANGYIN"
+    },
+    {
+        "Portname": "JOHNSON ATOLL, U.S. MINOR OUTLYING ISLANDS",
+        "Portcode_with space": "UM JON",
+        "Country": "United States Minor Outlying Islands",
+        "Portcode": "UMJON",
+        "Country Code": "UM",
+        "Comma": 14,
+        "City\/Location": "JOHNSON ATOLL"
+    },
+    {
+        "Portname": "JORDAN",
+        "Portcode_with space": "JO ***",
+        "Country": "Jordan",
+        "Portcode": "JO***",
+        "Country Code": "JO",
+        "Comma": "#VALUE!",
+        "City\/Location": "JORDAN"
+    },
+    {
+        "Portname": "JUBAIL, SAUDI ARABIA",
+        "Portcode_with space": "SA JUB",
+        "Country": "Saudi Arabia",
+        "Portcode": "SAJUB",
+        "Country Code": "SA",
+        "Comma": 7,
+        "City\/Location": "JUBAIL"
+    },
+    {
+        "Portname": "JUNEAU, AK",
+        "Portcode_with space": "US JNU",
+        "Country": "United States of America",
+        "Portcode": "USJNU",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "JUNEAU"
+    },
+    {
+        "Portname": "KAGOSHIMA, JAPAN",
+        "Portcode_with space": "JP KOJ",
+        "Country": "Japan",
+        "Portcode": "JPKOJ",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "KAGOSHIMA"
+    },
+    {
+        "Portname": "KAHULUI, HI",
+        "Portcode_with space": "US OGG",
+        "Country": "United States of America",
+        "Portcode": "USOGG",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "KAHULUI"
+    },
+    {
+        "Portname": "KAKOGAWA, JAPAN",
+        "Portcode_with space": "JP KGA",
+        "Country": "Japan",
+        "Portcode": "JPKGA",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "KAKOGAWA"
+    },
+    {
+        "Portname": "KALAMA, WA",
+        "Portcode_with space": "US KAM",
+        "Country": "United States of America",
+        "Portcode": "USKAM",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "KALAMA"
+    },
+    {
+        "Portname": "KALUNDBORG, DENMARK",
+        "Portcode_with space": "DK KAL",
+        "Country": "Denmark",
+        "Portcode": "DKKAL",
+        "Country Code": "DK",
+        "Comma": 11,
+        "City\/Location": "KALUNDBORG"
+    },
+    {
+        "Portname": "KANDA, JAPAN",
+        "Portcode_with space": "JP KND",
+        "Country": "Japan",
+        "Portcode": "JPKND",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "KANDA"
+    },
+    {
+        "Portname": "KANMON, JAPAN",
+        "Portcode_with space": "JP KNM",
+        "Country": "Japan",
+        "Portcode": "JPKNM",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "KANMON"
+    },
+    {
+        "Portname": "KAOHSIUNG, TAIWAN",
+        "Portcode_with space": "TW KHH",
+        "Country": "Taiwan",
+        "Portcode": "TWKHH",
+        "Country Code": "TW",
+        "Comma": 10,
+        "City\/Location": "KAOHSIUNG"
+    },
+    {
+        "Portname": "KARACHI CONTAINER TERMINAL, PAKISTAN",
+        "Portcode_with space": "PK KCT",
+        "Country": "Pakistan",
+        "Portcode": "PKKCT",
+        "Country Code": "PK",
+        "Comma": 27,
+        "City\/Location": "KARACHI CONTAINER TERMINAL"
+    },
+    {
+        "Portname": "KARACHI, PAKISTAN",
+        "Portcode_with space": "PK KHI",
+        "Country": "Niue",
+        "Portcode": "PKKHI",
+        "Country Code": "PK",
+        "Comma": 8,
+        "City\/Location": "KARACHI"
+    },
+    {
+        "Portname": "KASHIMA, JAPAN",
+        "Portcode_with space": "JP KSM",
+        "Country": "Japan",
+        "Portcode": "JPKSM",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "KASHIMA"
+    },
+    {
+        "Portname": "KAWAIHAE, HI",
+        "Portcode_with space": "US KWH",
+        "Country": "United States of America",
+        "Portcode": "USKWH",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "KAWAIHAE"
+    },
+    {
+        "Portname": "KAWANOE, JAPAN",
+        "Portcode_with space": "JP KWN",
+        "Country": "Japan",
+        "Portcode": "JPKWN",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "KAWANOE"
+    },
+    {
+        "Portname": "KAWASAKI, JAPAN",
+        "Portcode_with space": "JP KWS",
+        "Country": "Japan",
+        "Portcode": "JPKWS",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "KAWASAKI"
+    },
+    {
+        "Portname": "KEELUNG, TAIWAN",
+        "Portcode_with space": "TW KEL",
+        "Country": "Taiwan",
+        "Portcode": "TWKEL",
+        "Country Code": "TW",
+        "Comma": 8,
+        "City\/Location": "KEELUNG"
+    },
+    {
+        "Portname": "KELANG",
+        "Portcode_with space": "MY KEL",
+        "Country": "Malaysia",
+        "Portcode": "MYKEL",
+        "Country Code": "MY",
+        "Comma": "#VALUE!",
+        "City\/Location": "KELANG"
+    },
+    {
+        "Portname": "KENAI, AK",
+        "Portcode_with space": "US ENA",
+        "Country": "United States of America",
+        "Portcode": "USENA",
+        "Country Code": "US",
+        "Comma": 6,
+        "City\/Location": "KENAI"
+    },
+    {
+        "Portname": "KENYA",
+        "Portcode_with space": "KE ***",
+        "Country": "Kenya",
+        "Portcode": "KE***",
+        "Country Code": "KE",
+        "Comma": "#VALUE!",
+        "City\/Location": "KENYA"
+    },
+    {
+        "Portname": "KETCHIKAN, AK",
+        "Portcode_with space": "US KTN",
+        "Country": "United States of America",
+        "Portcode": "USKTN",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "KETCHIKAN"
+    },
+    {
+        "Portname": "KIMITSU, JAPAN",
+        "Portcode_with space": "JP KMT",
+        "Country": "Japan",
+        "Portcode": "JPKMT",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "KIMITSU"
+    },
+    {
+        "Portname": "KINGSTON, JAMAICA",
+        "Portcode_with space": "JM KIN",
+        "Country": "Jamaica",
+        "Portcode": "JMKIN",
+        "Country Code": "JM",
+        "Comma": 9,
+        "City\/Location": "KINGSTON"
+    },
+    {
+        "Portname": "KINUURA, JAPAN",
+        "Portcode_with space": "JP KNU",
+        "Country": "Japan",
+        "Portcode": "JPKNU",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "KINUURA"
+    },
+    {
+        "Portname": "KISKA ISLAND, AK",
+        "Portcode_with space": "US KIS",
+        "Country": "United States of America",
+        "Portcode": "USKIS",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "KISKA ISLAND"
+    },
+    {
+        "Portname": "KITIMAT, CANADA",
+        "Portcode_with space": "CA KTM",
+        "Country": "Canada",
+        "Portcode": "CAKTM",
+        "Country Code": "CA",
+        "Comma": 8,
+        "City\/Location": "KITIMAT"
+    },
+    {
+        "Portname": "KLAIPEDIA, LITHUANIA",
+        "Portcode_with space": "LT KLI",
+        "Country": "Lithuania",
+        "Portcode": "LTKLI",
+        "Country Code": "LT",
+        "Comma": 10,
+        "City\/Location": "KLAIPEDIA"
+    },
+    {
+        "Portname": "KOBE, JAPAN",
+        "Portcode_with space": "JP UKB",
+        "Country": "Japan",
+        "Portcode": "JPUKB",
+        "Country Code": "JP",
+        "Comma": 5,
+        "City\/Location": "KOBE"
+    },
+    {
+        "Portname": "KODIAK, AK",
+        "Portcode_with space": "US ADQ",
+        "Country": "United States of America",
+        "Portcode": "USADQ",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "KODIAK"
+    },
+    {
+        "Portname": "KOMATSUSHIMA, JAPAN",
+        "Portcode_with space": "JP KOM",
+        "Country": "Japan",
+        "Portcode": "JPKOM",
+        "Country Code": "JP",
+        "Comma": 13,
+        "City\/Location": "KOMATSUSHIMA"
+    },
+    {
+        "Portname": "KOTA KINABALU, MALAYSIA",
+        "Portcode_with space": "MY BKI",
+        "Country": "Malaysia",
+        "Portcode": "MYBKI",
+        "Country Code": "MY",
+        "Comma": 14,
+        "City\/Location": "KOTA KINABALU"
+    },
+    {
+        "Portname": "KOZMINO PORT, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU KZM",
+        "Country": "Russian Federation",
+        "Portcode": "RUKZM",
+        "Country Code": "RU",
+        "Comma": 13,
+        "City\/Location": "KOZMINO PORT"
+    },
+    {
+        "Portname": "KUANTAN, MALAYSIA",
+        "Portcode_with space": "MY KUA",
+        "Country": "Malaysia",
+        "Portcode": "MYKUA",
+        "Country Code": "MY",
+        "Comma": 8,
+        "City\/Location": "KUANTAN"
+    },
+    {
+        "Portname": "KURE, JAPAN",
+        "Portcode_with space": "JP KRE",
+        "Country": "Japan",
+        "Portcode": "JPKRE",
+        "Country Code": "JP",
+        "Comma": 5,
+        "City\/Location": "KURE"
+    },
+    {
+        "Portname": "KUWAIT",
+        "Portcode_with space": "KW ***",
+        "Country": "Kuwait",
+        "Portcode": "KW***",
+        "Country Code": "KW",
+        "Comma": "#VALUE!",
+        "City\/Location": "KUWAIT"
+    },
+    {
+        "Portname": "KWANGYANG, SOUTH KOREA",
+        "Portcode_with space": "KR KWA",
+        "Country": "Republic of Korea",
+        "Portcode": "KRKWA",
+        "Country Code": "KR",
+        "Comma": 10,
+        "City\/Location": "KWANGYANG"
+    },
+    {
+        "Portname": "KWINANA, AUSTRALIA",
+        "Portcode_with space": "AU KWI",
+        "Country": "Australia",
+        "Portcode": "AUKWI",
+        "Country Code": "AU",
+        "Comma": 8,
+        "City\/Location": "KWINANA"
+    },
+    {
+        "Portname": "LA LIBERTAD, ECUADOR",
+        "Portcode_with space": "EC LLD",
+        "Country": "Ecuador",
+        "Portcode": "ECLLD",
+        "Country Code": "EC",
+        "Comma": 12,
+        "City\/Location": "LA LIBERTAD"
+    },
+    {
+        "Portname": "LA PALOMA, URAGUAY",
+        "Portcode_with space": "UY LAP",
+        "Country": "Uruguay",
+        "Portcode": "UYLAP",
+        "Country Code": "UY",
+        "Comma": 10,
+        "City\/Location": "LA PALOMA"
+    },
+    {
+        "Portname": "LA PAMPILLA, PERU",
+        "Portcode_with space": "PE LPP",
+        "Country": "Peru",
+        "Portcode": "PELPP",
+        "Country Code": "PE",
+        "Comma": 12,
+        "City\/Location": "LA PAMPILLA"
+    },
+    {
+        "Portname": "LA PAZ, MEXICO",
+        "Portcode_with space": "MX LAP",
+        "Country": "Mexico",
+        "Portcode": "MXLAP",
+        "Country Code": "MX",
+        "Comma": 7,
+        "City\/Location": "LA PAZ"
+    },
+    {
+        "Portname": "LAE, PAPUA NEW GUINEA",
+        "Portcode_with space": "PG LAE",
+        "Country": "Papua New Guinea",
+        "Portcode": "PGLAE",
+        "Country Code": "PG",
+        "Comma": 4,
+        "City\/Location": "LAE"
+    },
+    {
+        "Portname": "LAEM CHABANG, THAILAND",
+        "Portcode_with space": "TH LCH",
+        "Country": "Thailand",
+        "Portcode": "THLCH",
+        "Country Code": "TH",
+        "Comma": 13,
+        "City\/Location": "LAEM CHABANG"
+    },
+    {
+        "Portname": "LAHAD DATU, MALAYSIA",
+        "Portcode_with space": "MY LDU",
+        "Country": "Malaysia",
+        "Portcode": "MYLDU",
+        "Country Code": "MY",
+        "Comma": 11,
+        "City\/Location": "LAHAD DATU"
+    },
+    {
+        "Portname": "LAHAINA, HI",
+        "Portcode_with space": "US LHN",
+        "Country": "United States of America",
+        "Portcode": "USLHN",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "LAHAINA"
+    },
+    {
+        "Portname": "LAIZHOU, CHINA",
+        "Portcode_with space": "CN LZO",
+        "Country": "People's Republic of China",
+        "Portcode": "CNLZO",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "LAIZHOU"
+    },
+    {
+        "Portname": "LAKE CHARLES, LA",
+        "Portcode_with space": "US LCH",
+        "Country": "United States of America",
+        "Portcode": "USLCH",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "LAKE CHARLES"
+    },
+    {
+        "Portname": "LANSHAN, CHINA",
+        "Portcode_with space": "CN LSN",
+        "Country": "People's Republic of China",
+        "Portcode": "CNLSN",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "LANSHAN"
+    },
+    {
+        "Portname": "LAS VENTANAS, CHILE",
+        "Portcode_with space": "CL LVS",
+        "Country": "Chile",
+        "Portcode": "CLLVS",
+        "Country Code": "CL",
+        "Comma": 13,
+        "City\/Location": "LAS VENTANAS"
+    },
+    {
+        "Portname": "LAUTOKA, FIJI",
+        "Portcode_with space": "FJ LTK",
+        "Country": "Fiji",
+        "Portcode": "FJLTK",
+        "Country Code": "FJ",
+        "Comma": 8,
+        "City\/Location": "LAUTOKA"
+    },
+    {
+        "Portname": "LAZARO CARDENAS, MEXICO",
+        "Portcode_with space": "MX LZC",
+        "Country": "Mexico",
+        "Portcode": "MXLZC",
+        "Country Code": "MX",
+        "Comma": 16,
+        "City\/Location": "LAZARO CARDENAS"
+    },
+    {
+        "Portname": "LE HAVRE, FRANCE",
+        "Portcode_with space": "FR LEH",
+        "Country": "France",
+        "Portcode": "FRLEH",
+        "Country Code": "FR",
+        "Comma": 9,
+        "City\/Location": "LE HAVRE"
+    },
+    {
+        "Portname": "LEBANON",
+        "Portcode_with space": "LB ***",
+        "Country": "Lebanon",
+        "Portcode": "LB***",
+        "Country Code": "LB",
+        "Comma": "#VALUE!",
+        "City\/Location": "LEBANON"
+    },
+    {
+        "Portname": "LIANYUNGANG, CHINA",
+        "Portcode_with space": "CN LYG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNLYG",
+        "Country Code": "CN",
+        "Comma": 12,
+        "City\/Location": "LIANYUNGANG"
+    },
+    {
+        "Portname": "LIBERIA",
+        "Portcode_with space": "LR ***",
+        "Country": "Liberia",
+        "Portcode": "LR***",
+        "Country Code": "LR",
+        "Comma": "#VALUE!",
+        "City\/Location": "LIBERIA"
+    },
+    {
+        "Portname": "LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ***",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LY***",
+        "Country Code": "LY",
+        "Comma": "#VALUE!",
+        "City\/Location": "LIBYAN ARAB JAMAHIRIYA"
+    },
+    {
+        "Portname": "LIMBOH TERMINAL, CAMEROON",
+        "Portcode_with space": "CM LIT",
+        "Country": "Cameroon",
+        "Portcode": "CMLIT",
+        "Country Code": "CM",
+        "Comma": 16,
+        "City\/Location": "LIMBOH TERMINAL"
+    },
+    {
+        "Portname": "LITHUANIA",
+        "Portcode_with space": "LT ***",
+        "Country": "Lithuania",
+        "Portcode": "LT***",
+        "Country Code": "LT",
+        "Comma": "#VALUE!",
+        "City\/Location": "LITHUANIA"
+    },
+    {
+        "Portname": "LIVERPOOL, UNITED KINGDOM",
+        "Portcode_with space": "GB LIV",
+        "Country": "United Kingdom",
+        "Portcode": "GBLIV",
+        "Country Code": "GB",
+        "Comma": 10,
+        "City\/Location": "LIVERPOOL"
+    },
+    {
+        "Portname": "LONDON, UNITED KINGDOM",
+        "Portcode_with space": "GB LON",
+        "Country": "United Kingdom",
+        "Portcode": "GBLON",
+        "Country Code": "GB",
+        "Comma": 7,
+        "City\/Location": "LONDON"
+    },
+    {
+        "Portname": "LONG BEACH, CA",
+        "Portcode_with space": "US LGB",
+        "Country": "United States of America",
+        "Portcode": "USLGB",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "LONG BEACH"
+    },
+    {
+        "Portname": "LONGVIEW, WA",
+        "Portcode_with space": "US LOG",
+        "Country": "United States of America",
+        "Portcode": "USLOG",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "LONGVIEW"
+    },
+    {
+        "Portname": "LOS ANGELES, CA",
+        "Portcode_with space": "US LAX",
+        "Country": "United States of America",
+        "Portcode": "USLAX",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "LOS ANGELES"
+    },
+    {
+        "Portname": "LUCINDA, AUSTRALIA",
+        "Portcode_with space": "AU LUC",
+        "Country": "Australia",
+        "Portcode": "AULUC",
+        "Country Code": "AU",
+        "Comma": 8,
+        "City\/Location": "LUCINDA"
+    },
+    {
+        "Portname": "LYTTELTON, NEW ZEALAND",
+        "Portcode_with space": "NZ LYT",
+        "Country": "New Zealand",
+        "Portcode": "NZLYT",
+        "Country Code": "NZ",
+        "Comma": 10,
+        "City\/Location": "LYTTELTON"
+    },
+    {
+        "Portname": "MACKAY, AUSTRALIA",
+        "Portcode_with space": "AU MKY",
+        "Country": "Australia",
+        "Portcode": "AUMKY",
+        "Country Code": "AU",
+        "Comma": 7,
+        "City\/Location": "MACKAY"
+    },
+    {
+        "Portname": "MAI-LIAO, TAIWAN",
+        "Portcode_with space": "TW MLI",
+        "Country": "Taiwan",
+        "Portcode": "TWMLI",
+        "Country Code": "TW",
+        "Comma": 9,
+        "City\/Location": "MAI-LIAO"
+    },
+    {
+        "Portname": "MAIZURU, JAPAN",
+        "Portcode_with space": "JP MAI",
+        "Country": "Japan",
+        "Portcode": "JPMAI",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "MAIZURU"
+    },
+    {
+        "Portname": "MAJURO, MARSHALL ISLANDS",
+        "Portcode_with space": "MH MAJ",
+        "Country": "Marshall Islands",
+        "Portcode": "MHMAJ",
+        "Country Code": "MH",
+        "Comma": 7,
+        "City\/Location": "MAJURO"
+    },
+    {
+        "Portname": "MALAYSIA",
+        "Portcode_with space": "MY ***",
+        "Country": "Malaysia",
+        "Portcode": "MY***",
+        "Country Code": "MY",
+        "Comma": "#VALUE!",
+        "City\/Location": "MALAYSIA"
+    },
+    {
+        "Portname": "MALTA",
+        "Portcode_with space": "MT ***",
+        "Country": "Malta",
+        "Portcode": "MT***",
+        "Country Code": "MT",
+        "Comma": "#VALUE!",
+        "City\/Location": "MALTA"
+    },
+    {
+        "Portname": "MANCHESTER, WA",
+        "Portcode_with space": "US MCR",
+        "Country": "United States of America",
+        "Portcode": "USMCR",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "MANCHESTER"
+    },
+    {
+        "Portname": "MANILA, PHILIPPINES",
+        "Portcode_with space": "PH MNL",
+        "Country": "Philippines",
+        "Portcode": "PHMNL",
+        "Country Code": "PH",
+        "Comma": 7,
+        "City\/Location": "MANILA"
+    },
+    {
+        "Portname": "MANTA, ECUADOR",
+        "Portcode_with space": "EC MEC",
+        "Country": "Ecuador",
+        "Portcode": "ECMEC",
+        "Country Code": "EC",
+        "Comma": 6,
+        "City\/Location": "MANTA"
+    },
+    {
+        "Portname": "MANZANILLO, MEXICO",
+        "Portcode_with space": "MX ZLO",
+        "Country": "Mexico",
+        "Portcode": "MXZLO",
+        "Country Code": "MX",
+        "Comma": 11,
+        "City\/Location": "MANZANILLO"
+    },
+    {
+        "Portname": "MARCH POINT, WA",
+        "Portcode_with space": "US 4MP",
+        "Country": "United States of America",
+        "Portcode": "US4MP",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "MARCH POINT"
+    },
+    {
+        "Portname": "MARSA BREGA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY LMQ",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYLMQ",
+        "Country Code": "LY",
+        "Comma": 12,
+        "City\/Location": "MARSA BREGA"
+    },
+    {
+        "Portname": "MARSA EL HANIA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY MEH",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYMEH",
+        "Country Code": "LY",
+        "Comma": 15,
+        "City\/Location": "MARSA EL HANIA"
+    },
+    {
+        "Portname": "MARSA EL HARIGA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY MHR",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYMHR",
+        "Country Code": "LY",
+        "Comma": 16,
+        "City\/Location": "MARSA EL HARIGA"
+    },
+    {
+        "Portname": "MARSHALL ISLANDS",
+        "Portcode_with space": "MH ***",
+        "Country": "Marshall Islands",
+        "Portcode": "MH***",
+        "Country Code": "MH",
+        "Comma": "#VALUE!",
+        "City\/Location": "MARSHALL ISLANDS"
+    },
+    {
+        "Portname": "MARTINEZ, CA",
+        "Portcode_with space": "US MRZ",
+        "Country": "United States of America",
+        "Portcode": "USMRZ",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "MARTINEZ"
+    },
+    {
+        "Portname": "MASAN, SOUTH KOREA",
+        "Portcode_with space": "KR MAS",
+        "Country": "Republic of Korea",
+        "Portcode": "KRMAS",
+        "Country Code": "KR",
+        "Comma": 6,
+        "City\/Location": "MASAN"
+    },
+    {
+        "Portname": "MATSUURA, JAPAN",
+        "Portcode_with space": "JP MTS",
+        "Country": "Japan",
+        "Portcode": "JPMTS",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "MATSUURA"
+    },
+    {
+        "Portname": "MATSUYAMA, JAPAN",
+        "Portcode_with space": "JP MYJ",
+        "Country": "Japan",
+        "Portcode": "JPMYJ",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "MATSUYAMA"
+    },
+    {
+        "Portname": "MAZATLAN, MEXICO",
+        "Portcode_with space": "MX MZT",
+        "Country": "Mexico",
+        "Portcode": "MXMZT",
+        "Country Code": "MX",
+        "Comma": 9,
+        "City\/Location": "MAZATLAN"
+    },
+    {
+        "Portname": "MEJILLONES, CHILE",
+        "Portcode_with space": "CL MJS",
+        "Country": "Chile",
+        "Portcode": "CLMJS",
+        "Country Code": "CL",
+        "Comma": 11,
+        "City\/Location": "MEJILLONES"
+    },
+    {
+        "Portname": "MELBOURNE, AUSTRALIA",
+        "Portcode_with space": "AU MEL",
+        "Country": "Australia",
+        "Portcode": "AUMEL",
+        "Country Code": "AU",
+        "Comma": 10,
+        "City\/Location": "MELBOURNE"
+    },
+    {
+        "Portname": "MELITTAH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY MTH",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYMTH",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "MELITTAH"
+    },
+    {
+        "Portname": "MERAK, INDONESIA",
+        "Portcode_with space": "ID MRK",
+        "Country": "Indonesia",
+        "Portcode": "IDMRK",
+        "Country Code": "ID",
+        "Comma": 6,
+        "City\/Location": "MERAK"
+    },
+    {
+        "Portname": "MERSIN, TURKEY",
+        "Portcode_with space": "TR MER",
+        "Country": "Turkey",
+        "Portcode": "TRMER",
+        "Country Code": "TR",
+        "Comma": 7,
+        "City\/Location": "MERSIN"
+    },
+    {
+        "Portname": "METLAKATLA, AK",
+        "Portcode_with space": "US MTM",
+        "Country": "United States of America",
+        "Portcode": "USMTM",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "METLAKATLA"
+    },
+    {
+        "Portname": "MEXICO",
+        "Portcode_with space": "MX ***",
+        "Country": "Mexico",
+        "Portcode": "MX***",
+        "Country Code": "MX",
+        "Comma": "#VALUE!",
+        "City\/Location": "MEXICO"
+    },
+    {
+        "Portname": "MIAMI, FL",
+        "Portcode_with space": "US MIA",
+        "Country": "United States of America",
+        "Portcode": "USMIA",
+        "Country Code": "US",
+        "Comma": 6,
+        "City\/Location": "MIAMI"
+    },
+    {
+        "Portname": "MIIKE, JAPAN",
+        "Portcode_with space": "JP MII",
+        "Country": "Japan",
+        "Portcode": "JPMII",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "MIIKE"
+    },
+    {
+        "Portname": "MIKAWA, JAPAN",
+        "Portcode_with space": "JP MKW",
+        "Country": "Japan",
+        "Portcode": "JPMKW",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "MIKAWA"
+    },
+    {
+        "Portname": "MISHIMA, JAPAN",
+        "Portcode_with space": "JP MKX",
+        "Country": "Japan",
+        "Portcode": "JPMKX",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "MISHIMA"
+    },
+    {
+        "Portname": "MISUMI, JAPAN",
+        "Portcode_with space": "JP MMI",
+        "Country": "Japan",
+        "Portcode": "JPMMI",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "MISUMI"
+    },
+    {
+        "Portname": "MISURATA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY MRA",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYMRA",
+        "Country Code": "LY",
+        "Comma": 9,
+        "City\/Location": "MISURATA"
+    },
+    {
+        "Portname": "MIYAZAKI, JAPAN",
+        "Portcode_with space": "JP KMI",
+        "Country": "Japan",
+        "Portcode": "JPKMI",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "MIYAZAKI"
+    },
+    {
+        "Portname": "MIZUSHIMA, JAPAN",
+        "Portcode_with space": "JP MIZ",
+        "Country": "Japan",
+        "Portcode": "JPMIZ",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "MIZUSHIMA"
+    },
+    {
+        "Portname": "MOBILE, AL",
+        "Portcode_with space": "US MOB",
+        "Country": "United States of America",
+        "Portcode": "USMOB",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "MOBILE"
+    },
+    {
+        "Portname": "MOKPO, SOUTH KOREA",
+        "Portcode_with space": "KR MOK",
+        "Country": "Republic of Korea",
+        "Portcode": "KRMOK",
+        "Country Code": "KR",
+        "Comma": 6,
+        "City\/Location": "MOKPO"
+    },
+    {
+        "Portname": "MONROE, MI",
+        "Portcode_with space": "US MOI",
+        "Country": "United States of America",
+        "Portcode": "USMOI",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "MONROE"
+    },
+    {
+        "Portname": "MONTEREY,CA",
+        "Portcode_with space": "US MY3",
+        "Country": "United States of America",
+        "Portcode": "USMY3",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "MONTEREY"
+    },
+    {
+        "Portname": "MOROCCO",
+        "Portcode_with space": "MA ***",
+        "Country": "Morocco",
+        "Portcode": "MA***",
+        "Country Code": "MA",
+        "Comma": "#VALUE!",
+        "City\/Location": "MOROCCO"
+    },
+    {
+        "Portname": "MORRO BAY, CA",
+        "Portcode_with space": "US MJK",
+        "Country": "United States of America",
+        "Portcode": "USMJK",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "MORRO BAY"
+    },
+    {
+        "Portname": "MOSS LANDING, CA",
+        "Portcode_with space": "US MLG",
+        "Country": "United States of America",
+        "Portcode": "USMLG",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "MOSS LANDING"
+    },
+    {
+        "Portname": "MOURILYAN, AUSTRALIA",
+        "Portcode_with space": "AU MOU",
+        "Country": "Australia",
+        "Portcode": "AUMOU",
+        "Country Code": "AU",
+        "Comma": 10,
+        "City\/Location": "MOURILYAN"
+    },
+    {
+        "Portname": "MUKILTEO, WA",
+        "Portcode_with space": "US MKI",
+        "Country": "United States of America",
+        "Portcode": "USMKI",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "MUKILTEO"
+    },
+    {
+        "Portname": "MURORAN, JAPAN",
+        "Portcode_with space": "JP MUR",
+        "Country": "Japan",
+        "Portcode": "JPMUR",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "MURORAN"
+    },
+    {
+        "Portname": "MUUGA, ESTONIA",
+        "Portcode_with space": "EE MUG",
+        "Country": "Estonia",
+        "Portcode": "EEMUG",
+        "Country Code": "EE",
+        "Comma": 6,
+        "City\/Location": "MUUGA"
+    },
+    {
+        "Portname": "NADAHAMA, JAPAN",
+        "Portcode_with space": "JP NAD",
+        "Country": "Japan",
+        "Portcode": "JPNAD",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "NADAHAMA"
+    },
+    {
+        "Portname": "NAGAHAMA, JAPAN",
+        "Portcode_with space": "JP NGH",
+        "Country": "Japan",
+        "Portcode": "JPNGH",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "NAGAHAMA"
+    },
+    {
+        "Portname": "NAGASAKI, JAPAN",
+        "Portcode_with space": "JP NGS",
+        "Country": "Japan",
+        "Portcode": "JPNGS",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "NAGASAKI"
+    },
+    {
+        "Portname": "NAGOYA, JAPAN",
+        "Portcode_with space": "JP NGY",
+        "Country": "Japan",
+        "Portcode": "JPNGY",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "NAGOYA"
+    },
+    {
+        "Portname": "NAHA, JAPAN",
+        "Portcode_with space": "JP NAH",
+        "Country": "Japan",
+        "Portcode": "JPNAH",
+        "Country Code": "JP",
+        "Comma": 5,
+        "City\/Location": "NAHA"
+    },
+    {
+        "Portname": "NAKHODKA, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU NJK",
+        "Country": "Russian Federation",
+        "Portcode": "RUNJK",
+        "Country Code": "RU",
+        "Comma": 9,
+        "City\/Location": "NAKHODKA"
+    },
+    {
+        "Portname": "NANAIMO, CANADA",
+        "Portcode_with space": "CA NNO",
+        "Country": "Canada",
+        "Portcode": "CANNO",
+        "Country Code": "CA",
+        "Comma": 8,
+        "City\/Location": "NANAIMO"
+    },
+    {
+        "Portname": "NANJING, CHINA",
+        "Portcode_with space": "CN NJG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNNJG",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "NANJING"
+    },
+    {
+        "Portname": "NANSHA, CHINA",
+        "Portcode_with space": "CN NSA",
+        "Country": "People's Republic of China",
+        "Portcode": "CNNSA",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "NANSHA"
+    },
+    {
+        "Portname": "NANTONG, CHINA",
+        "Portcode_with space": "CN NTG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNNTG",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "NANTONG"
+    },
+    {
+        "Portname": "NAOETSU, JAPAN",
+        "Portcode_with space": "JP NAO",
+        "Country": "Japan",
+        "Portcode": "JPNAO",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "NAOETSU"
+    },
+    {
+        "Portname": "NAPLES, ITALY",
+        "Portcode_with space": "IT NAP",
+        "Country": "Italy",
+        "Portcode": "ITNAP",
+        "Country Code": "IT",
+        "Comma": 7,
+        "City\/Location": "NAPLES"
+    },
+    {
+        "Portname": "NAURU",
+        "Portcode_with space": "NR ***",
+        "Country": "Nauru",
+        "Portcode": "NR***",
+        "Country Code": "NR",
+        "Comma": "#VALUE!",
+        "City\/Location": "NAURU"
+    },
+    {
+        "Portname": "NAWILIWILI, HI",
+        "Portcode_with space": "US NIJ",
+        "Country": "United States of America",
+        "Portcode": "USNIJ",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "NAWILIWILI"
+    },
+    {
+        "Portname": "NEMRUT BAY, TURKEY",
+        "Portcode_with space": "TR NEM",
+        "Country": "Turkey",
+        "Portcode": "TRNEM",
+        "Country Code": "TR",
+        "Comma": 11,
+        "City\/Location": "NEMRUT BAY"
+    },
+    {
+        "Portname": "NETHERLANDS",
+        "Portcode_with space": "NL ***",
+        "Country": "Netherlands",
+        "Portcode": "NL***",
+        "Country Code": "NL",
+        "Comma": "#VALUE!",
+        "City\/Location": "NETHERLANDS"
+    },
+    {
+        "Portname": "NETHERLANDS ANTILLES",
+        "Portcode_with space": "AN ***",
+        "Country": "Netherlands Antilles",
+        "Portcode": "AN***",
+        "Country Code": "AN",
+        "Comma": "#VALUE!",
+        "City\/Location": "NETHERLANDS ANTILLES"
+    },
+    {
+        "Portname": "NEW CALEDONIA",
+        "Portcode_with space": "NC ***",
+        "Country": "New Caledonia",
+        "Portcode": "NC***",
+        "Country Code": "NC",
+        "Comma": "#VALUE!",
+        "City\/Location": "NEW CALEDONIA"
+    },
+    {
+        "Portname": "NEW LONDON, CT",
+        "Portcode_with space": "US NLO",
+        "Country": "United States of America",
+        "Portcode": "USNLO",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "NEW LONDON"
+    },
+    {
+        "Portname": "NEW ORLEANS, LA",
+        "Portcode_with space": "US MSY",
+        "Country": "United States of America",
+        "Portcode": "USMSY",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "NEW ORLEANS"
+    },
+    {
+        "Portname": "NEW WESTMINSTER, CANADA",
+        "Portcode_with space": "CA NWE",
+        "Country": "Canada",
+        "Portcode": "CANWE",
+        "Country Code": "CA",
+        "Comma": 16,
+        "City\/Location": "NEW WESTMINSTER"
+    },
+    {
+        "Portname": "NEW YORK CITY, NY",
+        "Portcode_with space": "US NYC",
+        "Country": "United States of America",
+        "Portcode": "USNYC",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "NEW YORK CITY"
+    },
+    {
+        "Portname": "NEW ZEALAND",
+        "Portcode_with space": "NZ ***",
+        "Country": "New Zealand",
+        "Portcode": "NZ***",
+        "Country Code": "NZ",
+        "Comma": "#VALUE!",
+        "City\/Location": "NEW ZEALAND"
+    },
+    {
+        "Portname": "NEWARK, NJ",
+        "Portcode_with space": "US EWR",
+        "Country": "United States of America",
+        "Portcode": "USEWR",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "NEWARK"
+    },
+    {
+        "Portname": "NEWPORT NEWS, VA",
+        "Portcode_with space": "US NNS",
+        "Country": "United States of America",
+        "Portcode": "USNNS",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "NEWPORT NEWS"
+    },
+    {
+        "Portname": "NEWPORT, OR",
+        "Portcode_with space": "US NPO",
+        "Country": "United States of America",
+        "Portcode": "USNPO",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "NEWPORT"
+    },
+    {
+        "Portname": "NICARAGUA",
+        "Portcode_with space": "NI ***",
+        "Country": "Nicaragua",
+        "Portcode": "NI***",
+        "Country Code": "NI",
+        "Comma": "#VALUE!",
+        "City\/Location": "NICARAGUA"
+    },
+    {
+        "Portname": "NIGERIA",
+        "Portcode_with space": "NG ***",
+        "Country": "Nigeria",
+        "Portcode": "NG***",
+        "Country Code": "NG",
+        "Comma": "#VALUE!",
+        "City\/Location": "NIGERIA"
+    },
+    {
+        "Portname": "NIIGATA, JAPAN",
+        "Portcode_with space": "JP KIJ",
+        "Country": "Japan",
+        "Portcode": "JPKIJ",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "NIIGATA"
+    },
+    {
+        "Portname": "NIIHAMA, JAPAN",
+        "Portcode_with space": "JP IHA",
+        "Country": "Japan",
+        "Portcode": "JPIHA",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "NIIHAMA"
+    },
+    {
+        "Portname": "NIKISKI, AK",
+        "Portcode_with space": "US NIK",
+        "Country": "United States of America",
+        "Portcode": "USNIK",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "NIKISKI"
+    },
+    {
+        "Portname": "NINGBO, CHINA",
+        "Portcode_with space": "CN NGB",
+        "Country": "People's Republic of China",
+        "Portcode": "CNNGB",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "NINGBO"
+    },
+    {
+        "Portname": "NORFOLK, VA",
+        "Portcode_with space": "US ORF",
+        "Country": "United States of America",
+        "Portcode": "USORF",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "NORFOLK"
+    },
+    {
+        "Portname": "NORTH KOREA",
+        "Portcode_with space": "KP ***",
+        "Country": "Korea, Democratic People's Republic of",
+        "Portcode": "KP***",
+        "Country Code": "KP",
+        "Comma": "#VALUE!",
+        "City\/Location": "NORTH KOREA"
+    },
+    {
+        "Portname": "NORWAY",
+        "Portcode_with space": "NO ***",
+        "Country": "Norway",
+        "Portcode": "NO***",
+        "Country Code": "NO",
+        "Comma": "#VALUE!",
+        "City\/Location": "NORWAY"
+    },
+    {
+        "Portname": "NOVGOROD, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU NVR",
+        "Country": "Russian Federation",
+        "Portcode": "RUNVR",
+        "Country Code": "RU",
+        "Comma": 9,
+        "City\/Location": "NOVGOROD"
+    },
+    {
+        "Portname": "NOVOROSSISK, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU NVS",
+        "Country": "Russian Federation",
+        "Portcode": "RUNVS",
+        "Country Code": "RU",
+        "Comma": 12,
+        "City\/Location": "NOVOROSSISK"
+    },
+    {
+        "Portname": "NUEVA PALMIRA, URUGUAY",
+        "Portcode_with space": "UY NVP",
+        "Country": "Uruguay",
+        "Portcode": "UYNVP",
+        "Country Code": "UY",
+        "Comma": 14,
+        "City\/Location": "NUEVA PALMIRA"
+    },
+    {
+        "Portname": "OAKLAND, CA",
+        "Portcode_with space": "US OAK",
+        "Country": "United States of America",
+        "Portcode": "USOAK",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "OAKLAND"
+    },
+    {
+        "Portname": "OCEAN FALLS, CANADA",
+        "Portcode_with space": "CA OFA",
+        "Country": "Canada",
+        "Portcode": "CAOFA",
+        "Country Code": "CA",
+        "Comma": 12,
+        "City\/Location": "OCEAN FALLS"
+    },
+    {
+        "Portname": "OFUNATO, JAPAN",
+        "Portcode_with space": "JP OFT",
+        "Country": "Japan",
+        "Portcode": "JPOFT",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "OFUNATO"
+    },
+    {
+        "Portname": "OGDENSBURG, NY",
+        "Portcode_with space": "US OGS",
+        "Country": "United States of America",
+        "Portcode": "USOGS",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "OGDENSBURG"
+    },
+    {
+        "Portname": "OITA, JAPAN",
+        "Portcode_with space": "JP OIT",
+        "Country": "Japan",
+        "Portcode": "JPOIT",
+        "Country Code": "JP",
+        "Comma": 5,
+        "City\/Location": "OITA"
+    },
+    {
+        "Portname": "OKINAWA, JAPAN",
+        "Portcode_with space": "JP OKA",
+        "Country": "Japan",
+        "Portcode": "JPOKA",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "OKINAWA"
+    },
+    {
+        "Portname": "OLYMPIA, WA",
+        "Portcode_with space": "US OLM",
+        "Country": "United States of America",
+        "Portcode": "USOLM",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "OLYMPIA"
+    },
+    {
+        "Portname": "OMAN",
+        "Portcode_with space": "OM ***",
+        "Country": "Oman",
+        "Portcode": "OM***",
+        "Country Code": "OM",
+        "Comma": "#VALUE!",
+        "City\/Location": "OMAN"
+    },
+    {
+        "Portname": "ONAHAMA, JAPAN",
+        "Portcode_with space": "JP ONA",
+        "Country": "Japan",
+        "Portcode": "JPONA",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "ONAHAMA"
+    },
+    {
+        "Portname": "ONOMICHI, JAPAN",
+        "Portcode_with space": "JP ONO",
+        "Country": "Japan",
+        "Portcode": "JPONO",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "ONOMICHI"
+    },
+    {
+        "Portname": "ORANGE, TX",
+        "Portcode_with space": "US ORG",
+        "Country": "United States of America",
+        "Portcode": "USORG",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "ORANGE"
+    },
+    {
+        "Portname": "OSAKA, JAPAN",
+        "Portcode_with space": "JP OSA",
+        "Country": "Japan",
+        "Portcode": "JPOSA",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "OSAKA"
+    },
+    {
+        "Portname": "OSWEGO, NY",
+        "Portcode_with space": "US OSW",
+        "Country": "United States of America",
+        "Portcode": "USOSW",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "OSWEGO"
+    },
+    {
+        "Portname": "OTARU, JAPAN",
+        "Portcode_with space": "JP OTR",
+        "Country": "Japan",
+        "Portcode": "JPOTR",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "OTARU"
+    },
+    {
+        "Portname": "PACIFIC LIGHTERING AREA",
+        "Portcode_with space": "US 4PL",
+        "Country": "United States of America",
+        "Portcode": "US4PL",
+        "Country Code": "US",
+        "Comma": "#VALUE!",
+        "City\/Location": "PACIFIC LIGHTERING AREA"
+    },
+    {
+        "Portname": "PAKISTAN",
+        "Portcode_with space": "PK ***",
+        "Country": "Pakistan",
+        "Portcode": "PK***",
+        "Country Code": "PK",
+        "Comma": "#VALUE!",
+        "City\/Location": "PAKISTAN"
+    },
+    {
+        "Portname": "PALM BEACH, FL",
+        "Portcode_with space": "US PAB",
+        "Country": "United States of America",
+        "Portcode": "USPAB",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "PALM BEACH"
+    },
+    {
+        "Portname": "PANAMA",
+        "Portcode_with space": "PA ***",
+        "Country": "Panama",
+        "Portcode": "PA***",
+        "Country Code": "PA",
+        "Comma": "#VALUE!",
+        "City\/Location": "PANAMA"
+    },
+    {
+        "Portname": "PANAMA CANAL",
+        "Portcode_with space": "PA 4CN",
+        "Country": "Panama",
+        "Portcode": "PA4CN",
+        "Country Code": "PA",
+        "Comma": "#VALUE!",
+        "City\/Location": "PANAMA CANAL"
+    },
+    {
+        "Portname": "PANAMA CITY, FL",
+        "Portcode_with space": "US PFN",
+        "Country": "United States of America",
+        "Portcode": "USPFN",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "PANAMA CITY"
+    },
+    {
+        "Portname": "PANAMA LIGHTERING AREA",
+        "Portcode_with space": "PA 4PL",
+        "Country": "Panama",
+        "Portcode": "PA4PL",
+        "Country Code": "PA",
+        "Comma": "#VALUE!",
+        "City\/Location": "PANAMA LIGHTERING AREA"
+    },
+    {
+        "Portname": "PAPEETE, TAHITI, FRENCH POLYNESIA",
+        "Portcode_with space": "PF PPT",
+        "Country": "French Polynesia",
+        "Portcode": "PFPPT",
+        "Country Code": "PF",
+        "Comma": 8,
+        "City\/Location": "PAPEETE"
+    },
+    {
+        "Portname": "PAPUA NEW GUINEA",
+        "Portcode_with space": "PG ***",
+        "Country": "Papua New Guinea",
+        "Portcode": "PG***",
+        "Country Code": "PG",
+        "Comma": "#VALUE!",
+        "City\/Location": "PAPUA NEW GUINEA"
+    },
+    {
+        "Portname": "PARAGUAY",
+        "Portcode_with space": "PY ***",
+        "Country": "Paraguay",
+        "Portcode": "PY***",
+        "Country Code": "PY",
+        "Comma": "#VALUE!",
+        "City\/Location": "PARAGUAY"
+    },
+    {
+        "Portname": "PASCAGOULA, MS",
+        "Portcode_with space": "US PGL",
+        "Country": "United States of America",
+        "Portcode": "USPGL",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "PASCAGOULA"
+    },
+    {
+        "Portname": "PEARL HARBOR, HI",
+        "Portcode_with space": "US PEA",
+        "Country": "United States of America",
+        "Portcode": "USPEA",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "PEARL HARBOR"
+    },
+    {
+        "Portname": "PENANG, MALAYSIA",
+        "Portcode_with space": "MY PEN",
+        "Country": "Malaysia",
+        "Portcode": "MYPEN",
+        "Country Code": "MY",
+        "Comma": 7,
+        "City\/Location": "PENANG"
+    },
+    {
+        "Portname": "PENSACOLA, FL",
+        "Portcode_with space": "US PNS",
+        "Country": "United States of America",
+        "Portcode": "USPNS",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "PENSACOLA"
+    },
+    {
+        "Portname": "PEOPLE'S REPUBLIC OF CHINA",
+        "Portcode_with space": "CN ***",
+        "Country": "People's Republic of China",
+        "Portcode": "CN***",
+        "Country Code": "CN",
+        "Comma": "#VALUE!",
+        "City\/Location": "PEOPLE'S REPUBLIC OF CHINA"
+    },
+    {
+        "Portname": "PERU",
+        "Portcode_with space": "PE ***",
+        "Country": "Peru",
+        "Portcode": "PE***",
+        "Country Code": "PE",
+        "Comma": "#VALUE!",
+        "City\/Location": "PERU"
+    },
+    {
+        "Portname": "PHILADELPHIA, PA",
+        "Portcode_with space": "US PHL",
+        "Country": "United States of America",
+        "Portcode": "USPHL",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "PHILADELPHIA"
+    },
+    {
+        "Portname": "PHILIPPINES",
+        "Portcode_with space": "PH ***",
+        "Country": "Philippines",
+        "Portcode": "PH***",
+        "Country Code": "PH",
+        "Comma": "#VALUE!",
+        "City\/Location": "PHILIPPINES"
+    },
+    {
+        "Portname": "PHU MY, VIET NAM",
+        "Portcode_with space": "VN PHU",
+        "Country": "Viet Nam",
+        "Portcode": "VNPHU",
+        "Country Code": "VN",
+        "Comma": 7,
+        "City\/Location": "PHU MY"
+    },
+    {
+        "Portname": "PITTSBURG, CA",
+        "Portcode_with space": "US PBG",
+        "Country": "United States of America",
+        "Portcode": "USPBG",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "PITTSBURG"
+    },
+    {
+        "Portname": "PLAQUEMINE, LA",
+        "Portcode_with space": "US PLQ",
+        "Country": "United States of America",
+        "Portcode": "USPLQ",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "PLAQUEMINE"
+    },
+    {
+        "Portname": "POHANG, SOUTH KOREA",
+        "Portcode_with space": "KR KPO",
+        "Country": "Republic of Korea",
+        "Portcode": "KRKPO",
+        "Country Code": "KR",
+        "Comma": 7,
+        "City\/Location": "POHANG"
+    },
+    {
+        "Portname": "POHNPEI, FEDERATED STATES OF MICRONESIA",
+        "Portcode_with space": "FM PNI",
+        "Country": "Micronesia, Federated States of",
+        "Portcode": "FMPNI",
+        "Country Code": "FM",
+        "Comma": 8,
+        "City\/Location": "POHNPEI"
+    },
+    {
+        "Portname": "POINT COMFORT, TX",
+        "Portcode_with space": "US PCR",
+        "Country": "United States of America",
+        "Portcode": "USPCR",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "POINT COMFORT"
+    },
+    {
+        "Portname": "POINT LISAS, TRINIDAD AND TOBAGO",
+        "Portcode_with space": "TT PTS",
+        "Country": "Trinidad and Tobago",
+        "Portcode": "TTPTS",
+        "Country Code": "TT",
+        "Comma": 12,
+        "City\/Location": "POINT LISAS"
+    },
+    {
+        "Portname": "POINT WELLS, WA",
+        "Portcode_with space": "US 4PW",
+        "Country": "United States of America",
+        "Portcode": "US4PW",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "POINT WELLS"
+    },
+    {
+        "Portname": "POLAND",
+        "Portcode_with space": "PL ***",
+        "Country": "Poland",
+        "Portcode": "PL***",
+        "Country Code": "PL",
+        "Comma": "#VALUE!",
+        "City\/Location": "POLAND"
+    },
+    {
+        "Portname": "PORT ALBERNI, CANADA",
+        "Portcode_with space": "CA PAB",
+        "Country": "Canada",
+        "Portcode": "CAPAB",
+        "Country Code": "CA",
+        "Comma": 13,
+        "City\/Location": "PORT ALBERNI"
+    },
+    {
+        "Portname": "PORT ALICE, CANADA",
+        "Portcode_with space": "CA PAC",
+        "Country": "Canada",
+        "Portcode": "CAPAC",
+        "Country Code": "CA",
+        "Comma": 11,
+        "City\/Location": "PORT ALICE"
+    },
+    {
+        "Portname": "PORT ANGELES, WA",
+        "Portcode_with space": "US CLM",
+        "Country": "United States of America",
+        "Portcode": "USCLM",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "PORT ANGELES"
+    },
+    {
+        "Portname": "Port Angeles, Washington",
+        "Portcode_with space": "US CLM",
+        "Country": "United States of America",
+        "Portcode": "USCLM",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "Port Angeles"
+    },
+    {
+        "Portname": "PORT ARTHUR, TX",
+        "Portcode_with space": "US POA",
+        "Country": "United States of America",
+        "Portcode": "USPOA",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "PORT ARTHUR"
+    },
+    {
+        "Portname": "PORT CLARENCE, AK",
+        "Portcode_with space": "US KPC",
+        "Country": "United States of America",
+        "Portcode": "USKPC",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "PORT CLARENCE"
+    },
+    {
+        "Portname": "PORT EVERGLADES, FL",
+        "Portcode_with space": "US PEF",
+        "Country": "United States of America",
+        "Portcode": "USPEF",
+        "Country Code": "US",
+        "Comma": 16,
+        "City\/Location": "PORT EVERGLADES"
+    },
+    {
+        "Portname": "PORT GAMBLE, WA",
+        "Portcode_with space": "US PGH",
+        "Country": "United States of America",
+        "Portcode": "USPGH",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "PORT GAMBLE"
+    },
+    {
+        "Portname": "PORT HARDY, CANADA",
+        "Portcode_with space": "CA PHY",
+        "Country": "Canada",
+        "Portcode": "CAPHY",
+        "Country Code": "CA",
+        "Comma": 11,
+        "City\/Location": "PORT HARDY"
+    },
+    {
+        "Portname": "PORT HUENEME, CA",
+        "Portcode_with space": "US NTD",
+        "Country": "United States of America",
+        "Portcode": "USNTD",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "PORT HUENEME"
+    },
+    {
+        "Portname": "PORT ISABEL, TX",
+        "Portcode_with space": "US PIS",
+        "Country": "United States of America",
+        "Portcode": "USPIS",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "PORT ISABEL"
+    },
+    {
+        "Portname": "PORT KEMBLA, AUSTRALIA",
+        "Portcode_with space": "AU PKL",
+        "Country": "Australia",
+        "Portcode": "AUPKL",
+        "Country Code": "AU",
+        "Comma": 12,
+        "City\/Location": "PORT KEMBLA"
+    },
+    {
+        "Portname": "PORT KLANG, MALAYSIA",
+        "Portcode_with space": "MY PKG",
+        "Country": "Malaysia",
+        "Portcode": "MYPKG",
+        "Country Code": "MY",
+        "Comma": 11,
+        "City\/Location": "PORT KLANG"
+    },
+    {
+        "Portname": "PORT MANATEE, FL",
+        "Portcode_with space": "US PME",
+        "Country": "United States of America",
+        "Portcode": "USPME",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "PORT MANATEE"
+    },
+    {
+        "Portname": "PORT MCNEILL, CANADA",
+        "Portcode_with space": "CA PMA",
+        "Country": "Canada",
+        "Portcode": "CAPMA",
+        "Country Code": "CA",
+        "Comma": 13,
+        "City\/Location": "PORT MCNEILL"
+    },
+    {
+        "Portname": "PORT MELLON, CANADA",
+        "Portcode_with space": "CA PML",
+        "Country": "Canada",
+        "Portcode": "CAPML",
+        "Country Code": "CA",
+        "Comma": 12,
+        "City\/Location": "PORT MELLON"
+    },
+    {
+        "Portname": "PORT MOODY, CANADA",
+        "Portcode_with space": "CA PMO",
+        "Country": "Canada",
+        "Portcode": "CAPMO",
+        "Country Code": "CA",
+        "Comma": 11,
+        "City\/Location": "PORT MOODY"
+    },
+    {
+        "Portname": "PORT OF WEST ST. MARY, FRANKLIN, LA",
+        "Portcode_with space": "US RNK",
+        "Country": "United States of America",
+        "Portcode": "USRNK",
+        "Country Code": "US",
+        "Comma": 22,
+        "City\/Location": "PORT OF WEST ST. MARY"
+    },
+    {
+        "Portname": "PORT TOWNSEND, WA",
+        "Portcode_with space": "US TWD",
+        "Country": "United States of America",
+        "Portcode": "USTWD",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "PORT TOWNSEND"
+    },
+    {
+        "Portname": "PORTLAND, OR",
+        "Portcode_with space": "US PDX",
+        "Country": "United States of America",
+        "Portcode": "USPDX",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "PORTLAND"
+    },
+    {
+        "Portname": "PORTSMOUTH, NH",
+        "Portcode_with space": "US PSM",
+        "Country": "United States of America",
+        "Portcode": "USPSM",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "PORTSMOUTH"
+    },
+    {
+        "Portname": "PORTUGAL",
+        "Portcode_with space": "PT ***",
+        "Country": "Portugal",
+        "Portcode": "PT***",
+        "Country Code": "PT",
+        "Comma": "#VALUE!",
+        "City\/Location": "PORTUGAL"
+    },
+    {
+        "Portname": "POWELL RIVER, CANADA",
+        "Portcode_with space": "CA POW",
+        "Country": "Canada",
+        "Portcode": "CAPOW",
+        "Country Code": "CA",
+        "Comma": 13,
+        "City\/Location": "POWELL RIVER"
+    },
+    {
+        "Portname": "PRINCE RUPERT, CANADA",
+        "Portcode_with space": "CA PRR",
+        "Country": "Canada",
+        "Portcode": "CAPRR",
+        "Country Code": "CA",
+        "Comma": 14,
+        "City\/Location": "PRINCE RUPERT"
+    },
+    {
+        "Portname": "PROVIDENCE, RI",
+        "Portcode_with space": "US PVD",
+        "Country": "United States of America",
+        "Portcode": "USPVD",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "PROVIDENCE"
+    },
+    {
+        "Portname": "PRUDHOE BAY, AK",
+        "Portcode_with space": "US SCC",
+        "Country": "United States of America",
+        "Portcode": "USSCC",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "PRUDHOE BAY"
+    },
+    {
+        "Portname": "PUERTO ARMUELLES, PANAMA",
+        "Portcode_with space": "PA AML",
+        "Country": "Panama",
+        "Portcode": "PAAML",
+        "Country Code": "PA",
+        "Comma": 17,
+        "City\/Location": "PUERTO ARMUELLES"
+    },
+    {
+        "Portname": "PUERTO MORELOS, MEXICO",
+        "Portcode_with space": "MX PMS",
+        "Country": "Mexico",
+        "Portcode": "MXPMS",
+        "Country Code": "MX",
+        "Comma": 15,
+        "City\/Location": "PUERTO MORELOS"
+    },
+    {
+        "Portname": "PUERTO QUETZAL, GUATEMALA",
+        "Portcode_with space": "GT PRQ",
+        "Country": "Guatemala",
+        "Portcode": "GTPRQ",
+        "Country Code": "GT",
+        "Comma": 15,
+        "City\/Location": "PUERTO QUETZAL"
+    },
+    {
+        "Portname": "PUERTO RICO",
+        "Portcode_with space": "PR ***",
+        "Country": "Puerto Rico",
+        "Portcode": "PR***",
+        "Country Code": "PR",
+        "Comma": "#VALUE!",
+        "City\/Location": "PUERTO RICO"
+    },
+    {
+        "Portname": "PUERTO VALLARTA, MEXICO",
+        "Portcode_with space": "MX PVR",
+        "Country": "Mexico",
+        "Portcode": "MXPVR",
+        "Country Code": "MX",
+        "Comma": 16,
+        "City\/Location": "PUERTO VALLARTA"
+    },
+    {
+        "Portname": "PUNTARENAS, COSTA RICA",
+        "Portcode_with space": "CR PAS",
+        "Country": "Costa Rica",
+        "Portcode": "CRPAS",
+        "Country Code": "CR",
+        "Comma": 11,
+        "City\/Location": "PUNTARENAS"
+    },
+    {
+        "Portname": "PYEONGTAEK, SOUTH KOREA",
+        "Portcode_with space": "KR PTK",
+        "Country": "Republic of Korea",
+        "Portcode": "KRPTK",
+        "Country Code": "KR",
+        "Comma": 11,
+        "City\/Location": "PYEONGTAEK"
+    },
+    {
+        "Portname": "QATAR",
+        "Portcode_with space": "QA ***",
+        "Country": "Qatar",
+        "Portcode": "QA***",
+        "Country Code": "QA",
+        "Comma": "#VALUE!",
+        "City\/Location": "QATAR"
+    },
+    {
+        "Portname": "QINGDAO, CHINA",
+        "Portcode_with space": "CN TAO",
+        "Country": "People's Republic of China",
+        "Portcode": "CNTAO",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "QINGDAO"
+    },
+    {
+        "Portname": "QINHUANGDAO, CHINA",
+        "Portcode_with space": "CN SHP",
+        "Country": "People's Republic of China",
+        "Portcode": "CNSHP",
+        "Country Code": "CN",
+        "Comma": 12,
+        "City\/Location": "QINHUANGDAO"
+    },
+    {
+        "Portname": "QUANZHOU, CHINA",
+        "Portcode_with space": "CN QZL",
+        "Country": "People's Republic of China",
+        "Portcode": "CNQZL",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "QUANZHOU"
+    },
+    {
+        "Portname": "QUINTERO, CHILE",
+        "Portcode_with space": "CL QTV",
+        "Country": "Chile",
+        "Portcode": "CLQTV",
+        "Country Code": "CL",
+        "Comma": 9,
+        "City\/Location": "QUINTERO"
+    },
+    {
+        "Portname": "QUONSET POINT, RI",
+        "Portcode_with space": "US NCO",
+        "Country": "United States of America",
+        "Portcode": "USNCO",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "QUONSET POINT"
+    },
+    {
+        "Portname": "RAINIER, OR",
+        "Portcode_with space": "US RAI",
+        "Country": "United States of America",
+        "Portcode": "USRAI",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "RAINIER"
+    },
+    {
+        "Portname": "RAS LANUF, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY RLA",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYRLA",
+        "Country Code": "LY",
+        "Comma": 10,
+        "City\/Location": "RAS LANUF"
+    },
+    {
+        "Portname": "RAS TANURA, SAUDI ARABIA",
+        "Portcode_with space": "SA RTA",
+        "Country": "Saudi Arabia",
+        "Portcode": "SARTA",
+        "Country Code": "SA",
+        "Comma": 11,
+        "City\/Location": "RAS TANURA"
+    },
+    {
+        "Portname": "RAYONG, THAILAND",
+        "Portcode_with space": "TH RYG",
+        "Country": "Thailand",
+        "Portcode": "THRYG",
+        "Country Code": "TH",
+        "Comma": 7,
+        "City\/Location": "RAYONG"
+    },
+    {
+        "Portname": "RECIFE, BRAZIL",
+        "Portcode_with space": "BR REC",
+        "Country": "Brazil",
+        "Portcode": "BRREC",
+        "Country Code": "BR",
+        "Comma": 7,
+        "City\/Location": "RECIFE"
+    },
+    {
+        "Portname": "REDWOOD CITY, CA",
+        "Portcode_with space": "US RWC",
+        "Country": "United States of America",
+        "Portcode": "USRWC",
+        "Country Code": "US",
+        "Comma": 13,
+        "City\/Location": "REDWOOD CITY"
+    },
+    {
+        "Portname": "REPUBLIC OF BENIN",
+        "Portcode_with space": "BJ ***",
+        "Country": "Benin",
+        "Portcode": "BJ***",
+        "Country Code": "BJ",
+        "Comma": "#VALUE!",
+        "City\/Location": "REPUBLIC OF BENIN"
+    },
+    {
+        "Portname": "RICHMOND, CA",
+        "Portcode_with space": "US RCH",
+        "Country": "United States of America",
+        "Portcode": "USRCH",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "RICHMOND"
+    },
+    {
+        "Portname": "RICHMOND, VA",
+        "Portcode_with space": "US RIC",
+        "Country": "United States of America",
+        "Portcode": "USRIC",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "RICHMOND"
+    },
+    {
+        "Portname": "RIO DE JANIERO, BRAZIL",
+        "Portcode_with space": "BR RIO",
+        "Country": "Brazil",
+        "Portcode": "BRRIO",
+        "Country Code": "BR",
+        "Comma": 15,
+        "City\/Location": "RIO DE JANIERO"
+    },
+    {
+        "Portname": "RIZHAO, CHINA",
+        "Portcode_with space": "CN RZH",
+        "Country": "People's Republic of China",
+        "Portcode": "CNRZH",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "RIZHAO"
+    },
+    {
+        "Portname": "ROBERTS BANK, CANADA",
+        "Portcode_with space": "CA RTB",
+        "Country": "Canada",
+        "Portcode": "CARTB",
+        "Country Code": "CA",
+        "Comma": 13,
+        "City\/Location": "ROBERTS BANK"
+    },
+    {
+        "Portname": "ROMANIA",
+        "Portcode_with space": "RO ***",
+        "Country": "Romania",
+        "Portcode": "RO***",
+        "Country Code": "RO",
+        "Comma": "#VALUE!",
+        "City\/Location": "ROMANIA"
+    },
+    {
+        "Portname": "ROSARITO TERMINAL, MEXICO",
+        "Portcode_with space": "MX RST",
+        "Country": "Mexico",
+        "Portcode": "MXRST",
+        "Country Code": "MX",
+        "Comma": 18,
+        "City\/Location": "ROSARITO TERMINAL"
+    },
+    {
+        "Portname": "ROTTERDAM, NETHERLANDS",
+        "Portcode_with space": "NL RTM",
+        "Country": "Netherlands",
+        "Portcode": "NLRTM",
+        "Country Code": "NL",
+        "Comma": 10,
+        "City\/Location": "ROTTERDAM"
+    },
+    {
+        "Portname": "ROXAS, PHILIPPINES",
+        "Portcode_with space": "PH RXS",
+        "Country": "Philippines",
+        "Portcode": "PHRXS",
+        "Country Code": "PH",
+        "Comma": 6,
+        "City\/Location": "ROXAS"
+    },
+    {
+        "Portname": "RUSSIAN FEDERATION",
+        "Portcode_with space": "RU ***",
+        "Country": "Russian Federation",
+        "Portcode": "RU***",
+        "Country Code": "RU",
+        "Comma": "#VALUE!",
+        "City\/Location": "RUSSIAN FEDERATION"
+    },
+    {
+        "Portname": "SACRAMENTO, CA",
+        "Portcode_with space": "US SAC",
+        "Country": "United States of America",
+        "Portcode": "USSAC",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "SACRAMENTO"
+    },
+    {
+        "Portname": "SAGANOSEKI, JAPAN",
+        "Portcode_with space": "JP SAG",
+        "Country": "Japan",
+        "Portcode": "JPSAG",
+        "Country Code": "JP",
+        "Comma": 11,
+        "City\/Location": "SAGANOSEKI"
+    },
+    {
+        "Portname": "SAINT JAMES CITY, FL",
+        "Portcode_with space": "US JSY",
+        "Country": "United States of America",
+        "Portcode": "USJSY",
+        "Country Code": "US",
+        "Comma": 17,
+        "City\/Location": "SAINT JAMES CITY"
+    },
+    {
+        "Portname": "SAINT PETERSBURG PETROLESPORT",
+        "Portcode_with space": "RU SPP",
+        "Country": "Russian Federation",
+        "Portcode": "RUSPP",
+        "Country Code": "RU",
+        "Comma": "#VALUE!",
+        "City\/Location": "SAINT PETERSBURG PETROLESPORT"
+    },
+    {
+        "Portname": "SAINT VINCENT AND THE GRENADINES",
+        "Portcode_with space": "VC ***",
+        "Country": "Saint Vincent and The Grenadines",
+        "Portcode": "VC***",
+        "Country Code": "VC",
+        "Comma": "#VALUE!",
+        "City\/Location": "SAINT VINCENT AND THE GRENADINES"
+    },
+    {
+        "Portname": "SAKAIDE, JAPAN",
+        "Portcode_with space": "JP SKD",
+        "Country": "Japan",
+        "Portcode": "JPSKD",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "SAKAIDE"
+    },
+    {
+        "Portname": "SALAVERRY, PERU",
+        "Portcode_with space": "PE SVY",
+        "Country": "Peru",
+        "Portcode": "PESVY",
+        "Country Code": "PE",
+        "Comma": 10,
+        "City\/Location": "SALAVERRY"
+    },
+    {
+        "Portname": "SALINA CRUZ, MEXICO",
+        "Portcode_with space": "MX SCX",
+        "Country": "Mexico",
+        "Portcode": "MXSCX",
+        "Country Code": "MX",
+        "Comma": 12,
+        "City\/Location": "SALINA CRUZ"
+    },
+    {
+        "Portname": "SAMSUN, TURKEY",
+        "Portcode_with space": "TR SSX",
+        "Country": "Turkey",
+        "Portcode": "TRSSX",
+        "Country Code": "TR",
+        "Comma": 7,
+        "City\/Location": "SAMSUN"
+    },
+    {
+        "Portname": "SAN ANTONIA, CHILE",
+        "Portcode_with space": "CL SAI",
+        "Country": "Chile",
+        "Portcode": "CLSAI",
+        "Country Code": "CL",
+        "Comma": 12,
+        "City\/Location": "SAN ANTONIA"
+    },
+    {
+        "Portname": "SAN CARLOS, MEXICO",
+        "Portcode_with space": "MX SCR",
+        "Country": "Mexico",
+        "Portcode": "MXSCR",
+        "Country Code": "MX",
+        "Comma": 11,
+        "City\/Location": "SAN CARLOS"
+    },
+    {
+        "Portname": "SAN DIEGO, CA",
+        "Portcode_with space": "US SAN",
+        "Country": "United States of America",
+        "Portcode": "USSAN",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "SAN DIEGO"
+    },
+    {
+        "Portname": "SAN FRANCISCO, CA",
+        "Portcode_with space": "US SFO",
+        "Country": "United States of America",
+        "Portcode": "USSFO",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "SAN FRANCISCO"
+    },
+    {
+        "Portname": "SAN JOSE, GUATEMALA",
+        "Portcode_with space": "GT SNJ",
+        "Country": "Guatemala",
+        "Portcode": "GTSNJ",
+        "Country Code": "GT",
+        "Comma": 9,
+        "City\/Location": "SAN JOSE"
+    },
+    {
+        "Portname": "SAN JUAN DEL SUR",
+        "Portcode_with space": "NI SJS",
+        "Country": "Nicaragua",
+        "Portcode": "NISJS",
+        "Country Code": "NI",
+        "Comma": "#VALUE!",
+        "City\/Location": "SAN JUAN DEL SUR"
+    },
+    {
+        "Portname": "SAN JUAN, PUERTO RICO",
+        "Portcode_with space": "PR SJU",
+        "Country": "Puerto Rico",
+        "Portcode": "PRSJU",
+        "Country Code": "PR",
+        "Comma": 9,
+        "City\/Location": "SAN JUAN"
+    },
+    {
+        "Portname": "SAN LORENZO, ECUADOR",
+        "Portcode_with space": "EC SLR",
+        "Country": "Ecuador",
+        "Portcode": "ECSLR",
+        "Country Code": "EC",
+        "Comma": 12,
+        "City\/Location": "SAN LORENZO"
+    },
+    {
+        "Portname": "SAN LORENZO, HOUDURAS",
+        "Portcode_with space": "HN SLO",
+        "Country": "Honduras",
+        "Portcode": "HNSLO",
+        "Country Code": "HN",
+        "Comma": 12,
+        "City\/Location": "SAN LORENZO"
+    },
+    {
+        "Portname": "SAN NICOLAS DE LOS ARROYOS, ARGENTINA",
+        "Portcode_with space": "AR SNS",
+        "Country": "Argentina",
+        "Portcode": "ARSNS",
+        "Country Code": "AR",
+        "Comma": 27,
+        "City\/Location": "SAN NICOLAS DE LOS ARROYOS"
+    },
+    {
+        "Portname": "SAN PEDRO, ARGENTINA",
+        "Portcode_with space": "AR SNP",
+        "Country": "Argentina",
+        "Portcode": "ARSNP",
+        "Country Code": "AR",
+        "Comma": 10,
+        "City\/Location": "SAN PEDRO"
+    },
+    {
+        "Portname": "SAN PEDRO, CA",
+        "Portcode_with space": "US SPQ",
+        "Country": "United States of America",
+        "Portcode": "USSPQ",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "SAN PEDRO"
+    },
+    {
+        "Portname": "SANTA BARBARA, CA",
+        "Portcode_with space": "US SBA",
+        "Country": "United States of America",
+        "Portcode": "USSBA",
+        "Country Code": "US",
+        "Comma": 14,
+        "City\/Location": "SANTA BARBARA"
+    },
+    {
+        "Portname": "SANTA CRUZ, CA",
+        "Portcode_with space": "US SRU",
+        "Country": "United States of America",
+        "Portcode": "USSRU",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "SANTA CRUZ"
+    },
+    {
+        "Portname": "SANTA ROSALIA, MEXICO",
+        "Portcode_with space": "MX SRL",
+        "Country": "Mexico",
+        "Portcode": "MXSRL",
+        "Country Code": "MX",
+        "Comma": 14,
+        "City\/Location": "SANTA ROSALIA"
+    },
+    {
+        "Portname": "SANTA YNEZ, CA",
+        "Portcode_with space": "US SQA",
+        "Country": "United States of America",
+        "Portcode": "USSQA",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "SANTA YNEZ"
+    },
+    {
+        "Portname": "SANTOS, BRAZIL",
+        "Portcode_with space": "BR SSZ",
+        "Country": "Brazil",
+        "Portcode": "BRSSZ",
+        "Country Code": "BR",
+        "Comma": 7,
+        "City\/Location": "SANTOS"
+    },
+    {
+        "Portname": "SARROCH, ITALY",
+        "Portcode_with space": "IT PFX",
+        "Country": "Italy",
+        "Portcode": "ITPFX",
+        "Country Code": "IT",
+        "Comma": 8,
+        "City\/Location": "SARROCH"
+    },
+    {
+        "Portname": "SASEBO, JAPAN",
+        "Portcode_with space": "JP SSB",
+        "Country": "Japan",
+        "Portcode": "JPSSB",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "SASEBO"
+    },
+    {
+        "Portname": "SAUDI ARABIA",
+        "Portcode_with space": "SA ***",
+        "Country": "Saudi Arabia",
+        "Portcode": "SA***",
+        "Country Code": "SA",
+        "Comma": "#VALUE!",
+        "City\/Location": "SAUDI ARABIA"
+    },
+    {
+        "Portname": "SAVANNAH, GA",
+        "Portcode_with space": "US SAV",
+        "Country": "United States of America",
+        "Portcode": "USSAV",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "SAVANNAH"
+    },
+    {
+        "Portname": "SEATTLE, WA",
+        "Portcode_with space": "US SEA",
+        "Country": "United States of America",
+        "Portcode": "USSEA",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "SEATTLE"
+    },
+    {
+        "Portname": "SECHELT, CANADA",
+        "Portcode_with space": "CA YHS",
+        "Country": "Canada",
+        "Portcode": "CAYHS",
+        "Country Code": "CA",
+        "Comma": 8,
+        "City\/Location": "SECHELT"
+    },
+    {
+        "Portname": "SENDAI, JAPAN",
+        "Portcode_with space": "JP SDJ",
+        "Country": "Japan",
+        "Portcode": "JPSDJ",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "SENDAI"
+    },
+    {
+        "Portname": "SENEGAL",
+        "Portcode_with space": "SN ***",
+        "Country": "Senegal",
+        "Portcode": "SN***",
+        "Country Code": "SN",
+        "Comma": "#VALUE!",
+        "City\/Location": "SENEGAL"
+    },
+    {
+        "Portname": "SEWARD, AK",
+        "Portcode_with space": "US SWD",
+        "Country": "United States of America",
+        "Portcode": "USSWD",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "SEWARD"
+    },
+    {
+        "Portname": "SHANGHAI, CHINA",
+        "Portcode_with space": "CN SHA",
+        "Country": "People's Republic of China",
+        "Portcode": "CNSHA",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "SHANGHAI"
+    },
+    {
+        "Portname": "SHEKOU, CHINA",
+        "Portcode_with space": "CN SHK",
+        "Country": "People's Republic of China",
+        "Portcode": "CNSHK",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "SHEKOU"
+    },
+    {
+        "Portname": "SHENZHEN, CHINA",
+        "Portcode_with space": "CN SZX",
+        "Country": "People's Republic of China",
+        "Portcode": "CNSZX",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "SHENZHEN"
+    },
+    {
+        "Portname": "SHIBUSHI, JAPAN",
+        "Portcode_with space": "JP SBS",
+        "Country": "Japan",
+        "Portcode": "JPSBS",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "SHIBUSHI"
+    },
+    {
+        "Portname": "SHIMIZU, JAPAN",
+        "Portcode_with space": "JP SMZ",
+        "Country": "Japan",
+        "Portcode": "JPSMZ",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "SHIMIZU"
+    },
+    {
+        "Portname": "SHUAIBA, KUWAIT",
+        "Portcode_with space": "KW SAA",
+        "Country": "Kuwait",
+        "Portcode": "KWSAA",
+        "Country Code": "KW",
+        "Comma": 8,
+        "City\/Location": "SHUAIBA"
+    },
+    {
+        "Portname": "SILLAMAE, ESTONIA",
+        "Portcode_with space": "EE SLM",
+        "Country": "Estonia",
+        "Portcode": "EESLM",
+        "Country Code": "EE",
+        "Comma": 9,
+        "City\/Location": "SILLAMAE"
+    },
+    {
+        "Portname": "SINGAPORE",
+        "Portcode_with space": "SG ***",
+        "Country": "Singapore",
+        "Portcode": "SG***",
+        "Country Code": "SG",
+        "Comma": "#VALUE!",
+        "City\/Location": "SINGAPORE"
+    },
+    {
+        "Portname": "SINT EUSTATIUS, NETHERLANDS ANTILLES",
+        "Portcode_with space": "AN EUX",
+        "Country": "Netherlands Antilles",
+        "Portcode": "ANEUX",
+        "Country Code": "AN",
+        "Comma": 15,
+        "City\/Location": "SINT EUSTATIUS"
+    },
+    {
+        "Portname": "SINT NICOLAAS, ARUBA",
+        "Portcode_with space": "AW SNL",
+        "Country": "Aruba",
+        "Portcode": "AWSNL",
+        "Country Code": "AW",
+        "Comma": 14,
+        "City\/Location": "SINT NICOLAAS"
+    },
+    {
+        "Portname": "SINT-MAARTEN APT, NETHERLANS ANTILLES",
+        "Portcode_with space": "AN SXM",
+        "Country": "Netherlands Antilles",
+        "Portcode": "ANSXM",
+        "Country Code": "AN",
+        "Comma": 17,
+        "City\/Location": "SINT-MAARTEN APT"
+    },
+    {
+        "Portname": "SIRTE, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY SRT",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYSRT",
+        "Country Code": "LY",
+        "Comma": 6,
+        "City\/Location": "SIRTE"
+    },
+    {
+        "Portname": "SISIRACHA, THAILAND",
+        "Portcode_with space": "TH SRI",
+        "Country": "Thailand",
+        "Portcode": "THSRI",
+        "Country Code": "TH",
+        "Comma": 10,
+        "City\/Location": "SISIRACHA"
+    },
+    {
+        "Portname": "SITKA, AK",
+        "Portcode_with space": "US SIT",
+        "Country": "United States of America",
+        "Portcode": "USSIT",
+        "Country Code": "US",
+        "Comma": 6,
+        "City\/Location": "SITKA"
+    },
+    {
+        "Portname": "SKAGWAY, AK",
+        "Portcode_with space": "US SGY",
+        "Country": "United States of America",
+        "Portcode": "USSGY",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "SKAGWAY"
+    },
+    {
+        "Portname": "SKIKDA, ALGERIA",
+        "Portcode_with space": "DZ SKI",
+        "Country": "Algeria",
+        "Portcode": "DZSKI",
+        "Country Code": "DZ",
+        "Comma": 7,
+        "City\/Location": "SKIKDA"
+    },
+    {
+        "Portname": "SODEGAURA, JAPAN",
+        "Portcode_with space": "JP SDU",
+        "Country": "Japan",
+        "Portcode": "JPSDU",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "SODEGAURA"
+    },
+    {
+        "Portname": "SOUSSAH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY SOU",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYSOU",
+        "Country Code": "LY",
+        "Comma": 8,
+        "City\/Location": "SOUSSAH"
+    },
+    {
+        "Portname": "SOUTH AFRICA",
+        "Portcode_with space": "ZA ***",
+        "Country": "South Africa",
+        "Portcode": "ZA***",
+        "Country Code": "ZA",
+        "Comma": "#VALUE!",
+        "City\/Location": "SOUTH AFRICA"
+    },
+    {
+        "Portname": "SOUTH KOREA",
+        "Portcode_with space": "KR ***",
+        "Country": "Republic of Korea",
+        "Portcode": "KR***",
+        "Country Code": "KR",
+        "Comma": "#VALUE!",
+        "City\/Location": "SOUTH KOREA"
+    },
+    {
+        "Portname": "SPAIN",
+        "Portcode_with space": "ES ***",
+        "Country": "Spain",
+        "Portcode": "ES***",
+        "Country Code": "ES",
+        "Comma": "#VALUE!",
+        "City\/Location": "SPAIN"
+    },
+    {
+        "Portname": "SQUAMISH, CANADA",
+        "Portcode_with space": "CA SQA",
+        "Country": "Canada",
+        "Portcode": "CASQA",
+        "Country Code": "CA",
+        "Comma": 9,
+        "City\/Location": "SQUAMISH"
+    },
+    {
+        "Portname": "SRI LANKA",
+        "Portcode_with space": "SL ***",
+        "Country": "Sri Lanka",
+        "Portcode": "SL***",
+        "Country Code": "SL",
+        "Comma": "#VALUE!",
+        "City\/Location": "SRI LANKA"
+    },
+    {
+        "Portname": "ST. BERNARD PARISH, LA",
+        "Portcode_with space": "US SBD",
+        "Country": "United States of America",
+        "Portcode": "USSBD",
+        "Country Code": "US",
+        "Comma": 19,
+        "City\/Location": "ST. BERNARD PARISH"
+    },
+    {
+        "Portname": "ST. CROIX, VIRGIN ISLANDS, U.S.",
+        "Portcode_with space": "VI STX",
+        "Country": "Virgin Islands, U.S.",
+        "Portcode": "VISTX",
+        "Country Code": "VI",
+        "Comma": 10,
+        "City\/Location": "ST. CROIX"
+    },
+    {
+        "Portname": "ST. JOHN, CANADA",
+        "Portcode_with space": "CA YSJ",
+        "Country": "Canada",
+        "Portcode": "CAYSJ",
+        "Country Code": "CA",
+        "Comma": 9,
+        "City\/Location": "ST. JOHN"
+    },
+    {
+        "Portname": "ST. PETERSBURG, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU LED",
+        "Country": "Russian Federation",
+        "Portcode": "RULED",
+        "Country Code": "RU",
+        "Comma": 15,
+        "City\/Location": "ST. PETERSBURG"
+    },
+    {
+        "Portname": "ST. THOMAS, VIRGIN ISLANDS, U.S.",
+        "Portcode_with space": "VI STT",
+        "Country": "United States of America",
+        "Portcode": "VISTT",
+        "Country Code": "VI",
+        "Comma": 11,
+        "City\/Location": "ST. THOMAS"
+    },
+    {
+        "Portname": "STEILACOOM, WA",
+        "Portcode_with space": "US SIC",
+        "Country": "United States of America",
+        "Portcode": "USSIC",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "STEILACOOM"
+    },
+    {
+        "Portname": "STOCKTON, CA",
+        "Portcode_with space": "US SCK",
+        "Country": "United States of America",
+        "Portcode": "USSCK",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "STOCKTON"
+    },
+    {
+        "Portname": "SUAO, TAIWAN",
+        "Portcode_with space": "TW SUO",
+        "Country": "Taiwan",
+        "Portcode": "TWSUO",
+        "Country Code": "TW",
+        "Comma": 5,
+        "City\/Location": "SUAO"
+    },
+    {
+        "Portname": "SUDAN",
+        "Portcode_with space": "SD ***",
+        "Country": "Sudan",
+        "Portcode": "SD***",
+        "Country Code": "SD",
+        "Comma": "#VALUE!",
+        "City\/Location": "SUDAN"
+    },
+    {
+        "Portname": "SUVA, FIJI",
+        "Portcode_with space": "FJ SUV",
+        "Country": "Fiji",
+        "Portcode": "FJSUV",
+        "Country Code": "FJ",
+        "Comma": 5,
+        "City\/Location": "SUVA"
+    },
+    {
+        "Portname": "SWEDEN",
+        "Portcode_with space": "SE ***",
+        "Country": "Sweden",
+        "Portcode": "SE***",
+        "Country Code": "SE",
+        "Comma": "#VALUE!",
+        "City\/Location": "SWEDEN"
+    },
+    {
+        "Portname": "SYDNEY, AUSTRALIA",
+        "Portcode_with space": "AU SYD",
+        "Country": "Australia",
+        "Portcode": "AUSYD",
+        "Country Code": "AU",
+        "Comma": 7,
+        "City\/Location": "SYDNEY"
+    },
+    {
+        "Portname": "SYRIAN ARAB REPUBLIC",
+        "Portcode_with space": "SY ***",
+        "Country": "Syrian Arab Republic",
+        "Portcode": "SY***",
+        "Country Code": "SY",
+        "Comma": "#VALUE!",
+        "City\/Location": "SYRIAN ARAB REPUBLIC"
+    },
+    {
+        "Portname": "TABOGUILLA, PANAMA",
+        "Portcode_with space": "PA TBG",
+        "Country": "Panama",
+        "Portcode": "PATBG",
+        "Country Code": "PA",
+        "Comma": 11,
+        "City\/Location": "TABOGUILLA"
+    },
+    {
+        "Portname": "TACOMA, WA",
+        "Portcode_with space": "US TIW",
+        "Country": "United States of America",
+        "Portcode": "USTIW",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "TACOMA"
+    },
+    {
+        "Portname": "TAGIURA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY TAG",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYTAG",
+        "Country Code": "LY",
+        "Comma": 8,
+        "City\/Location": "TAGIURA"
+    },
+    {
+        "Portname": "TAHARA, JAPAN",
+        "Portcode_with space": "JP TAR",
+        "Country": "Japan",
+        "Portcode": "JPTAR",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "TAHARA"
+    },
+    {
+        "Portname": "TAICHUNG, TAIWAN",
+        "Portcode_with space": "TW TXG",
+        "Country": "Taiwan",
+        "Portcode": "TWTXG",
+        "Country Code": "TW",
+        "Comma": 9,
+        "City\/Location": "TAICHUNG"
+    },
+    {
+        "Portname": "TAIPEI, TAIWAN",
+        "Portcode_with space": "TW TPE",
+        "Country": "Taiwan",
+        "Portcode": "TWTPE",
+        "Country Code": "TW",
+        "Comma": 7,
+        "City\/Location": "TAIPEI"
+    },
+    {
+        "Portname": "TAIWAN",
+        "Portcode_with space": "TW ***",
+        "Country": "Taiwan",
+        "Portcode": "TW***",
+        "Country Code": "TW",
+        "Comma": "#VALUE!",
+        "City\/Location": "TAIWAN"
+    },
+    {
+        "Portname": "TAIZHOU, CHINA",
+        "Portcode_with space": "CN TZO",
+        "Country": "People's Republic of China",
+        "Portcode": "CNTZO",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "TAIZHOU"
+    },
+    {
+        "Portname": "TAKEHARA, JAPAN",
+        "Portcode_with space": "JP THR",
+        "Country": "Japan",
+        "Portcode": "JPTHR",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "TAKEHARA"
+    },
+    {
+        "Portname": "TALLINN, ESTONIA",
+        "Portcode_with space": "EE TLL",
+        "Country": "Estonia",
+        "Portcode": "EETLL",
+        "Country Code": "EE",
+        "Comma": 8,
+        "City\/Location": "TALLINN"
+    },
+    {
+        "Portname": "TAMPA, FL",
+        "Portcode_with space": "US TPA",
+        "Country": "United States of America",
+        "Portcode": "USTPA",
+        "Country Code": "US",
+        "Comma": 6,
+        "City\/Location": "TAMPA"
+    },
+    {
+        "Portname": "TANGSHAN, CHINA",
+        "Portcode_with space": "CN TGS",
+        "Country": "People's Republic of China",
+        "Portcode": "CNTGS",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "TANGSHAN"
+    },
+    {
+        "Portname": "TARTOUS, SYRIAN ARAB REPUBLIC",
+        "Portcode_with space": "SY TTS",
+        "Country": "Syrian Arab Republic",
+        "Portcode": "SYTTS",
+        "Country Code": "SY",
+        "Comma": 8,
+        "City\/Location": "TARTOUS"
+    },
+    {
+        "Portname": "TAURANGA, NEW ZEALAND",
+        "Portcode_with space": "NZ TRG",
+        "Country": "New Zealand",
+        "Portcode": "NZTRG",
+        "Country Code": "NZ",
+        "Comma": 9,
+        "City\/Location": "TAURANGA"
+    },
+    {
+        "Portname": "TEXAS CITY, TX",
+        "Portcode_with space": "US TXT",
+        "Country": "United States of America",
+        "Portcode": "USTXT",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "TEXAS CITY"
+    },
+    {
+        "Portname": "THAILAND",
+        "Portcode_with space": "TH ***",
+        "Country": "Thailand",
+        "Portcode": "TH***",
+        "Country Code": "TH",
+        "Comma": "#VALUE!",
+        "City\/Location": "THAILAND"
+    },
+    {
+        "Portname": "THEODORE, AL",
+        "Portcode_with space": "US TEO",
+        "Country": "United States of America",
+        "Portcode": "USTEO",
+        "Country Code": "US",
+        "Comma": 9,
+        "City\/Location": "THEODORE"
+    },
+    {
+        "Portname": "TIANJIN XINGANG, CHINA",
+        "Portcode_with space": "CN TXG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNTXG",
+        "Country Code": "CN",
+        "Comma": 16,
+        "City\/Location": "TIANJIN XINGANG"
+    },
+    {
+        "Portname": "TOBRUK, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY TOB",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYTOB",
+        "Country Code": "LY",
+        "Comma": 7,
+        "City\/Location": "TOBRUK"
+    },
+    {
+        "Portname": "TOGIAK, AK",
+        "Portcode_with space": "US TGK",
+        "Country": "United States of America",
+        "Portcode": "USTGK",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "TOGIAK"
+    },
+    {
+        "Portname": "TOGO",
+        "Portcode_with space": "TG ***",
+        "Country": "Togo",
+        "Portcode": "TG***",
+        "Country Code": "TG",
+        "Comma": "#VALUE!",
+        "City\/Location": "TOGO"
+    },
+    {
+        "Portname": "TOKAI, JAPAN",
+        "Portcode_with space": "JP TKA",
+        "Country": "Japan",
+        "Portcode": "JPTKA",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "TOKAI"
+    },
+    {
+        "Portname": "TOKUYAMA, JAPAN",
+        "Portcode_with space": "JP TKY",
+        "Country": "Japan",
+        "Portcode": "JPTKY",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "TOKUYAMA"
+    },
+    {
+        "Portname": "TOKYO, JAPAN",
+        "Portcode_with space": "JP TYO",
+        "Country": "Japan",
+        "Portcode": "JPTYO",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "TOKYO"
+    },
+    {
+        "Portname": "TOMAKOMAI, JAPAN",
+        "Portcode_with space": "JP TMK",
+        "Country": "Japan",
+        "Portcode": "JPTMK",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "TOMAKOMAI"
+    },
+    {
+        "Portname": "TONGA",
+        "Portcode_with space": "TO ***",
+        "Country": "Tonga",
+        "Portcode": "TO***",
+        "Country Code": "TO",
+        "Comma": "#VALUE!",
+        "City\/Location": "TONGA"
+    },
+    {
+        "Portname": "TOPOLOBAMPO, MEXICO",
+        "Portcode_with space": "MX TPB",
+        "Country": "Mexico",
+        "Portcode": "MXTPB",
+        "Country Code": "MX",
+        "Comma": 12,
+        "City\/Location": "TOPOLOBAMPO"
+    },
+    {
+        "Portname": "TOULMEITHA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY TOA",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYTOA",
+        "Country Code": "LY",
+        "Comma": 11,
+        "City\/Location": "TOULMEITHA"
+    },
+    {
+        "Portname": "TOWNSVILLE, AUSTRALIA",
+        "Portcode_with space": "AU TSV",
+        "Country": "Australia",
+        "Portcode": "AUTSV",
+        "Country Code": "AU",
+        "Comma": 11,
+        "City\/Location": "TOWNSVILLE"
+    },
+    {
+        "Portname": "TOYOHASHI, JAPAN",
+        "Portcode_with space": "JP THS",
+        "Country": "Japan",
+        "Portcode": "JPTHS",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "TOYOHASHI"
+    },
+    {
+        "Portname": "TRENTON, NJ",
+        "Portcode_with space": "US TTN",
+        "Country": "United States of America",
+        "Portcode": "USTTN",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "TRENTON"
+    },
+    {
+        "Portname": "TRINIDAD AND TOBAGO",
+        "Portcode_with space": "TT ***",
+        "Country": "Trinidad and Tobago",
+        "Portcode": "TT***",
+        "Country Code": "TT",
+        "Comma": "#VALUE!",
+        "City\/Location": "TRINIDAD AND TOBAGO"
+    },
+    {
+        "Portname": "TRIPOLI, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY TIP",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYTIP",
+        "Country Code": "LY",
+        "Comma": 8,
+        "City\/Location": "TRIPOLI"
+    },
+    {
+        "Portname": "TSUKUMI, JAPAN",
+        "Portcode_with space": "JP TMI",
+        "Country": "Japan",
+        "Portcode": "JPTMI",
+        "Country Code": "JP",
+        "Comma": 8,
+        "City\/Location": "TSUKUMI"
+    },
+    {
+        "Portname": "TSUNEISHI, JAPAN",
+        "Portcode_with space": "JP TNI",
+        "Country": "Japan",
+        "Portcode": "JPTNI",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "TSUNEISHI"
+    },
+    {
+        "Portname": "TUKRAH, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY TUK",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYTUK",
+        "Country Code": "LY",
+        "Comma": 7,
+        "City\/Location": "TUKRAH"
+    },
+    {
+        "Portname": "TUMACO, COLOMBIA",
+        "Portcode_with space": "CO TCO",
+        "Country": "Colombia",
+        "Portcode": "COTCO",
+        "Country Code": "CO",
+        "Comma": 7,
+        "City\/Location": "TUMACO"
+    },
+    {
+        "Portname": "TUNISIA",
+        "Portcode_with space": "TN ***",
+        "Country": "Tunisia",
+        "Portcode": "TN***",
+        "Country Code": "TN",
+        "Comma": "#VALUE!",
+        "City\/Location": "TUNISIA"
+    },
+    {
+        "Portname": "TURKEY",
+        "Portcode_with space": "TR ***",
+        "Country": "Turkey",
+        "Portcode": "TR***",
+        "Country Code": "TR",
+        "Comma": "#VALUE!",
+        "City\/Location": "TURKEY"
+    },
+    {
+        "Portname": "UBE, JAPAN",
+        "Portcode_with space": "JP UBJ",
+        "Country": "Japan",
+        "Portcode": "JPUBJ",
+        "Country Code": "JP",
+        "Comma": 4,
+        "City\/Location": "UBE"
+    },
+    {
+        "Portname": "UKRAINE",
+        "Portcode_with space": "UA ***",
+        "Country": "Ukraine",
+        "Portcode": "UA***",
+        "Country Code": "UA",
+        "Comma": "#VALUE!",
+        "City\/Location": "UKRAINE"
+    },
+    {
+        "Portname": "ULSAN, SOUTH KOREA",
+        "Portcode_with space": "KR USN",
+        "Country": "Republic of Korea",
+        "Portcode": "KRUSN",
+        "Country Code": "KR",
+        "Comma": 6,
+        "City\/Location": "ULSAN"
+    },
+    {
+        "Portname": "UNION OF MYANMAR",
+        "Portcode_with space": "MM ***",
+        "Country": "Myanmar",
+        "Portcode": "MM***",
+        "Country Code": "MM",
+        "Comma": "#VALUE!",
+        "City\/Location": "UNION OF MYANMAR"
+    },
+    {
+        "Portname": "UNITED ARAB EMIRATES",
+        "Portcode_with space": "AE ***",
+        "Country": "United Arab Emirates",
+        "Portcode": "AE***",
+        "Country Code": "AE",
+        "Comma": "#VALUE!",
+        "City\/Location": "UNITED ARAB EMIRATES"
+    },
+    {
+        "Portname": "UNITED KINGDOM",
+        "Portcode_with space": "GB ***",
+        "Country": "United Kingdom",
+        "Portcode": "GB***",
+        "Country Code": "GB",
+        "Comma": "#VALUE!",
+        "City\/Location": "UNITED KINGDOM"
+    },
+    {
+        "Portname": "URAGO, JAPAN",
+        "Portcode_with space": "JP UAO",
+        "Country": "Japan",
+        "Portcode": "JPUAO",
+        "Country Code": "JP",
+        "Comma": 6,
+        "City\/Location": "URAGO"
+    },
+    {
+        "Portname": "URUGUAY",
+        "Portcode_with space": "UY ***",
+        "Country": "Uruguay",
+        "Portcode": "UY***",
+        "Country Code": "UY",
+        "Comma": "#VALUE!",
+        "City\/Location": "URUGUAY"
+    },
+    {
+        "Portname": "VALDEZ, AK",
+        "Portcode_with space": "US VDZ",
+        "Country": "United States of America",
+        "Portcode": "USVDZ",
+        "Country Code": "US",
+        "Comma": 7,
+        "City\/Location": "VALDEZ"
+    },
+    {
+        "Portname": "VALENCIA, SPAIN",
+        "Portcode_with space": "ES VLC",
+        "Country": "Spain",
+        "Portcode": "ESVLC",
+        "Country Code": "ES",
+        "Comma": 9,
+        "City\/Location": "VALENCIA"
+    },
+    {
+        "Portname": "VALPARAISO, CHILE",
+        "Portcode_with space": "CL VAP",
+        "Country": "Chile",
+        "Portcode": "CLVAP",
+        "Country Code": "CL",
+        "Comma": 11,
+        "City\/Location": "VALPARAISO"
+    },
+    {
+        "Portname": "VANCOUVER, CANADA",
+        "Portcode_with space": "CA VAN",
+        "Country": "Canada",
+        "Portcode": "CAVAN",
+        "Country Code": "CA",
+        "Comma": 10,
+        "City\/Location": "VANCOUVER"
+    },
+    {
+        "Portname": "VANCOUVER, WA",
+        "Portcode_with space": "US VAN",
+        "Country": "United States of America",
+        "Portcode": "USVAN",
+        "Country Code": "US",
+        "Comma": 10,
+        "City\/Location": "VANCOUVER"
+    },
+    {
+        "Portname": "VANINO, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU VNN",
+        "Country": "Russian Federation",
+        "Portcode": "RUVNN",
+        "Country Code": "RU",
+        "Comma": 7,
+        "City\/Location": "VANINO"
+    },
+    {
+        "Portname": "VANUATU",
+        "Portcode_with space": "VU ***",
+        "Country": "Vanuatu",
+        "Portcode": "VU***",
+        "Country Code": "VU",
+        "Comma": "#VALUE!",
+        "City\/Location": "VANUATU"
+    },
+    {
+        "Portname": "VENEZUELA",
+        "Portcode_with space": "VE ***",
+        "Country": "Venezuela",
+        "Portcode": "VE***",
+        "Country Code": "VE",
+        "Comma": "#VALUE!",
+        "City\/Location": "VENEZUELA"
+    },
+    {
+        "Portname": "VENTURA, CA",
+        "Portcode_with space": "US NVT",
+        "Country": "United States of America",
+        "Portcode": "USNVT",
+        "Country Code": "US",
+        "Comma": 8,
+        "City\/Location": "VENTURA"
+    },
+    {
+        "Portname": "VICTORIA, CANADA",
+        "Portcode_with space": "CA VIC",
+        "Country": "Canada",
+        "Portcode": "CAVIC",
+        "Country Code": "CA",
+        "Comma": 9,
+        "City\/Location": "VICTORIA"
+    },
+    {
+        "Portname": "VIET NAM",
+        "Portcode_with space": "VN ***",
+        "Country": "Viet Nam",
+        "Portcode": "VN***",
+        "Country Code": "VN",
+        "Comma": "#VALUE!",
+        "City\/Location": "VIET NAM"
+    },
+    {
+        "Portname": "VLADIVOSTOK, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU VVO",
+        "Country": "Russian Federation",
+        "Portcode": "RUVVO",
+        "Country Code": "RU",
+        "Comma": 12,
+        "City\/Location": "VLADIVOSTOK"
+    },
+    {
+        "Portname": "VOSTOCHNYY, RUSSIAN FEDERATION",
+        "Portcode_with space": "RU VYP",
+        "Country": "Russian Federation",
+        "Portcode": "RUVYP",
+        "Country Code": "RU",
+        "Comma": 11,
+        "City\/Location": "VOSTOCHNYY"
+    },
+    {
+        "Portname": "WAKE ISLAND, U.S. MINOR OUTLYING ISLANDS",
+        "Portcode_with space": "UM AWK",
+        "Country": "United States Minor Outlying Islands",
+        "Portcode": "UMAWK",
+        "Country Code": "UM",
+        "Comma": 12,
+        "City\/Location": "WAKE ISLAND"
+    },
+    {
+        "Portname": "WELLINGTON, NEW ZEALAND",
+        "Portcode_with space": "NZ WLG",
+        "Country": "New Zealand",
+        "Portcode": "NZWLG",
+        "Country Code": "NZ",
+        "Comma": 11,
+        "City\/Location": "WELLINGTON"
+    },
+    {
+        "Portname": "WESTERN SAMOA",
+        "Portcode_with space": "WS ***",
+        "Country": "Samoa",
+        "Portcode": "WS***",
+        "Country Code": "WS",
+        "Comma": "#VALUE!",
+        "City\/Location": "WESTERN SAMOA"
+    },
+    {
+        "Portname": "WHITEGATE, IRISH REPUBLIC",
+        "Portcode_with space": "IE WHI",
+        "Country": "Ireland",
+        "Portcode": "IEWHI",
+        "Country Code": "IE",
+        "Comma": 10,
+        "City\/Location": "WHITEGATE"
+    },
+    {
+        "Portname": "WILHELMSHAVEN, GERMANY",
+        "Portcode_with space": "DE  WVN",
+        "Country": "Germany",
+        "Portcode": "DE WVN",
+        "Country Code": "DE",
+        "Comma": 14,
+        "City\/Location": "WILHELMSHAVEN"
+    },
+    {
+        "Portname": "WILLAPA HARBOR, WA",
+        "Portcode_with space": "US WIH",
+        "Country": "United States of America",
+        "Portcode": "USWIH",
+        "Country Code": "US",
+        "Comma": 15,
+        "City\/Location": "WILLAPA HARBOR"
+    },
+    {
+        "Portname": "WILLBRIDGE, OR",
+        "Portcode_with space": "US 4WB",
+        "Country": "United States of America",
+        "Portcode": "US4WB",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "WILLBRIDGE"
+    },
+    {
+        "Portname": "WILLIAMSTON, NC",
+        "Portcode_with space": "US WQX",
+        "Country": "United States of America",
+        "Portcode": "USWQX",
+        "Country Code": "US",
+        "Comma": 12,
+        "City\/Location": "WILLIAMSTON"
+    },
+    {
+        "Portname": "WILMINGTON, CA",
+        "Portcode_with space": "US WTN",
+        "Country": "United States of America",
+        "Portcode": "USWTN",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "WILMINGTON"
+    },
+    {
+        "Portname": "WILMINGTON, DE",
+        "Portcode_with space": "US ILG",
+        "Country": "United States of America",
+        "Portcode": "USILG",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "WILMINGTON"
+    },
+    {
+        "Portname": "WILMINGTON, NC",
+        "Portcode_with space": "US ILM",
+        "Country": "United States of America",
+        "Portcode": "USILM",
+        "Country Code": "US",
+        "Comma": 11,
+        "City\/Location": "WILMINGTON"
+    },
+    {
+        "Portname": "WOODFIBRE, CANADA",
+        "Portcode_with space": "CA WOO",
+        "Country": "Canada",
+        "Portcode": "CAWOO",
+        "Country Code": "CA",
+        "Comma": 10,
+        "City\/Location": "WOODFIBRE"
+    },
+    {
+        "Portname": "XIAMEN, CHINA",
+        "Portcode_with space": "CN XMN",
+        "Country": "People's Republic of China",
+        "Portcode": "CNXMN",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "XIAMEN"
+    },
+    {
+        "Portname": "XINGANG, CHINA",
+        "Portcode_with space": "CN XGG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNXGG",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "XINGANG"
+    },
+    {
+        "Portname": "XINSHA, CHINA",
+        "Portcode_with space": "CN XNA",
+        "Country": "People's Republic of China",
+        "Portcode": "CNXNA",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "XINSHA"
+    },
+    {
+        "Portname": "YANGSHAN, CHINA",
+        "Portcode_with space": "CN YAN",
+        "Country": "People's Republic of China",
+        "Portcode": "CNYAN",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "YANGSHAN"
+    },
+    {
+        "Portname": "YANGZHOU, CHINA",
+        "Portcode_with space": "CN YZH",
+        "Country": "People's Republic of China",
+        "Portcode": "CNYZH",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "YANGZHOU"
+    },
+    {
+        "Portname": "YANTAI, CHINA",
+        "Portcode_with space": "CN YNT",
+        "Country": "People's Republic of China",
+        "Portcode": "CNYNT",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "YANTAI"
+    },
+    {
+        "Portname": "YANTIAN, CHINA",
+        "Portcode_with space": "CN YTN",
+        "Country": "People's Republic of China",
+        "Portcode": "CNYTN",
+        "Country Code": "CN",
+        "Comma": 8,
+        "City\/Location": "YANTIAN"
+    },
+    {
+        "Portname": "YAP, FEDERATED STATES OF MICRONESIA",
+        "Portcode_with space": "FM YAP",
+        "Country": "Micronesia, Federated States of",
+        "Portcode": "FMYAP",
+        "Country Code": "FM",
+        "Comma": 4,
+        "City\/Location": "YAP"
+    },
+    {
+        "Portname": "YATSUSHIRO, JAPAN",
+        "Portcode_with space": "JP YAT",
+        "Country": "Japan",
+        "Portcode": "JPYAT",
+        "Country Code": "JP",
+        "Comma": 11,
+        "City\/Location": "YATSUSHIRO"
+    },
+    {
+        "Portname": "YAWATA, JAPAN",
+        "Portcode_with space": "JP YWT",
+        "Country": "Japan",
+        "Portcode": "JPYWT",
+        "Country Code": "JP",
+        "Comma": 7,
+        "City\/Location": "YAWATA"
+    },
+    {
+        "Portname": "YAWATAHAMA, JAPAN",
+        "Portcode_with space": "JP YWH",
+        "Country": "Japan",
+        "Portcode": "JPYWH",
+        "Country Code": "JP",
+        "Comma": 11,
+        "City\/Location": "YAWATAHAMA"
+    },
+    {
+        "Portname": "YEMEN",
+        "Portcode_with space": "YM ***",
+        "Country": "Yemen",
+        "Portcode": "YM***",
+        "Country Code": "YM",
+        "Comma": "#VALUE!",
+        "City\/Location": "YEMEN"
+    },
+    {
+        "Portname": "YEOSU, SOUTH KOREA",
+        "Portcode_with space": "KR YOS",
+        "Country": "Republic of Korea",
+        "Portcode": "KRYOS",
+        "Country Code": "KR",
+        "Comma": 6,
+        "City\/Location": "YEOSU"
+    },
+    {
+        "Portname": "YOKKAICHI, JAPAN",
+        "Portcode_with space": "JP YKK",
+        "Country": "Japan",
+        "Portcode": "JPYKK",
+        "Country Code": "JP",
+        "Comma": 10,
+        "City\/Location": "YOKKAICHI"
+    },
+    {
+        "Portname": "YOKOHAMA, JAPAN",
+        "Portcode_with space": "JP YOK",
+        "Country": "Japan",
+        "Portcode": "JPYOK",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "YOKOHAMA"
+    },
+    {
+        "Portname": "YOKOSUKA, JAPAN",
+        "Portcode_with space": "JP YOS",
+        "Country": "Japan",
+        "Portcode": "JPYOS",
+        "Country Code": "JP",
+        "Comma": 9,
+        "City\/Location": "YOKOSUKA"
+    },
+    {
+        "Portname": "ZAMBIA",
+        "Portcode_with space": "ZM ***",
+        "Country": "Zambia",
+        "Portcode": "ZM***",
+        "Country Code": "ZM",
+        "Comma": "#VALUE!",
+        "City\/Location": "ZAMBIA"
+    },
+    {
+        "Portname": "ZAMBOANGA, PHILIPPINES",
+        "Portcode_with space": "PH ZAM",
+        "Country": "Philippines",
+        "Portcode": "PHZAM",
+        "Country Code": "PH",
+        "Comma": 10,
+        "City\/Location": "ZAMBOANGA"
+    },
+    {
+        "Portname": "ZHANGJIAGANG, CHINA",
+        "Portcode_with space": "CN ZJG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNZJG",
+        "Country Code": "CN",
+        "Comma": 13,
+        "City\/Location": "ZHANGJIAGANG"
+    },
+    {
+        "Portname": "ZHANJIANG, CHINA",
+        "Portcode_with space": "CN ZNG",
+        "Country": "People's Republic of China",
+        "Portcode": "CNZNG",
+        "Country Code": "CN",
+        "Comma": 10,
+        "City\/Location": "ZHANJIANG"
+    },
+    {
+        "Portname": "ZHENJIANG, CHINA",
+        "Portcode_with space": "CN ZHE",
+        "Country": "People's Republic of China",
+        "Portcode": "CNZHE",
+        "Country Code": "CN",
+        "Comma": 10,
+        "City\/Location": "ZHENJIANG"
+    },
+    {
+        "Portname": "ZHOUSHAN, CHINA",
+        "Portcode_with space": "CN ZOS",
+        "Country": "People's Republic of China",
+        "Portcode": "CNZOS",
+        "Country Code": "CN",
+        "Comma": 9,
+        "City\/Location": "ZHOUSHAN"
+    },
+    {
+        "Portname": "ZHUHAI, CHINA",
+        "Portcode_with space": "CN ZUH",
+        "Country": "People's Republic of China",
+        "Portcode": "CNZUH",
+        "Country Code": "CN",
+        "Comma": 7,
+        "City\/Location": "ZHUHAI"
+    },
+    {
+        "Portname": "ZLITEN, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ZLI",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYZLI",
+        "Country Code": "LY",
+        "Comma": 7,
+        "City\/Location": "ZLITEN"
+    },
+    {
+        "Portname": "ZUARA, LIBYAN ARAB JAMAHIRIYA",
+        "Portcode_with space": "LY ZUA",
+        "Country": "Libyan Arab Jamahiriya",
+        "Portcode": "LYZUA",
+        "Country Code": "LY",
+        "Comma": 6,
+        "City\/Location": "ZUARA"
+    },
+    {
+        "Portname": "Port Blair",
+        "Portcode_with space": "IN IXZ 1",
+        "Country": "India",
+        "Portcode": "INIXZ1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Port Blair"
+    },
+    {
+        "Portname": "Nancowrie",
+        "Portcode_with space": "IN NAN 1",
+        "Country": "India",
+        "Portcode": "INNAN1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Nancowrie"
+    },
+    {
+        "Portname": "Kakinada",
+        "Portcode_with space": "IN KAK 1",
+        "Country": "India",
+        "Portcode": "INKAK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Kakinada"
+    },
+    {
+        "Portname": "Krishnapatnam",
+        "Portcode_with space": "IN KRI 1",
+        "Country": "India",
+        "Portcode": "INKRI1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Krishnapatnam"
+    },
+    {
+        "Portname": "Masulipatnam",
+        "Portcode_with space": "IN MAP 1",
+        "Country": "India",
+        "Portcode": "INMAP1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Masulipatnam"
+    },
+    {
+        "Portname": "Vishakapatnam",
+        "Portcode_with space": "IN VTZ 1",
+        "Country": "India",
+        "Portcode": "INVTZ1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Vishakapatnam"
+    },
+    {
+        "Portname": "Daman & Diu",
+        "Portcode_with space": "IN DAM 1",
+        "Country": "India",
+        "Portcode": "INDAM1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Daman & Diu"
+    },
+    {
+        "Portname": "Betul",
+        "Portcode_with space": "IN BET 1",
+        "Country": "India",
+        "Portcode": "INBET1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Betul"
+    },
+    {
+        "Portname": "Marmagoa",
+        "Portcode_with space": "IN MRM 1",
+        "Country": "India",
+        "Portcode": "INMRM1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Marmagoa"
+    },
+    {
+        "Portname": "Panaji Port",
+        "Portcode_with space": "IN PAN 1",
+        "Country": "India",
+        "Portcode": "INPAN1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Panaji Port"
+    },
+    {
+        "Portname": "Bedi(Including Rozi- Jamnagar)",
+        "Portcode_with space": "IN BED 1",
+        "Country": "India",
+        "Portcode": "INBED1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Bedi(Including Rozi- Jamnagar)"
+    },
+    {
+        "Portname": "Bhavanagar",
+        "Portcode_with space": "IN BHU 1",
+        "Country": "India",
+        "Portcode": "INBHU1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Bhavanagar"
+    },
+    {
+        "Portname": "Broach",
+        "Portcode_with space": "IN BRH 1",
+        "Country": "India",
+        "Portcode": "INBRH1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Broach"
+    },
+    {
+        "Portname": "Dahej",
+        "Portcode_with space": "IN DAH 1",
+        "Country": "India",
+        "Portcode": "INDAH1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Dahej"
+    },
+    {
+        "Portname": "Div",
+        "Portcode_with space": "IN DIV 1",
+        "Country": "India",
+        "Portcode": "INDIV1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Div"
+    },
+    {
+        "Portname": "Gogha",
+        "Portcode_with space": "IN GGA 1",
+        "Country": "India",
+        "Portcode": "INGGA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Gogha"
+    },
+    {
+        "Portname": "Kandla",
+        "Portcode_with space": "IN IXY 1",
+        "Country": "India",
+        "Portcode": "INIXY1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Kandla"
+    },
+    {
+        "Portname": "Jakhau",
+        "Portcode_with space": "IN JAK 1",
+        "Country": "India",
+        "Portcode": "INJAK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Jakhau"
+    },
+    {
+        "Portname": "Jafrabad",
+        "Portcode_with space": "IN JBD 1",
+        "Country": "India",
+        "Portcode": "INJBD1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Jafrabad"
+    },
+    {
+        "Portname": "Jodia",
+        "Portcode_with space": "IN JDA 1",
+        "Country": "India",
+        "Portcode": "INJDA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Jodia"
+    },
+    {
+        "Portname": "Koka",
+        "Portcode_with space": "IN KOK 1",
+        "Country": "India",
+        "Portcode": "INKOK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Koka"
+    },
+    {
+        "Portname": "Magdalla",
+        "Portcode_with space": "IN MDA 1",
+        "Country": "India",
+        "Portcode": "INMDA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Magdalla"
+    },
+    {
+        "Portname": "Muldwarka",
+        "Portcode_with space": "IN MDK 1",
+        "Country": "India",
+        "Portcode": "INMDK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Muldwarka"
+    },
+    {
+        "Portname": "Mangrol",
+        "Portcode_with space": "IN MGR 1",
+        "Country": "India",
+        "Portcode": "INMGR1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mangrol"
+    },
+    {
+        "Portname": "Mahuva",
+        "Portcode_with space": "IN MHA 1",
+        "Country": "India",
+        "Portcode": "INMHA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mahuva"
+    },
+    {
+        "Portname": "Maroli",
+        "Portcode_with space": "IN MLI 1",
+        "Country": "India",
+        "Portcode": "INMLI1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Maroli"
+    },
+    {
+        "Portname": "Mundra",
+        "Portcode_with space": "IN MUN 1",
+        "Country": "India",
+        "Portcode": "INMUN1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mundra"
+    },
+    {
+        "Portname": "Navlakhi",
+        "Portcode_with space": "IN NAV 1",
+        "Country": "India",
+        "Portcode": "INNAV1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Navlakhi"
+    },
+    {
+        "Portname": "Okha",
+        "Portcode_with space": "IN OKH 1",
+        "Country": "India",
+        "Portcode": "INOKH1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Okha"
+    },
+    {
+        "Portname": "Pipavav (Victor) Port",
+        "Portcode_with space": "IN PAV 1",
+        "Country": "India",
+        "Portcode": "INPAV1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Pipavav (Victor) Port"
+    },
+    {
+        "Portname": "Porbandar",
+        "Portcode_with space": "IN PBD 1",
+        "Country": "India",
+        "Portcode": "INPBD1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Porbandar"
+    },
+    {
+        "Portname": "Pindhara",
+        "Portcode_with space": "IN PIN 1",
+        "Country": "India",
+        "Portcode": "INPIN1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Pindhara"
+    },
+    {
+        "Portname": "Salaya",
+        "Portcode_with space": "IN SAL 1",
+        "Country": "India",
+        "Portcode": "INSAL1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Salaya"
+    },
+    {
+        "Portname": "Sikka",
+        "Portcode_with space": "IN SIK 1",
+        "Country": "India",
+        "Portcode": "INSIK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Sikka"
+    },
+    {
+        "Portname": "Talaja",
+        "Portcode_with space": "IN TJA 1",
+        "Country": "India",
+        "Portcode": "INTJA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Talaja"
+    },
+    {
+        "Portname": "Tuna",
+        "Portcode_with space": "IN TUN 1",
+        "Country": "India",
+        "Portcode": "INTUN1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Tuna"
+    },
+    {
+        "Portname": "Umbergoan",
+        "Portcode_with space": "IN UMB 1",
+        "Country": "India",
+        "Portcode": "INUMB1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Umbergoan"
+    },
+    {
+        "Portname": "Vadinar",
+        "Portcode_with space": "IN VAD 1",
+        "Country": "India",
+        "Portcode": "INVAD1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Vadinar"
+    },
+    {
+        "Portname": "Vansi-Borsi",
+        "Portcode_with space": "IN VSI 1",
+        "Country": "India",
+        "Portcode": "INVSI1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Vansi-Borsi"
+    },
+    {
+        "Portname": "Veraval",
+        "Portcode_with space": "IN VVA 1",
+        "Country": "India",
+        "Portcode": "INVVA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Veraval"
+    },
+    {
+        "Portname": "Mandvi",
+        "Portcode_with space": "IN MDV 1",
+        "Country": "India",
+        "Portcode": "INMDV1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mandvi"
+    },
+    {
+        "Portname": "Belekeri",
+        "Portcode_with space": "IN BLK 1",
+        "Country": "India",
+        "Portcode": "INBLK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Belekeri"
+    },
+    {
+        "Portname": "Coondapur(Ganguly)",
+        "Portcode_with space": "IN COO 1",
+        "Country": "India",
+        "Portcode": "INCOO1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Coondapur(Ganguly)"
+    },
+    {
+        "Portname": "Mangalore",
+        "Portcode_with space": "IN IXE 1",
+        "Country": "India",
+        "Portcode": "INIXE1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mangalore"
+    },
+    {
+        "Portname": "Karwar(including Sardeshivagad",
+        "Portcode_with space": "IN KRW 1",
+        "Country": "India",
+        "Portcode": "INKRW1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Karwar(including Sardeshivagad"
+    },
+    {
+        "Portname": "Malpe",
+        "Portcode_with space": "IN MAL 1",
+        "Country": "India",
+        "Portcode": "INMAL1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Malpe"
+    },
+    {
+        "Portname": "Tadri",
+        "Portcode_with space": "IN TRI 1",
+        "Country": "India",
+        "Portcode": "INTRI1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Tadri"
+    },
+    {
+        "Portname": "New Mangalore",
+        "Portcode_with space": "IN NML 1",
+        "Country": "India",
+        "Portcode": "INNML1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "New Mangalore"
+    },
+    {
+        "Portname": "Allepey",
+        "Portcode_with space": "IN ALF 1",
+        "Country": "India",
+        "Portcode": "INALF1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Allepey"
+    },
+    {
+        "Portname": "Azhikkat",
+        "Portcode_with space": "IN AZK 1",
+        "Country": "India",
+        "Portcode": "INAZK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Azhikkat"
+    },
+    {
+        "Portname": "C.H. Kozikode",
+        "Portcode_with space": "IN CCJ 1",
+        "Country": "India",
+        "Portcode": "INCCJ1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "C.H. Kozikode"
+    },
+    {
+        "Portname": "Cochin",
+        "Portcode_with space": "IN COK 1",
+        "Country": "India",
+        "Portcode": "INCOK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Cochin"
+    },
+    {
+        "Portname": "Minicoy Island",
+        "Portcode_with space": "IN MCI 1",
+        "Country": "India",
+        "Portcode": "INMCI1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Minicoy Island"
+    },
+    {
+        "Portname": "Tellichery",
+        "Portcode_with space": "IN TEL 1",
+        "Country": "India",
+        "Portcode": "INTEL1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Tellichery"
+    },
+    {
+        "Portname": "Vazhinjam",
+        "Portcode_with space": "IN VZJ 1",
+        "Country": "India",
+        "Portcode": "INVZJ1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Vazhinjam"
+    },
+    {
+        "Portname": "Neendakara",
+        "Portcode_with space": "IN NEE 1",
+        "Country": "India",
+        "Portcode": "INNEE1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Neendakara"
+    },
+    {
+        "Portname": "Mumbai(Ex Bombay)",
+        "Portcode_with space": "IN BOM 1",
+        "Country": "India",
+        "Portcode": "INBOM1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mumbai(Ex Bombay)"
+    },
+    {
+        "Portname": "Dabhot port",
+        "Portcode_with space": "IN DHP 1",
+        "Country": "India",
+        "Portcode": "INDHP1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Dabhot port"
+    },
+    {
+        "Portname": "Dharamtar",
+        "Portcode_with space": "IN DMT 1",
+        "Country": "India",
+        "Portcode": "INDMT1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Dharamtar"
+    },
+    {
+        "Portname": "Jawaharlal Nehru Port (Nhava Sheva)",
+        "Portcode_with space": "IN NSA 1",
+        "Country": "India",
+        "Portcode": "INNSA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Jawaharlal Nehru Port (Nhava Sheva)"
+    },
+    {
+        "Portname": "Redi",
+        "Portcode_with space": "IN RED 1",
+        "Country": "India",
+        "Portcode": "INRED1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Redi"
+    },
+    {
+        "Portname": "Ranpar",
+        "Portcode_with space": "IN RNR 1",
+        "Country": "India",
+        "Portcode": "INRNR1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Ranpar"
+    },
+    {
+        "Portname": "Ratnagiri",
+        "Portcode_with space": "IN RTC 1",
+        "Country": "India",
+        "Portcode": "INRTC1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Ratnagiri"
+    },
+    {
+        "Portname": "Revdanda",
+        "Portcode_with space": "IN RVD 1",
+        "Country": "India",
+        "Portcode": "INRVD1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Revdanda"
+    },
+    {
+        "Portname": "Dahanu",
+        "Portcode_with space": "IN DHU 1",
+        "Country": "India",
+        "Portcode": "INDHU1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Dahanu"
+    },
+    {
+        "Portname": "Bahabal Pur",
+        "Portcode_with space": "IN BBP 1",
+        "Country": "India",
+        "Portcode": "INBBP1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Bahabal Pur"
+    },
+    {
+        "Portname": "Gopalpur",
+        "Portcode_with space": "IN GPR 1",
+        "Country": "India",
+        "Portcode": "INGPR1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Gopalpur"
+    },
+    {
+        "Portname": "Paradeep",
+        "Portcode_with space": "IN PRT 1",
+        "Country": "India",
+        "Portcode": "INPRT1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Paradeep"
+    },
+    {
+        "Portname": "Karaikal",
+        "Portcode_with space": "IN KRK 1",
+        "Country": "India",
+        "Portcode": "INKRK1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Karaikal"
+    },
+    {
+        "Portname": "Pondicherry",
+        "Portcode_with space": "IN PNY 1",
+        "Country": "India",
+        "Portcode": "INPNY1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Pondicherry"
+    },
+    {
+        "Portname": "Cuddalore",
+        "Portcode_with space": "IN CDL 1",
+        "Country": "India",
+        "Portcode": "INCDL1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Cuddalore"
+    },
+    {
+        "Portname": "Ennore",
+        "Portcode_with space": "IN ENR 1",
+        "Country": "India",
+        "Portcode": "INENR1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Ennore"
+    },
+    {
+        "Portname": "Chennai",
+        "Portcode_with space": "IN MAA 1",
+        "Country": "India",
+        "Portcode": "INMAA1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Chennai"
+    },
+    {
+        "Portname": "Mandapam",
+        "Portcode_with space": "IN MDP 1",
+        "Country": "India",
+        "Portcode": "INMDP1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Mandapam"
+    },
+    {
+        "Portname": "Nagapattinam",
+        "Portcode_with space": "IN NPT 1",
+        "Country": "India",
+        "Portcode": "INNPT1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Nagapattinam"
+    },
+    {
+        "Portname": "Rameshwaram",
+        "Portcode_with space": "IN RAM 1",
+        "Country": "India",
+        "Portcode": "INRAM1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Rameshwaram"
+    },
+    {
+        "Portname": "Tuticorin",
+        "Portcode_with space": "IN TUT 1",
+        "Country": "India",
+        "Portcode": "INTUT1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Tuticorin"
+    },
+    {
+        "Portname": "Tirukkadayyur",
+        "Portcode_with space": "IN TYR 1",
+        "Country": "India",
+        "Portcode": "INTYR1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Tirukkadayyur"
+    },
+    {
+        "Portname": "Veppalodai",
+        "Portcode_with space": "IN VEP 1",
+        "Country": "India",
+        "Portcode": "INVEP1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Veppalodai"
+    },
+    {
+        "Portname": "Valinokkam",
+        "Portcode_with space": "IN VKM 1",
+        "Country": "India",
+        "Portcode": "INVKM1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Valinokkam"
+    },
+    {
+        "Portname": "Calcutta",
+        "Portcode_with space": "IN CCU 1",
+        "Country": "India",
+        "Portcode": "INCCU1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Calcutta"
+    },
+    {
+        "Portname": "Haldia",
+        "Portcode_with space": "IN HAL 1",
+        "Country": "India",
+        "Portcode": "INHAL1",
+        "Country Code": "IN",
+        "Comma": "#VALUE!",
+        "City\/Location": "Haldia"
+    }
+]
