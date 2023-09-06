@@ -1,0 +1,558 @@
+[
+    {
+        "Code": "20GP",
+        "Description": "GENERAL PURPOSE CONTAINER"
+    },
+    {
+        "Code": "20HR",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "20PF",
+        "Description": "FLAT (FIXED ENDS)"
+    },
+    {
+        "Code": "20TD",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20TG",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20TN",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22BU",
+        "Description": "BULK CONTAINER"
+    },
+    {
+        "Code": "22GP",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "22HR",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "22PC",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "22PF",
+        "Description": "FLAT (FIXED ENDS)"
+    },
+    {
+        "Code": "22RC",
+        "Description": "REEFER CONT.(NO FOOD)"
+    },
+    {
+        "Code": "22RS",
+        "Description": "BUILT-IN GEN. F. POWER SPLY OF REEF"
+    },
+    {
+        "Code": "22RT",
+        "Description": "REEFER CONTAINER"
+    },
+    {
+        "Code": "22SN",
+        "Description": "NAMED CARGO CONTAINER"
+    },
+    {
+        "Code": "22TD",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22TG",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22TN",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22UP",
+        "Description": "HARDTOP CONTAINER"
+    },
+    {
+        "Code": "22UT",
+        "Description": "OPEN TOP CONTAINER"
+    },
+    {
+        "Code": "22VH",
+        "Description": "VENTILATED CONTAINER"
+    },
+    {
+        "Code": "25GP",
+        "Description": "GP-CONTAINER OVER-HEIGHT"
+    },
+    {
+        "Code": "26GP",
+        "Description": "GP-CONTAINER OVER-HEIGHT"
+    },
+    {
+        "Code": "26HR",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "28TG",
+        "Description": "TANK FOR GAS"
+    },
+    {
+        "Code": "28UT",
+        "Description": "OPEN TOP (HALF HEIGHT)"
+    },
+    {
+        "Code": "28VH",
+        "Description": "VE-HALF-HEIGHT =1448 MM HEIGHT"
+    },
+    {
+        "Code": "29PL",
+        "Description": "PLATFORM"
+    },
+    {
+        "Code": "2EGP",
+        "Description": "GEN. PURP. WITHOUT VENT WIDTH 2.5M"
+    },
+    {
+        "Code": "42GP",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "42HR",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "42PC",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "42PF",
+        "Description": "FLAT (FIXED ENDS)"
+    },
+    {
+        "Code": "42PS",
+        "Description": "FLAT (SPACE SAVER)"
+    },
+    {
+        "Code": "42RC",
+        "Description": "REEFER CONT.(NO FOOD)"
+    },
+    {
+        "Code": "42RS",
+        "Description": "REEFER CONT.(DIESEL GEN.)"
+    },
+    {
+        "Code": "42RT",
+        "Description": "REEFER CONTAINER"
+    },
+    {
+        "Code": "42SN",
+        "Description": "NAMED CARGO CONTAINER"
+    },
+    {
+        "Code": "42TD",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42TG",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42TN",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42UP",
+        "Description": "HARDTOP CONTAINER"
+    },
+    {
+        "Code": "42UT",
+        "Description": "OPEN TOP CONTAINER"
+    },
+    {
+        "Code": "45BK",
+        "Description": "BULK CONTAINER"
+    },
+    {
+        "Code": "45GP",
+        "Description": "HIGH CUBE CONT."
+    },
+    {
+        "Code": "45PC",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "45RC",
+        "Description": "REEFER CONT.(NO FOOD)"
+    },
+    {
+        "Code": "45RT",
+        "Description": "REEFER HIGHCUBE CONTAINER"
+    },
+    {
+        "Code": "45UT",
+        "Description": "OPEN TOP CONTAINER"
+    },
+    {
+        "Code": "45UP",
+        "Description": "HIGH CUBE HARDTOP CONT."
+    },
+    {
+        "Code": "46HR",
+        "Description": "INSULATED SHIPPING CONTAINER"
+    },
+    {
+        "Code": "48TG",
+        "Description": "TANK FOR GAS"
+    },
+    {
+        "Code": "49PL",
+        "Description": "PLATFORM CONTAINER"
+    },
+    {
+        "Code": "4CGP",
+        "Description": "GP CONTAINER"
+    },
+    {
+        "Code": "L0GP",
+        "Description": "HIGH CUBE CONTAINER"
+    },
+    {
+        "Code": "L2GP",
+        "Description": "HIGH CUBE CONT."
+    },
+    {
+        "Code": "L5GP",
+        "Description": "HIGH CUBE CONT."
+    },
+    {
+        "Code": "20G0",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "20G1",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "20H0",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "20P1",
+        "Description": "FLAT (FIXED ENDS)"
+    },
+    {
+        "Code": "20T3",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T4",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T5",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T6",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T7",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T8",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T0",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T1",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "20T2",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22B0",
+        "Description": "BULK CONTAINER"
+    },
+    {
+        "Code": "22G0",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "22G1",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "22H0",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "22P3",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "22P8",
+        "Description": "FLAT (COLL.FLUSH FOLDING)"
+    },
+    {
+        "Code": "22P9",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "22P1",
+        "Description": "FLAT (FIXED ENDS)"
+    },
+    {
+        "Code": "22P7",
+        "Description": "FLAT (GENSET CARRIER)"
+    },
+    {
+        "Code": "22R9",
+        "Description": "REEFER CONT.(NO FOOD)"
+    },
+    {
+        "Code": "22R7",
+        "Description": "BUILT-IN GEN. F. POWER SPLY OF REEF"
+    },
+    {
+        "Code": "22R1",
+        "Description": "REEFER CONTAINER"
+    },
+    {
+        "Code": "22S1",
+        "Description": "NAMED CARGO CONTAINER"
+    },
+    {
+        "Code": "22T3",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T4",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T5",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T6",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T7",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T8",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T0",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T1",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22T2",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "22U6",
+        "Description": "HARDTOP CONTAINER"
+    },
+    {
+        "Code": "22U1",
+        "Description": "OPEN TOP CONTAINER"
+    },
+    {
+        "Code": "22V0",
+        "Description": "VENTILATED CONTAINER"
+    },
+    {
+        "Code": "22V2",
+        "Description": "VENTILATED CONTAINER"
+    },
+    {
+        "Code": "22V3",
+        "Description": "VENTILATED CONTAINER"
+    },
+    {
+        "Code": "25G0",
+        "Description": "GP-CONTAINER OVER-HEIGHT"
+    },
+    {
+        "Code": "26G0",
+        "Description": "GP-CONTAINER OVER-HEIGHT"
+    },
+    {
+        "Code": "26H0",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "28T8",
+        "Description": "TANK FOR GAS"
+    },
+    {
+        "Code": "28U1",
+        "Description": "OPEN TOP (HALF HEIGHT)"
+    },
+    {
+        "Code": "28V0",
+        "Description": "VE-HALF-HEIGHT =1448 MM HEIGHT"
+    },
+    {
+        "Code": "29P0",
+        "Description": "PLATFORM"
+    },
+    {
+        "Code": "2EG0",
+        "Description": "HIGH CUBE CONT. (WIDTH 2.5M)"
+    },
+    {
+        "Code": "42G0",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "42G1",
+        "Description": "GENERAL PURPOSE CONT."
+    },
+    {
+        "Code": "42H0",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "42P3",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "42P8",
+        "Description": "FLAT (COLL.FLUSH FOLDING)"
+    },
+    {
+        "Code": "42P9",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "42P1",
+        "Description": "FLAT (FIXED ENDS)"
+    },
+    {
+        "Code": "42P6",
+        "Description": "FLAT SPACE SAVER"
+    },
+    {
+        "Code": "42R9",
+        "Description": "REEFER CONT.(NO FOOD)"
+    },
+    {
+        "Code": "42R3",
+        "Description": "REEFER CONT.(DIESEL GEN.)"
+    },
+    {
+        "Code": "42R1",
+        "Description": "REEFER CONTAINER"
+    },
+    {
+        "Code": "42S1",
+        "Description": "NAMED CARGO CONTAINER"
+    },
+    {
+        "Code": "42T5",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42T6",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42T8",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42T2",
+        "Description": "TANK CONTAINER"
+    },
+    {
+        "Code": "42U6",
+        "Description": "HARDTOP CONTAINER"
+    },
+    {
+        "Code": "42U1",
+        "Description": "OPEN TOP CONTAINER"
+    },
+    {
+        "Code": "45B3",
+        "Description": "BULK CONTAINER"
+    },
+    {
+        "Code": "45G0",
+        "Description": "HIGH CUBE CONTAINER"
+    },
+    {
+        "Code": "45G1",
+        "Description": "HIGH CUBE CONT."
+    },
+    {
+        "Code": "45P3",
+        "Description": "FLAT (COLLAPSIBLE)"
+    },
+    {
+        "Code": "45P8",
+        "Description": "FLAT (COLL.FLUSH FOLDING)"
+    },
+    {
+        "Code": "45R9",
+        "Description": "REEFER CONT.(NO FOOD)"
+    },
+    {
+        "Code": "45R1",
+        "Description": "REEFER HIGHCUBE CONTAINER"
+    },
+    {
+        "Code": "45U1",
+        "Description": "OPEN TOP CONTAINER"
+    },
+    {
+        "Code": "45U6",
+        "Description": "HIGH CUBE HARDTOP CONT."
+    },
+    {
+        "Code": "46H0",
+        "Description": "INSULATED CONTAINER"
+    },
+    {
+        "Code": "48T8",
+        "Description": "TANK FOR GAS"
+    },
+    {
+        "Code": "49P0",
+        "Description": "PLATFORM"
+    },
+    {
+        "Code": "4CG0",
+        "Description": "GP CONTAINER (WIDTH 2.5 M)"
+    },
+    {
+        "Code": "L0G1",
+        "Description": "HIGH CUBE CONT."
+    },
+    {
+        "Code": "L2G1",
+        "Description": "HIGH CUBE CONT."
+    },
+    {
+        "Code": "L5G1",
+        "Description": "HIGH CUBE CONT."
+    }
+]
