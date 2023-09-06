@@ -1,0 +1,54 @@
+[
+    {
+        "Incoterms": "EXW",
+        "Description": "Ex Works"
+    },
+    {
+        "Incoterms": "FCA",
+        "Description": "Free Carrier"
+    },
+    {
+        "Incoterms": "FAS",
+        "Description": "Free Alongside Ship"
+    },
+    {
+        "Incoterms": "FOB",
+        "Description": "Free On Board"
+    },
+    {
+        "Incoterms": "CFR",
+        "Description": "Cost and Feight"
+    },
+    {
+        "Incoterms": "CIF",
+        "Description": "Cost Insurance and Freight"
+    },
+    {
+        "Incoterms": "CPT",
+        "Description": "Carriage Paid to"
+    },
+    {
+        "Incoterms": "CIP",
+        "Description": "Carriage and Insurance Paid to"
+    },
+    {
+        "Incoterms": "DAF",
+        "Description": "Delivered at Frontier"
+    },
+    {
+        "Incoterms": "DES",
+        "Description": "Delivered ex ship"
+    },
+    {
+        "Incoterms": "DEQ",
+        "Description": "Deliveed EX Quay"
+    },
+    {
+        "Incoterms": "DDU",
+        "Description": "Delivered Duty Unpaid"
+    },
+    {
+        "Incoterms": "DDP",
+        "Description": "Delivered Duty Paid"
+    }
+]
