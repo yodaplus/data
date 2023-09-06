@@ -1,0 +1,1617 @@
+[
+    {
+        "Country": "AFGHANISTAN",
+        "Currency": "Afghani",
+        "Code": "AFN",
+        "ISO Number": 971
+    },
+    {
+        "Country": "ALGERIA",
+        "Currency": "Algerian Dinar",
+        "Code": "DZD",
+        "ISO Number": 12
+    },
+    {
+        "Country": "AMERICAN SAMOA",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "ANDORRA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "AUSTRALIA",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "AUSTRIA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "BAHRAIN",
+        "Currency": "Bahraini Dinar",
+        "Code": "BHD",
+        "ISO Number": 48
+    },
+    {
+        "Country": "BANGLADESH",
+        "Currency": "Taka",
+        "Code": "BDT",
+        "ISO Number": 50
+    },
+    {
+        "Country": "BELGIUM",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "BHUTAN",
+        "Currency": "Indian Rupee",
+        "Code": "INR",
+        "ISO Number": 356
+    },
+    {
+        "Country": "BONAIRE, SINT EUSTATIUS AND SABA",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "BOUVET ISLAND",
+        "Currency": "Norwegian Krone",
+        "Code": "NOK",
+        "ISO Number": 578
+    },
+    {
+        "Country": "BRAZIL",
+        "Currency": "Brazilian Real",
+        "Code": "BRL",
+        "ISO Number": 986
+    },
+    {
+        "Country": "BRITISH INDIAN OCEAN TERRITORY ",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "BRUNEI DARUSSALAM",
+        "Currency": "Brunei Dollar",
+        "Code": "BND",
+        "ISO Number": 96
+    },
+    {
+        "Country": "CANADA",
+        "Currency": "Canadian Dollar",
+        "Code": "CAD",
+        "ISO Number": 124
+    },
+    {
+        "Country": "CHINA",
+        "Currency": "Yuan Renminbi",
+        "Code": "CNY",
+        "ISO Number": 156
+    },
+    {
+        "Country": "CHRISTMAS ISLAND",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "COCOS (KEELING) ISLANDS (THE)",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "COOK ISLANDS (THE)",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "ISO Number": 554
+    },
+    {
+        "Country": "COSTA RICA",
+        "Currency": "Costa Rican Colon",
+        "Code": "CRC",
+        "ISO Number": 188
+    },
+    {
+        "Country": "CURAÇAO",
+        "Currency": "Netherlands Antillean ",
+        "Code": "ANG",
+        "ISO Number": 532
+    },
+    {
+        "Country": "CYPRUS",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "DENMARK",
+        "Currency": "Danish Krone",
+        "Code": "DKK",
+        "ISO Number": 208
+    },
+    {
+        "Country": "DOMINICAN REPUBLIC (THE)",
+        "Currency": "Dominican Peso",
+        "Code": "DOP",
+        "ISO Number": 214
+    },
+    {
+        "Country": "ECUADOR",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "EGYPT",
+        "Currency": "Egyptian Pound",
+        "Code": "EGP",
+        "ISO Number": 818
+    },
+    {
+        "Country": "EL SALVADOR",
+        "Currency": "El Salvador Colon",
+        "Code": "SVC",
+        "ISO Number": 222
+    },
+    {
+        "Country": "ESTONIA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "ETHIOPIA",
+        "Currency": "Ethiopian Birr",
+        "Code": "ETB",
+        "ISO Number": 230
+    },
+    {
+        "Country": "EUROPEAN UNION",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "FAROE ISLANDS (THE)",
+        "Currency": "Danish Krone",
+        "Code": "DKK",
+        "ISO Number": 208
+    },
+    {
+        "Country": "FIJI",
+        "Currency": "Fiji Dollar",
+        "Code": "FJD",
+        "ISO Number": 242
+    },
+    {
+        "Country": "FINLAND",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "FRANCE",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "FRENCH GUIANA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "FRENCH POLYNESIA",
+        "Currency": "CFP Franc",
+        "Code": "XPF",
+        "ISO Number": 953
+    },
+    {
+        "Country": "GERMANY",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "GHANA",
+        "Currency": "Ghana Cedi",
+        "Code": "GHS",
+        "ISO Number": 936
+    },
+    {
+        "Country": "GREECE",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "GREENLAND",
+        "Currency": "Danish Krone",
+        "Code": "DKK",
+        "ISO Number": 208
+    },
+    {
+        "Country": "GUADELOUPE",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "GUAM",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "GUATEMALA",
+        "Currency": "Quetzal",
+        "Code": "GTQ",
+        "ISO Number": 320
+    },
+    {
+        "Country": "GUERNSEY",
+        "Currency": "Pound Sterling",
+        "Code": "GBP",
+        "ISO Number": 826
+    },
+    {
+        "Country": "GUINEA",
+        "Currency": "Guinea Franc",
+        "Code": "GNF",
+        "ISO Number": 324
+    },
+    {
+        "Country": "HAITI",
+        "Currency": "Gourde",
+        "Code": "HTG",
+        "ISO Number": 332
+    },
+    {
+        "Country": "HAITI",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "HEARD ISLAND AND McDONALD ",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "HOLY SEE (THE)",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "HONDURAS",
+        "Currency": "Lempira",
+        "Code": "HNL",
+        "ISO Number": 340
+    },
+    {
+        "Country": "HONG KONG",
+        "Currency": "Hong Kong Dollar",
+        "Code": "HKD",
+        "ISO Number": 344
+    },
+    {
+        "Country": "ICELAND",
+        "Currency": "Iceland Krona",
+        "Code": "ISK",
+        "ISO Number": 352
+    },
+    {
+        "Country": "INDIA",
+        "Currency": "Indian Rupee",
+        "Code": "INR",
+        "ISO Number": 356
+    },
+    {
+        "Country": "INDONESIA",
+        "Currency": "Rupiah",
+        "Code": "IDR",
+        "ISO Number": 360
+    },
+    {
+        "Country": "IRAN (ISLAMIC REPUBLIC OF)",
+        "Currency": "Iranian Rial",
+        "Code": "IRR",
+        "ISO Number": 364
+    },
+    {
+        "Country": "IRAQ",
+        "Currency": "Iraqi Dinar",
+        "Code": "IQD",
+        "ISO Number": 368
+    },
+    {
+        "Country": "IRELAND",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "ISLE OF MAN",
+        "Currency": "Pound Sterling",
+        "Code": "GBP",
+        "ISO Number": 826
+    },
+    {
+        "Country": "ITALY",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "JAMAICA",
+        "Currency": "Jamaican Dollar",
+        "Code": "JMD",
+        "ISO Number": 388
+    },
+    {
+        "Country": "JAPAN",
+        "Currency": "Yen",
+        "Code": "JPY",
+        "ISO Number": 392
+    },
+    {
+        "Country": "JERSEY",
+        "Currency": "Pound Sterling",
+        "Code": "GBP",
+        "ISO Number": 826
+    },
+    {
+        "Country": "JORDAN",
+        "Currency": "Jordanian Dinar",
+        "Code": "JOD",
+        "ISO Number": 400
+    },
+    {
+        "Country": "KENYA",
+        "Currency": "Kenyan Shilling",
+        "Code": "KES",
+        "ISO Number": 404
+    },
+    {
+        "Country": "KIRIBATI",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "KOREA (THE DEMOCRATIC PEOPLE’S ",
+        "Currency": "North Korean Won",
+        "Code": "KPW",
+        "ISO Number": 408
+    },
+    {
+        "Country": "KOREA (THE REPUBLIC OF)",
+        "Currency": "Won",
+        "Code": "KRW",
+        "ISO Number": 410
+    },
+    {
+        "Country": "KUWAIT",
+        "Currency": "Kuwaiti Dinar",
+        "Code": "KWD",
+        "ISO Number": 414
+    },
+    {
+        "Country": "LATVIA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "LEBANON",
+        "Currency": "Lebanese Pound",
+        "Code": "LBP",
+        "ISO Number": 422
+    },
+    {
+        "Country": "LESOTHO",
+        "Currency": "Rand",
+        "Code": "ZAR",
+        "ISO Number": 710
+    },
+    {
+        "Country": "LIBERIA",
+        "Currency": "Liberian Dollar",
+        "Code": "LRD",
+        "ISO Number": 430
+    },
+    {
+        "Country": "LIBYA",
+        "Currency": "Libyan Dinar",
+        "Code": "LYD",
+        "ISO Number": 434
+    },
+    {
+        "Country": "LIECHTENSTEIN",
+        "Currency": "Swiss Franc",
+        "Code": "CHF",
+        "ISO Number": 756
+    },
+    {
+        "Country": "LITHUANIA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "LUXEMBOURG",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "MALAWI",
+        "Currency": "Kwacha",
+        "Code": "MWK",
+        "ISO Number": 454
+    },
+    {
+        "Country": "MALAYSIA",
+        "Currency": "Malaysian Ringgit",
+        "Code": "MYR",
+        "ISO Number": 458
+    },
+    {
+        "Country": "MALTA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "MARSHALL ISLANDS (THE)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "MARTINIQUE",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "MAYOTTE",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "MEXICO",
+        "Currency": "Mexican Peso",
+        "Code": "MXN",
+        "ISO Number": 484
+    },
+    {
+        "Country": "MICRONESIA (FEDERATED STATES OF)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "MONACO",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "MONTENEGRO",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "MOROCCO",
+        "Currency": "Moroccan Dirham",
+        "Code": "MAD",
+        "ISO Number": 504
+    },
+    {
+        "Country": "MYANMAR",
+        "Currency": "Kyat",
+        "Code": "MMK",
+        "ISO Number": 104
+    },
+    {
+        "Country": "NAMIBIA",
+        "Currency": "Rand",
+        "Code": "ZAR",
+        "ISO Number": 710
+    },
+    {
+        "Country": "NAURU",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "NEPAL",
+        "Currency": "Nepalese Rupee",
+        "Code": "NPR",
+        "ISO Number": 524
+    },
+    {
+        "Country": "NETHERLANDS (THE)",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "NEW CALEDONIA",
+        "Currency": "CFP Franc",
+        "Code": "XPF",
+        "ISO Number": 953
+    },
+    {
+        "Country": "NEW ZEALAND",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "ISO Number": 554
+    },
+    {
+        "Country": "NICARAGUA",
+        "Currency": "Cordoba Oro",
+        "Code": "NIO",
+        "ISO Number": 558
+    },
+    {
+        "Country": "NIGERIA",
+        "Currency": "Naira",
+        "Code": "NGN",
+        "ISO Number": 566
+    },
+    {
+        "Country": "NIUE",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "ISO Number": 554
+    },
+    {
+        "Country": "NORFOLK ISLAND",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "NORTHERN MARIANA ISLANDS (THE)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "NORWAY",
+        "Currency": "Norwegian Krone",
+        "Code": "NOK",
+        "ISO Number": 578
+    },
+    {
+        "Country": "OMAN",
+        "Currency": "Rial Omani",
+        "Code": "OMR",
+        "ISO Number": 512
+    },
+    {
+        "Country": "PAKISTAN",
+        "Currency": "Pakistan Rupee",
+        "Code": "PKR",
+        "ISO Number": 586
+    },
+    {
+        "Country": "PALAU",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "PANAMA",
+        "Currency": "Balboa",
+        "Code": "PAB",
+        "ISO Number": 590
+    },
+    {
+        "Country": "PANAMA",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "PHILIPPINES (THE)",
+        "Currency": "Philippine Peso",
+        "Code": "PHP",
+        "ISO Number": 608
+    },
+    {
+        "Country": "PITCAIRN",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "ISO Number": 554
+    },
+    {
+        "Country": "PORTUGAL",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "PUERTO RICO",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "QATAR",
+        "Currency": "Qatari Rial",
+        "Code": "QAR",
+        "ISO Number": 634
+    },
+    {
+        "Country": "RWANDA",
+        "Currency": "Rwanda Franc",
+        "Code": "RWF",
+        "ISO Number": 646
+    },
+    {
+        "Country": "RÉUNION",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SAINT BARTHÉLEMY",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SAINT MARTIN (FRENCH PART)",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SAINT PIERRE AND MIQUELON",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SAN MARINO",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SAUDI ARABIA",
+        "Currency": "Saudi Riyal",
+        "Code": "SAR",
+        "ISO Number": 682
+    },
+    {
+        "Country": "SIERRA LEONE",
+        "Currency": "Leone",
+        "Code": "SLL",
+        "ISO Number": 694
+    },
+    {
+        "Country": "SINGAPORE",
+        "Currency": "Singapore Dollar",
+        "Code": "SGD",
+        "ISO Number": 702
+    },
+    {
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Currency": "Netherlands Antillean ",
+        "Code": "ANG",
+        "ISO Number": 532
+    },
+    {
+        "Country": "SLOVAKIA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SLOVENIA",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SOMALIA",
+        "Currency": "Somali Shilling",
+        "Code": "SOS",
+        "ISO Number": 706
+    },
+    {
+        "Country": "SOUTH AFRICA",
+        "Currency": "Rand",
+        "Code": "ZAR",
+        "ISO Number": 710
+    },
+    {
+        "Country": "SPAIN",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "SRI LANKA",
+        "Currency": "Sri Lanka Rupee",
+        "Code": "LKR",
+        "ISO Number": 144
+    },
+    {
+        "Country": "SUDAN (THE)",
+        "Currency": "Sudanese Pound",
+        "Code": "SDG",
+        "ISO Number": 938
+    },
+    {
+        "Country": "SVALBARD AND JAN MAYEN",
+        "Currency": "Norwegian Krone",
+        "Code": "NOK",
+        "ISO Number": 578
+    },
+    {
+        "Country": "SWEDEN",
+        "Currency": "Swedish Krona",
+        "Code": "SEK",
+        "ISO Number": 752
+    },
+    {
+        "Country": "SWITZERLAND",
+        "Currency": "Swiss Franc",
+        "Code": "CHF",
+        "ISO Number": 756
+    },
+    {
+        "Country": "SYRIAN ARAB REPUBLIC",
+        "Currency": "Syrian Pound",
+        "Code": "SYP",
+        "ISO Number": 760
+    },
+    {
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Currency": "Tanzanian Shilling",
+        "Code": "TZS",
+        "ISO Number": 834
+    },
+    {
+        "Country": "THAILAND",
+        "Currency": "Baht",
+        "Code": "THB",
+        "ISO Number": 764
+    },
+    {
+        "Country": "TIMOR-LESTE",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "TOKELAU",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "ISO Number": 554
+    },
+    {
+        "Country": "TRINIDAD AND TOBAGO",
+        "Currency": "Trinidad and Tobago Dollar",
+        "Code": "TTD",
+        "ISO Number": 780
+    },
+    {
+        "Country": "TUNISIA",
+        "Currency": "Tunisian Dinar",
+        "Code": "TND",
+        "ISO Number": 788
+    },
+    {
+        "Country": "TURKEY",
+        "Currency": "Turkish Lira",
+        "Code": "TRY",
+        "ISO Number": 949
+    },
+    {
+        "Country": "TURKS AND CAICOS ISLANDS (THE)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "TUVALU",
+        "Currency": "Australian Dollar",
+        "Code": "AUD",
+        "ISO Number": 36
+    },
+    {
+        "Country": "UGANDA",
+        "Currency": "Uganda Shilling",
+        "Code": "UGX",
+        "ISO Number": 800
+    },
+    {
+        "Country": "UNITED ARAB EMIRATES (THE)",
+        "Currency": "UAE Dirham",
+        "Code": "AED",
+        "ISO Number": 784
+    },
+    {
+        "Country": "UNITED KINGDOM OF GREAT BRITAIN ",
+        "Currency": "Pound Sterling",
+        "Code": "GBP",
+        "ISO Number": 826
+    },
+    {
+        "Country": "UNITED STATES MINOR OUTLYING ",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "UNITED STATES OF AMERICA (THE)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "URUGUAY",
+        "Currency": "Peso Uruguayo",
+        "Code": "UYU",
+        "ISO Number": 858
+    },
+    {
+        "Country": "VIRGIN ISLANDS (BRITISH)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "VIRGIN ISLANDS (U.S.)",
+        "Currency": "US Dollar",
+        "Code": "USD",
+        "ISO Number": 840
+    },
+    {
+        "Country": "WALLIS AND FUTUNA",
+        "Currency": "CFP Franc",
+        "Code": "XPF",
+        "ISO Number": 953
+    },
+    {
+        "Country": "WESTERN SAHARA",
+        "Currency": "Moroccan Dirham",
+        "Code": "MAD",
+        "ISO Number": 504
+    },
+    {
+        "Country": "ZIMBABWE",
+        "Currency": "Zimbabwe Dollar",
+        "Code": "ZWL",
+        "ISO Number": 932
+    },
+    {
+        "Country": "ÅLAND ISLANDS",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "ISO Number": 978
+    },
+    {
+        "Country": "Austria",
+        "Currency": "Schilling",
+        "Code": "ATS",
+        "ISO Number": 40
+    },
+    {
+        "Country": "Belgium ",
+        "Currency": "Franc",
+        "Code": "BEF",
+        "ISO Number": 56
+    },
+    {
+        "Country": "Equador",
+        "Currency": "Scure",
+        "Code": "ECS",
+        "ISO Number": 218
+    },
+    {
+        "Country": "Cyprus ",
+        "Currency": "Pound",
+        "Code": "CYP",
+        "ISO Number": 196
+    },
+    {
+        "Country": "Finland",
+        "Currency": "Markka",
+        "Code": "FIM",
+        "ISO Number": 246
+    },
+    {
+        "Country": "Greece ",
+        "Currency": "Darchma",
+        "Code": "GRD",
+        "ISO Number": 300
+    },
+    {
+        "Country": "Luxembourg",
+        "Currency": "Franc",
+        "Code": "LUF",
+        "ISO Number": 442
+    },
+    {
+        "Country": "Portugal",
+        "Currency": "Escudo",
+        "Code": "PTE",
+        "ISO Number": 620
+    },
+    {
+        "Country": "Scoltland ",
+        "Currency": "Pound",
+        "Code": "GBP",
+        "ISO Number": 826
+    },
+    {
+        "Country": "Spain ",
+        "Currency": "Peseta",
+        "Code": "ESP",
+        "ISO Number": 724
+    },
+    {
+        "Country": "ALBANIA",
+        "Currency": "Lek",
+        "Code": "ALL",
+        "ISO Number": 8
+    },
+    {
+        "Country": "ANGOLA",
+        "Currency": "Kwanza",
+        "Code": "AOA",
+        "ISO Number": 973
+    },
+    {
+        "Country": "ANGUILLA",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "ANTIGUA AND BARBUDA",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "ARGENTINA",
+        "Currency": "Argentine Peso",
+        "Code": "ARS",
+        "ISO Number": 32
+    },
+    {
+        "Country": "ARMENIA",
+        "Currency": "Armenian Dram",
+        "Code": "AMD",
+        "ISO Number": 51
+    },
+    {
+        "Country": "ARUBA",
+        "Currency": "Aruban Florin",
+        "Code": "AWG",
+        "ISO Number": 533
+    },
+    {
+        "Country": "AZERBAIJAN",
+        "Currency": "Azerbaijanian Manat",
+        "Code": "AZN",
+        "ISO Number": 944
+    },
+    {
+        "Country": "BAHAMAS (THE)",
+        "Currency": "Bahamian Dollar",
+        "Code": "BSD",
+        "ISO Number": 44
+    },
+    {
+        "Country": "BARBADOS",
+        "Currency": "Barbados Dollar",
+        "Code": "BBD",
+        "ISO Number": 52
+    },
+    {
+        "Country": "BELARUS",
+        "Currency": "Belarussian Ruble",
+        "Code": "BYR",
+        "ISO Number": 974
+    },
+    {
+        "Country": "BELIZE",
+        "Currency": "Belize Dollar",
+        "Code": "BZD",
+        "ISO Number": 84
+    },
+    {
+        "Country": "BENIN",
+        "Currency": "CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "BERMUDA",
+        "Currency": "Bermudian Dollar",
+        "Code": "BMD",
+        "ISO Number": 60
+    },
+    {
+        "Country": "BHUTAN",
+        "Currency": "Ngultrum",
+        "Code": "BTN",
+        "ISO Number": 64
+    },
+    {
+        "Country": "BOLIVIA (PLURINATIONAL STATE OF)",
+        "Currency": "Boliviano",
+        "Code": "BOB",
+        "ISO Number": 68
+    },
+    {
+        "Country": "BOLIVIA (PLURINATIONAL STATE OF)",
+        "Currency": "Mvdol",
+        "Code": "BOV",
+        "ISO Number": 984
+    },
+    {
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Currency": "Convertible Mark",
+        "Code": "BAM",
+        "ISO Number": 977
+    },
+    {
+        "Country": "BOTSWANA",
+        "Currency": "Pula",
+        "Code": "BWP",
+        "ISO Number": 72
+    },
+    {
+        "Country": "BULGARIA",
+        "Currency": "Bulgarian Lev",
+        "Code": "BGN",
+        "ISO Number": 975
+    },
+    {
+        "Country": "BURKINA FASO",
+        "Currency": "CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "BURUNDI",
+        "Currency": "Burundi Franc",
+        "Code": "BIF",
+        "ISO Number": 108
+    },
+    {
+        "Country": "CABO VERDE",
+        "Currency": "Cabo Verde Escudo",
+        "Code": "CVE",
+        "ISO Number": 132
+    },
+    {
+        "Country": "CAMBODIA",
+        "Currency": "Riel",
+        "Code": "KHR",
+        "ISO Number": 116
+    },
+    {
+        "Country": "CAMEROON",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "ISO Number": 950
+    },
+    {
+        "Country": "CAYMAN ISLANDS (THE)",
+        "Currency": "Cayman Islands Dollar",
+        "Code": "KYD",
+        "ISO Number": 136
+    },
+    {
+        "Country": "CENTRAL AFRICAN REPUBLIC (THE)",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "ISO Number": 950
+    },
+    {
+        "Country": "CHAD",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "ISO Number": 950
+    },
+    {
+        "Country": "CHILE",
+        "Currency": "Unidad de Fomento",
+        "Code": "CLF",
+        "ISO Number": 990
+    },
+    {
+        "Country": "CHILE",
+        "Currency": "Chilean Peso",
+        "Code": "CLP",
+        "ISO Number": 152
+    },
+    {
+        "Country": "COLOMBIA",
+        "Currency": "Colombian Peso",
+        "Code": "COP",
+        "ISO Number": 170
+    },
+    {
+        "Country": "COLOMBIA",
+        "Currency": "Unidad de Valor Real",
+        "Code": "COU",
+        "ISO Number": 970
+    },
+    {
+        "Country": "COMOROS (THE)",
+        "Currency": "Comoro Franc",
+        "Code": "KMF",
+        "ISO Number": 174
+    },
+    {
+        "Country": "CONGO (THE DEMOCRATIC REPUBLIC ",
+        "Currency": "Congolese Franc",
+        "Code": "CDF",
+        "ISO Number": 976
+    },
+    {
+        "Country": "CONGO (THE)",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "ISO Number": 950
+    },
+    {
+        "Country": "CROATIA",
+        "Currency": "Kuna",
+        "Code": "HRK",
+        "ISO Number": 191
+    },
+    {
+        "Country": "CUBA",
+        "Currency": "Peso Convertible",
+        "Code": "CUC",
+        "ISO Number": 931
+    },
+    {
+        "Country": "CUBA",
+        "Currency": "Cuban Peso",
+        "Code": "CUP",
+        "ISO Number": 192
+    },
+    {
+        "Country": "CZECH REPUBLIC (THE)",
+        "Currency": "Czech Koruna",
+        "Code": "CZK",
+        "ISO Number": 203
+    },
+    {
+        "Country": "CÔTE D'IVOIRE",
+        "Currency": "CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "DJIBOUTI",
+        "Currency": "Djibouti Franc",
+        "Code": "DJF",
+        "ISO Number": 262
+    },
+    {
+        "Country": "DOMINICA",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "EQUATORIAL GUINEA",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "ISO Number": 950
+    },
+    {
+        "Country": "ERITREA",
+        "Currency": "Nakfa",
+        "Code": "ERN",
+        "ISO Number": 232
+    },
+    {
+        "Country": "FALKLAND ISLANDS (THE) [MALVINAS]",
+        "Currency": "Falkland Islands Pound",
+        "Code": "FKP",
+        "ISO Number": 238
+    },
+    {
+        "Country": "GABON",
+        "Currency": "CFA Franc BEAC",
+        "Code": "XAF",
+        "ISO Number": 950
+    },
+    {
+        "Country": "GAMBIA (THE)",
+        "Currency": "Dalasi",
+        "Code": "GMD",
+        "ISO Number": 270
+    },
+    {
+        "Country": "GEORGIA",
+        "Currency": "Lari",
+        "Code": "GEL",
+        "ISO Number": 981
+    },
+    {
+        "Country": "GIBRALTAR",
+        "Currency": "Gibraltar Pound",
+        "Code": "GIP",
+        "ISO Number": 292
+    },
+    {
+        "Country": "GRENADA",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "GUINEA-BISSAU",
+        "Currency": "CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "GUYANA",
+        "Currency": "Guyana Dollar",
+        "Code": "GYD",
+        "ISO Number": 328
+    },
+    {
+        "Country": "HUNGARY",
+        "Currency": "Forint",
+        "Code": "HUF",
+        "ISO Number": 348
+    },
+    {
+        "Country": "ISRAEL",
+        "Currency": "New Israeli Sheqel",
+        "Code": "ILS",
+        "ISO Number": 376
+    },
+    {
+        "Country": "KAZAKHSTAN",
+        "Currency": "Tenge",
+        "Code": "KZT",
+        "ISO Number": 398
+    },
+    {
+        "Country": "KYRGYZSTAN",
+        "Currency": "Som",
+        "Code": "KGS",
+        "ISO Number": 417
+    },
+    {
+        "Country": "LAO PEOPLE’S DEMOCRATIC REPUBLIC Kip",
+        "Code": "LAK",
+        "ISO Number": 418
+    },
+    {
+        "Country": "LESOTHO Loti",
+        "Code": "LSL",
+        "ISO Number": 426
+    },
+    {
+        "Country": "MACAO Pataca",
+        "Code": "MOP",
+        "ISO Number": 446
+    },
+    {
+        "Country": "MACEDONIA (THE FORMER YUGOSLAV Denar",
+        "Code": "MKD",
+        "ISO Number": 807
+    },
+    {
+        "Country": "MADAGASCAR Malagasy Ariary",
+        "Code": "MGA",
+        "ISO Number": 969
+    },
+    {
+        "Country": "MALDIVES Rufiyaa",
+        "Code": "MVR",
+        "ISO Number": 462
+    },
+    {
+        "Country": "MALI CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "MAURITANIA Ouguiya",
+        "Code": "MRU",
+        "ISO Number": 929
+    },
+    {
+        "Country": "MAURITIUS Mauritius Rupee",
+        "Code": "MUR",
+        "ISO Number": 480
+    },
+    {
+        "Country": "MEMBER COUNTRIES OF THE AFRICAN ADB Unit of Account",
+        "Code": "XUA",
+        "ISO Number": 965
+    },
+    {
+        "Country": "MEXICO Mexican Unidad de ",
+        "Code": "MXV",
+        "ISO Number": 979
+    },
+    {
+        "Country": "MOLDOVA (THE REPUBLIC OF) Moldovan Leu",
+        "Code": "MDL",
+        "ISO Number": 498
+    },
+    {
+        "Country": "MONGOLIA Tugrik",
+        "Code": "MNT",
+        "ISO Number": 496
+    },
+    {
+        "Country": "MONTSERRAT East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "MOZAMBIQUE Mozambique Metical",
+        "Code": "MZN",
+        "ISO Number": 943
+    },
+    {
+        "Country": "NAMIBIA Namibia Dollar",
+        "Code": "NAD",
+        "ISO Number": 516
+    },
+    {
+        "Country": "NIGER (THE) CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "PAPUA NEW GUINEA",
+        "Currency": "Kina",
+        "Code": "PGK",
+        "ISO Number": 598
+    },
+    {
+        "Country": "PARAGUAY",
+        "Currency": "Guarani",
+        "Code": "PYG",
+        "ISO Number": 600
+    },
+    {
+        "Country": "PERU",
+        "Currency": "Nuevo Sol",
+        "Code": "PEN",
+        "ISO Number": 604
+    },
+    {
+        "Country": "POLAND",
+        "Currency": "Zloty",
+        "Code": "PLN",
+        "ISO Number": 985
+    },
+    {
+        "Country": "ROMANIA",
+        "Currency": "Romanian Leu",
+        "Code": "RON",
+        "ISO Number": 946
+    },
+    {
+        "Country": "RUSSIAN FEDERATION (THE)",
+        "Currency": "Russian Ruble",
+        "Code": "RUB",
+        "ISO Number": 643
+    },
+    {
+        "Country": "SAINT HELENA, ASCENSION AND ",
+        "Currency": "Saint Helena Pound",
+        "Code": "SHP",
+        "ISO Number": 654
+    },
+    {
+        "Country": "SAINT KITTS AND NEVIS",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "SAINT LUCIA",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "SAINT VINCENT AND THE GRENADINES",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "ISO Number": 951
+    },
+    {
+        "Country": "SAMOA",
+        "Currency": "Tala",
+        "Code": "WST",
+        "ISO Number": 882
+    },
+    {
+        "Country": "SAO TOME AND PRINCIPE",
+        "Currency": "Dobra",
+        "Code": "STN",
+        "ISO Number": 930
+    },
+    {
+        "Country": "SENEGAL",
+        "Currency": "CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "SERBIA",
+        "Currency": "Serbian Dinar",
+        "Code": "RSD",
+        "ISO Number": 941
+    },
+    {
+        "Country": "SEYCHELLES",
+        "Currency": "Seychelles Rupee",
+        "Code": "SCR",
+        "ISO Number": 690
+    },
+    {
+        "Country": "SISTEMA UNITARIO DE ",
+        "Currency": "Sucre",
+        "Code": "XSU",
+        "ISO Number": 994
+    },
+    {
+        "Country": "SOLOMON ISLANDS",
+        "Currency": "Solomon Islands Dollar",
+        "Code": "SBD",
+        "ISO Number": 90
+    },
+    {
+        "Country": "SOUTH SUDAN",
+        "Currency": "South Sudanese Pound",
+        "Code": "SSP",
+        "ISO Number": 728
+    },
+    {
+        "Country": "SURINAME",
+        "Currency": "Surinam Dollar",
+        "Code": "SRD",
+        "ISO Number": 968
+    },
+    {
+        "Country": "SWAZILAND",
+        "Currency": "Lilangeni",
+        "Code": "SZL",
+        "ISO Number": 748
+    },
+    {
+        "Country": "SWITZERLAND",
+        "Currency": "WIR Euro",
+        "Code": "CHE",
+        "ISO Number": 947
+    },
+    {
+        "Country": "SWITZERLAND",
+        "Currency": "WIR Franc",
+        "Code": "CHW",
+        "ISO Number": 948
+    },
+    {
+        "Country": "TAIWAN (PROVINCE OF CHINA)",
+        "Currency": "New Taiwan Dollar",
+        "Code": "TWD",
+        "ISO Number": 901
+    },
+    {
+        "Country": "TAJIKISTAN",
+        "Currency": "Somoni",
+        "Code": "TJS",
+        "ISO Number": 972
+    },
+    {
+        "Country": "TOGO",
+        "Currency": "CFA Franc BCEAO",
+        "Code": "XOF",
+        "ISO Number": 952
+    },
+    {
+        "Country": "TONGA",
+        "Currency": "Pa’anga",
+        "Code": "TOP",
+        "ISO Number": 776
+    },
+    {
+        "Country": "TURKMENISTAN",
+        "Currency": "Turkmenistan New Manat",
+        "Code": "TMT",
+        "ISO Number": 934
+    },
+    {
+        "Country": "UKRAINE",
+        "Currency": "Hryvnia",
+        "Code": "UAH",
+        "ISO Number": 980
+    },
+    {
+        "Country": "UNITED STATES OF AMERICA (THE)",
+        "Currency": "US Dollar (Next day)",
+        "Code": "USN",
+        "ISO Number": 997
+    },
+    {
+        "Country": "URUGUAY",
+        "Currency": "Uruguay Peso",
+        "Code": "UYI",
+        "ISO Number": 940
+    },
+    {
+        "Country": "UZBEKISTAN",
+        "Currency": "Uzbekistan Sum",
+        "Code": "UZS",
+        "ISO Number": 860
+    },
+    {
+        "Country": "VANUATU",
+        "Currency": "Vatu",
+        "Code": "VUV",
+        "ISO Number": 548
+    },
+    {
+        "Country": "VENEZUELA (BOLIVARIAN REPUBLIC ",
+        "Currency": "Bolivar",
+        "Code": "VEF",
+        "ISO Number": 937
+    },
+    {
+        "Country": "VIET NAM",
+        "Currency": "Dong",
+        "Code": "VND",
+        "ISO Number": 704
+    },
+    {
+        "Country": "YEMEN",
+        "Currency": "Yemeni Rial",
+        "Code": "YER",
+        "ISO Number": 886
+    },
+    {
+        "Country": "ZAMBIA",
+        "Currency": "Zambian Kwacha",
+        "Code": "ZMW",
+        "ISO Number": 967
+    }
+]
